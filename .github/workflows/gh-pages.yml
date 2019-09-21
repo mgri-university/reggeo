@@ -23,4 +23,5 @@ jobs:
           PUBLISH_DIR: ./public
           # ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          # PERSONAL_TOKEN2: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: 33443434
