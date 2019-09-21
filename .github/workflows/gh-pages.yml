@@ -1,4 +1,5 @@
-name: Build and publish MGRI community site
+name: github pages
+
 on:
   push:
     branches:
@@ -6,14 +7,15 @@ on:
 
 jobs:
   build-and-deploy:
-    name: build asciidoctor files
-    # This job runs on Linux
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v1
-      - uses: docker://asciidoctor/docker-asciidoctor@sha256:56fd995a52c5b997c70cbcba49d93cb7f70a911e69c1cf7029e8135dc11e5292
+      - uses: actions/checkout@master
+
+      - name: generate html from adoc files
+        uses: docker://asciidoctor/docker-asciidoctor@sha256:56fd995a52c5b997c70cbcba49d93cb7f70a911e69c1cf7029e8135dc11e5292
         with:
           args: 'sh -c "asciidoctor *.adoc -D public"'
+
       - name: deploy
         uses: docker://peaceiris/gh-pages:v2.3.1
         env:
