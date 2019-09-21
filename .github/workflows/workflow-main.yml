@@ -1,4 +1,4 @@
-name: Greet Everyone
+name: Build and publish MGRI community site
 # This workflow is triggered on pushes to the repository.
 on:
   push:
@@ -6,18 +6,18 @@ on:
       - master
 
 jobs:
-  build:
-    # Job name is Greeting
-    name: Greeting
+  build-and-deploy:
+    name: build asciidoctor files
     # This job runs on Linux
     runs-on: ubuntu-18.04
     steps:
-      # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
-      - name: Hello world
-        uses: actions/hello-world-javascript-action@v1
+      - uses: actions/checkout@v1
+      - uses: mgred/asciidoctor-action@master
         with:
-          who-to-greet: 'Mona the Octocat'
-        id: hello
-      # This step prints an output (time) from the previous step's action.
-      - name: Echo the greeting's time
-        run: echo 'The time was ${{ steps.hello.outputs.time }}.'
+          args: asciidoctor *.adoc -D pubilc
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v2.3.1
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public
