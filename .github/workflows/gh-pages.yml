@@ -14,13 +14,13 @@ jobs:
       - name: Build
         uses: docker://asciidoctor/docker-asciidoctor@sha256:56fd995a52c5b997c70cbcba49d93cb7f70a911e69c1cf7029e8135dc11e5292
         with:
-          args: 'sh -c "asciidoctor *.adoc && ls -la"'
+          args: 'sh -c "asciidoctor *.adoc -D docs"'
 
       - name: Deploy
         uses: docker://peaceiris/gh-pages:v2.3.1
         env:
           PUBLISH_BRANCH: master
-          PUBLISH_DIR: ./public
+          PUBLISH_DIR: ./docs
           # ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
