@@ -21,8 +21,7 @@ jobs:
         env:
           PUBLISH_BRANCH: master
           PUBLISH_DIR: ./docs
-          # ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          # PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         with:
           emptyCommits: true

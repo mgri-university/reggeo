@@ -1,5 +1,8 @@
 = МГРИ
+Doc Writer <samoxvalovs@gmail.com>
+:toc: right
 
 == Сайт кафедры Гео...
 
+=== Ещё что нибуть о сайте
 
