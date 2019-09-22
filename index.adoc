@@ -6,5 +6,4 @@
 image::struktures.jpg[]
 === вторая страничка
 === третья  страничка
-=== 4  страничк
 почта для связи <samoxvalovs@gmail.com>
