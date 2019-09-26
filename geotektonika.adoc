@@ -1,5 +1,7 @@
 = Геотектоника
 
+==== https://mgri-university.github.io/reggeo/[на главную страницу]
+
 == Описание дисциплины(нужна вставка)
 === Список заданий для студентов 5 курса
 
@@ -7,11 +9,8 @@
 
 ==== Список фаилов для выполнениязадания:
 ===== https://mgri-university.github.io/reggeo/images/struktures.jpg[1. Схема крупных структур]
+===== https://mgri-university.github.io/reggeo/images/UO_schema.doc[2. Условные обозначения к Схеме структур]
+===== https://mgri-university.github.io/reggeo/images/tectonic.zip[3. Тектоническая карта мира]
 
-===== https://mgri-university.github.io/reggeo/images/tectonic_wmap.jpg[2. Тектоническая карта мира]
 
-===== Section Level 4
 
-====== Section Level 
-
-= Section Level 0
