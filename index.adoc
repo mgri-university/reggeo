@@ -3,7 +3,7 @@
 :toc: right
 
  Сайт (в разработке) кафедры Палеонтологиии и Региональной геологии
- Преподаваемые дисциплины
+ Преподаваемые дисциплины1
 
 == https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
 include::geotektonika.adoc[]
