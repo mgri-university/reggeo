@@ -1,9 +1,9 @@
-https://mgri-university.github.io/reggeo/index.html[Кафедра палеонтологии и региональной геологии. МГРИ]
+https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ]
  
 :toc: right
 
 == Сайт (в разработке) кафедры Палеонтологиии и Региональной геологии
-=== Преподаваемые дициплины
-==== https://mgri-university.github.io/reggeo/geotektonika.html[геотектоника]
-
+=== Преподаваемые дисциплины
+==== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
+==== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
 почта для связи1 <samoxvalovs@gmail.com>

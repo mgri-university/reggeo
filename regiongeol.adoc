@@ -1,0 +1,15 @@
+= Региональная Геология
+
+== Описание дисциплины(нужна вставка)
+=== Список заданий для студентов 4 курса
+
+==== Список заданий Осеннего семестра
+===== https://mgri-university.github.io/reggeo/images/struktures.jpg[Материалы для выполнения задания №1]
+
+==== Section Level 3
+
+===== Section Level 4
+
+====== Section Level 5
+
+= Section Level 0
