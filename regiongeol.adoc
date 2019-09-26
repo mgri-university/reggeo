@@ -4,7 +4,8 @@
 === Список заданий для студентов 4 курса
 
 ==== Список заданий Осеннего семестра
-===== https://mgri-university.github.io/reggeo/images/struktures.jpg[Материалы для выполнения задания №1]
+image::./images/tect-1-title.jpg[]
+===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
 ==== Section Level 3
 
