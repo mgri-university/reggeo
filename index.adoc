@@ -2,10 +2,10 @@
  
 :toc: right
 
- Сайт (в разработке) кафедры Палеонтологиии и Региональной геологии
- Преподаваемые дисциплины
+== Сайт (в разработке) кафедры Палеонтологиии и Региональной геологии
+== Преподаваемые дисциплины
 
-== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
-include::geotektonika.adoc[]
-== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
+=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
+
+=== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
 почта для связи <samoxvalovs@gmail.com>
