@@ -4,7 +4,7 @@
 === Список заданий для студентов 5 курса
 
 ==== Задание №1 Схема расположения крупнейших тектонических структур земной коры и литосферных плит
-===== https://mgri-university.github.io/reggeo/images[Материалы для выполнения задания №1]
+===== https://mgri-university.github.io/reggeo/images/struktures.jpg[Материалы для выполнения задания №1]
 
 ==== Section Level 3
 
