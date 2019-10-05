@@ -1,20 +1,23 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ]
- 
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ(сайт в разработке)]
 :toc: left
-:toc-title: Table of Adventures
+:toclevels: 4
+:toc-title: Разделы:
 
-== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
 
-== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
+=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
 
-== Палеонтология 
+=== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
 
-The river rages through the cavern, rattling its content...
+=== Палеонтология 
 
-== Стратиграфия
+краткое описание...
 
-новое 
+=== Стратиграфия
 
-== Формационный анализ
+новое описание
 
-===== почта для связи1 <samoxvalovs@gmail.com>
+=== Формационный анализ
+
+
+
+ почта для связи1 <samoxvalovs@gmail.com>
