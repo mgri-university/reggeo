@@ -19,5 +19,5 @@
 === Формационный анализ
 
 
-
- почта для связи1 <samoxvalovs@gmail.com>
+footnote:[почта для связи <samoxvalovs@gmail.com>]
+ 

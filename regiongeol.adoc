@@ -1,9 +1,24 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ(сайт в разработке)]
+
 = Региональная Геология
 
 == Описание дисциплины(нужна вставка)
 === Список заданий для студентов 4 курса
 
 ==== Список заданий Осеннего семестра
+
+Задание №1
+
+|=== 
+
+| Учебное пособие| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]  
+
+| Условные обозначения | Cell in column 2, row 2
+
+| графическое приложение №1| image::./images/tect-1-title.jpg[]
+===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf
+
+|=== 
 image::./images/tect-1-title.jpg[]
 ===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
