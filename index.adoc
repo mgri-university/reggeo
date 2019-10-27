@@ -3,11 +3,21 @@
 :toclevels: 4
 :toc-title: Разделы:
 
+=== https://vk.com/reggeomgri[Новости кафедры (старничка вконтакте)]
+
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
 === https://mgri-university.github.io/reggeo/disciplines.html[Учебные дисциплины и рабочие программы]
 
 === https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
+
+Крымская практика
+
+Публикации кафедры
+
+Галерея
+
+
 
 ''''
 
