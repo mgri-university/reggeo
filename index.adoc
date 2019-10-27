@@ -2,8 +2,8 @@
 :toc: left
 :toclevels: 4
 :toc-title: Разделы:
-:experimental: 
-:btn:
+:experimental:
+:icons: font
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
@@ -21,11 +21,11 @@
 
 === Формационный анализ
 
+[BTN]
+To save the file, select menu:File[Save].
 Press the btn:[OK] button when you are finished.
-
 Select a file in the file navigator and click btn:[Open].
 
+''''
 
-
-footnote:[почта для связи <samoxvalovs@gmail.com>]
- 
+почта для связи samoxvalovs@gmail.com
