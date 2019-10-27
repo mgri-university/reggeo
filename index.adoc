@@ -3,6 +3,7 @@
 :toclevels: 4
 :toc-title: Разделы:
 
+=== https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
 === https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
 
@@ -17,6 +18,11 @@
 новое описание
 
 === Формационный анализ
+
+Press the btn:[OK] button when you are finished.
+
+Select a file in the file navigator and click btn:[Open].
+
 
 
 footnote:[почта для связи <samoxvalovs@gmail.com>]

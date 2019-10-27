@@ -15,8 +15,7 @@
 
 | Условные обозначения | Cell in column 2, row 2
 
-| графическое приложение №1| image::./images/tect-1-title.jpg[]
-===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf
+| графическое приложение №1| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[карта тектонических структур(пример)]
 
 |=== 
 image::./images/tect-1-title.jpg[]
