@@ -2,6 +2,7 @@
 :toc: left
 :toclevels: 4
 :toc-title: Разделы:
+:experimental: 
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
