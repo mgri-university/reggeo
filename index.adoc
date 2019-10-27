@@ -2,29 +2,12 @@
 :toc: left
 :toclevels: 4
 :toc-title: Разделы:
-:experimental:
-:icons: font
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
-=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
+=== https://mgri-university.github.io/reggeo/disciplines.html[Учебные дисциплины и рабочие программы]
 
-=== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
-
-=== Палеонтология 
-
-краткое описание...
-
-=== Стратиграфия
-
-новое описание
-
-=== Формационный анализ
-
-[BTN]
-To save the file, select menu:File[Save].
-Press the btn:[OK] button when you are finished.
-Select a file in the file navigator and click btn:[Open].
+=== https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 
 ''''
 
