@@ -1,6 +1,17 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ(сайт в разработке)]
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
 
-список учебных пособий...
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+|=== 
+
+| В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
+
+| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
+
+|=== 
 
 ''''
 
