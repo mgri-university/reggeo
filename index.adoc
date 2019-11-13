@@ -1,8 +1,5 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. ]
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
-:toc: left
-:toclevels: 4
-:toc-title: Разделы:
 :imagesdir: images
 
 [link=https://mgri-university.github.io/reggeo/index.html]
