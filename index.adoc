@@ -7,12 +7,6 @@
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
-
-[#img-sunset]
-.A mountain sunset
-[link=https://www.flickr.com/photos/javh/5448336655]
-image::sunset.jpg[Sunset,300,200]
-
 === https://vk.com/reggeomgri[Новости кафедры (страничка вконтакте)]
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]

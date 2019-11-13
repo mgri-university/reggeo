@@ -1,5 +1,9 @@
-= https://mgri-university.github.io/reggeo/[Кафедра Палеонтологии и Региональной Геологии. МГРИ(сайт в разработке)]
+= https://mgri-university.github.io/reggeo/[Кафедра Палеонтологии и Региональной Геологии. МГРИ]
+(сайт в разработке)
 :experimental: 
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу]
 
 == Геотектоника
 
