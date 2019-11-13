@@ -1,4 +1,5 @@
-= image::emb2010.jpg https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ(сайт в разработке)]
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии. МГРИ(сайт в разработке)]
+image::./images/emb2010.jpg[] 
 :toc: left
 :toclevels: 4
 :toc-title: Разделы:
