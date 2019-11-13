@@ -56,7 +56,7 @@ image::emb2010.jpg[На главную страницу]
 
 
 .A Схема тектонических структур
-[link=https://mgri-university.github.io/reggeo/docs/images/struktures.jpg]
+[link=https://mgri-university.github.io/reggeo/images/struktures.jpg]
 image::struktures.jpg[Структуры,300,200]
 
 ==== Лабораторная работа № 2. Составление схемы расположения литосферных плит на поверхности Земли.
