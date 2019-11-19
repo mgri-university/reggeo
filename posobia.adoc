@@ -4,13 +4,21 @@
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
+== Материалы по курсу Региональной геологии
 
 |=== 
 
 | В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
 
-| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
+|=== 
 
+Материалы по курсу Геотектоники
+
+|=== 
+
+| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
+| Условные обозначения к Тектонической Схеме Восточно-Европейской платформы | https://mgri-university.github.io/reggeo/images/VEP.pdf[скачать]
+| Условные обозначения к Тектонической Схеме Сибирской платформы | https://mgri-university.github.io/reggeo/images/SP.pdf[скачать]
 |=== 
 
 ''''
