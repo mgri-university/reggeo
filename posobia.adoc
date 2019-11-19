@@ -7,20 +7,19 @@ image::emb2010.jpg[На главную страницу]
 == Материалы по курсу Геотектоники
 
 |=== 
-
-| В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
-
+| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
 |=== 
 
 == Материалы по курсу Региональной геологии
 
 |=== 
-
-| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
+| В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
 | Условные обозначения к Тектонической Схеме Восточно-Европейской платформы | https://mgri-university.github.io/reggeo/images/VEP.pdf[скачать]
 | Условные обозначения к Тектонической Схеме Сибирской платформы | https://mgri-university.github.io/reggeo/images/SP.pdf[скачать]
 | Геологическая Карта СССР на сайте geokniga.org| http://www.geokniga.org/maps/1310[скачать]
 | Тектоническая карта Восточно-Европейской платформы| https://mgri-university.github.io/reggeo/images/tectVEP.jpeg[скачать]
+| Геологическая Карта СССР и многие другие карты на сайте www.jurassic.ru| http://www.jurassic.ru/maps.htm[скачать]
+| Милановский Е.Е. Геология России и ближнего зарубежья (северной Евразии) geokniga.org| http://www.geokniga.org/books/215[скачать]
 |=== 
 
 ''''
