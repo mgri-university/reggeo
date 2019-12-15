@@ -12,7 +12,7 @@ image::emb2010.jpg[На главную страницу]
 
 Другие учебные пособия для подготовки-> https://mgri-university.github.io/reggeo/posobia.html[На страничку с материалами]
 ****
-image::./images/tect-1-title.jpg[]
+image::tect-1-title.jpg[]
 ===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
 ''''
