@@ -18,6 +18,8 @@ image::emb2010.jpg[На главную страницу]
 Курсовая работа по региональной геологии
 (методические указания) -> https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
 
+Список руководителей курсовых проектов -> https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
+
 ''''
 ****
 Осенний семестр
