@@ -91,7 +91,9 @@ image::plates.jpg[Литосферные плиты,300,200]
 '''
 NOTE: Комплект элеткронных материалов к курсу геотектоники -> https://mgri-university.github.io/reggeo/images/new_geotektonika.zip[Скачать]
 
+''''
 
+почта для связи samohvalovsa@mgri.ru
 
 
 

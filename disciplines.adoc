@@ -8,6 +8,8 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
 
+=== https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
+
 === Палеонтология 
 
 краткое описание...
@@ -17,3 +19,7 @@ image::emb2010.jpg[На главную страницу]
 новое описание
 
 === Формационный анализ
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
