@@ -17,6 +17,8 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
 
+=== https://mgri-university.github.io/reggeo/kursovie.html[Курсовые работы]
+
 === Палеонтология 
 
 краткое описание...
