@@ -11,6 +11,7 @@ image::emb2010.jpg[На главную страницу]
 === Материалы для курсовой по Исторической геологии (2 курс)
 
 |=== 
+Титульный лист 2й курс (Образец) | https://mgri-university.github.io/reggeo/images/titul-2kurs.doc[скачать]
 | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
 к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
 |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
@@ -18,7 +19,8 @@ image::emb2010.jpg[На главную страницу]
 ''''
 === Материалы для курсовой по Региональной  геологии (4 курс)
 |===
-Курсовая работа по региональной геологии
+Титульный лист 4й курс (Образец) | https://mgri-university.github.io/reggeo/images/titul-4kurs.doc[скачать]
+|Курсовая работа по региональной геологии
 (методические указания) | https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
 |Список руководителей курсовых проектов | https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
 |===
