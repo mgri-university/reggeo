@@ -8,7 +8,26 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
-=== https://mgri-university.github.io/reggeo/disciplines.html[Учебные дисциплины и рабочие программы]
+Учебные дисциплины и рабочие программы:
+
+''''
+=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
+
+=== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
+
+=== https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
+
+=== Палеонтология 
+
+краткое описание...
+
+=== Стратиграфия
+
+новое описание
+
+=== Формационный анализ
+
+''''
 
 === https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 
