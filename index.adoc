@@ -26,7 +26,7 @@ image::emb2010.jpg[На главную страницу]
 === Стратиграфия
 
 ''''
-=== Крымская практика
+=== https://mgri-university.github.io/reggeo/krim.html[Крымская практика]
 
 === https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 
