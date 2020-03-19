@@ -1,0 +1,19 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+Формационный анализ - это метод получения разнообразной геологической информации на основе имеющихся знаний о составе, строении, взаимоотношениях во времени и в пространстве геологических формаций или их частей.
+
+|===
+|Задание|Описание|ссылка
+|Л/р №1 |Методические укзаания к лабораторной работе|https://mgri-university.github.io/reggeo/images/formanalis/lab1.doc[скачать]
+||Варианты к Л/р №1 |https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[скачать]
+|===
+
+
+''''
+
+почта для связи samohvalovsa@mgri.ru

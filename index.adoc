@@ -23,7 +23,7 @@ image::emb2010.jpg[На главную страницу]
 
 === Стратиграфия
 
-=== Формационный анализ
+=== https://mgri-university.github.io/reggeo/formanalis.html[Формационный анализ]
 
 ''''
 
