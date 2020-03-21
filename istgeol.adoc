@@ -21,6 +21,9 @@ image::emb2010.jpg[На главную страницу]
 
 |задание №3 |Формирование предуральского краевого прогиба|https://mgri-university.github.io/reggeo/images/istgeo/preduralskii_progib.doc[скачать]
 
+|Лекция №3 |Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» Архейский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-archei.doc[скачать]
+
 ||Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды на сайте http://en.bookfi.net|http://en.bookfi.net/book/713494[скачать]
 ||Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
 |===
