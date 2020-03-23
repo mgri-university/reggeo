@@ -1,0 +1,20 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+Стратигра́фия — наука, раздел геологии, об определении относительного геологического возраста слоистых осадочных и вулканогенных горных пород, расчленении толщ пород и корреляции различных геологических образований.
+
+|===
+|Литература |Комаров В.Н., Андрухович А.О., Туров А.В. Основы стратиграфии. | https://mgri-university.github.io/reggeo/images/stratig/osnovi_stratigraphii.pdf[скачать]
+|Литература |Комаров В.Н., Андрухович А.О., Туров А.В.
+ОЧЕРКИ ПО ИСТОРИИ ГЕОЛОГИЧЕСКИХ ЗНАНИЙ| https://mgri-university.github.io/reggeo/images/stratig/ocherki_po_istorii_geoznanii.pdf[скачать]
+
+|===
+
+''''
+
+почта для связи samohvalovsa@mgri.ru

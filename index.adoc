@@ -19,11 +19,11 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/formanalis.html[Формационный анализ]
 
-=== https://mgri-university.github.io/reggeo/kursovie.html[Курсовые работы (2 и 4 курсы)]
+=== https://mgri-university.github.io/reggeo/stratigraphia.html[Стратиграфия]
 
 === Палеонтология 
-
-=== Стратиграфия
+''''
+=== https://mgri-university.github.io/reggeo/kursovie.html[Курсовые работы (2 и 4 курсы)]
 
 ''''
 === https://mgri-university.github.io/reggeo/krim.html[Крымская практика]
