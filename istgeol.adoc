@@ -18,26 +18,35 @@ image::emb2010.jpg[На главную страницу]
 |===
 .
 
-== Материалы по курсу Исторической геологии
+== Задания и Лекции по курсу Исторической геологии
 
 |=== 
 |Задание | Название | ссылка
 
-|Методичка | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
-к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+|задание №1 | Палеогеографическая карта|https://mgri-university.github.io/reggeo/images/istgeo/z1_paleogeogr_map.doc[скачать]
 
-|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+|задание №2 |Палеогеографическая и палеотектоническая кривые|https://mgri-university.github.io/reggeo/images/istgeo/z2_paleogeogr_krivie.doc[скачать]
 
-|задание №3 |Формирование предуральского краевого прогиба|https://mgri-university.github.io/reggeo/images/istgeo/preduralskii_progib.doc[скачать]
+| |Описания точек к заданиям 1-2 по исторической геологии|https://mgri-university.github.io/reggeo/images/istgeo/opisania_tochek_k_z1-2.doc[скачать]
+
+|задание №3 |Формирование предуральского краевого прогиба|https://mgri-university.github.io/reggeo/images/istgeo/z3_preduralskii_progib.doc[скачать]
 
 |Лекция №3 |Г.Н. Садовников
 Конспекты лекций по курсу «Историческая геология» Архейский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-archei.doc[скачать]
 
 |Лекция №4 |Г.Н. Садовников
 Конспекты лекций по курсу «Историческая геология» Протерозойский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-proterozoi.doc[скачать]
+|===
 
-||Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды на сайте http://en.bookfi.net|http://en.bookfi.net/book/713494[скачать]
-||Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+== Учебные материалы по курсу Исторической геологии
+|===
+|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
+к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+
+|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+
+|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды на сайте http://en.bookfi.net|http://en.bookfi.net/book/713494[скачать]
+|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
 |===
 ''''
 
