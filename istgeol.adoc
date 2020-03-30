@@ -36,6 +36,11 @@ image::emb2010.jpg[На главную страницу]
 
 |Лекция №4 |Г.Н. Садовников
 Конспекты лекций по курсу «Историческая геология» Протерозойский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-proterozoi.doc[скачать]
+
+|Лекция №5,6 |Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология»  Ранний Палеозой.|https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part1.doc[часть1] https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part2.doc[часть2]
+
+
 |===
 
 == Учебные материалы по курсу Исторической геологии
