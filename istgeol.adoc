@@ -31,6 +31,8 @@ image::emb2010.jpg[На главную страницу]
 
 |задание №3 |Формирование предуральского краевого прогиба|https://mgri-university.github.io/reggeo/images/istgeo/z3_preduralskii_progib.doc[скачать]
 
+|задание №4 |Составление палеоклиматических карт конца палеозоя|https://mgri-university.github.io/reggeo/images/istgeo/z4_klimaticheskie_zony.doc[скачать]
+
 |Лекция №3 |Г.Н. Садовников
 Конспекты лекций по курсу «Историческая геология» Архейский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-archei.doc[скачать]
 
