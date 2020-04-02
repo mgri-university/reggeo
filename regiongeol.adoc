@@ -10,15 +10,23 @@ image::emb2010.jpg[На главную страницу]
 Весенний семестр ( складчатые пояса )
 ****
 
-Условные Обозначения
-Урало-Монгольский эпигеосинклинальный пояс -> https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
+|===
+|Задание | Название | ссылка
 
-Вопросы к экзамену по Региональной геологии -> https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
+|Условные Обозначения |Урало-Монгольский эпигеосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
 
-Курсовая работа по региональной геологии
-(методические указания) -> https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
+|Курсовая работа по региональной геологии
+|методические указания 
+| https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
 
-Список руководителей курсовых проектов -> https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
+|список|Список руководителей курсовых проектов 2020 |https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
+
+|вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
+
+|Учебная Литература 
+| image::tect-1-title.jpg[] В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf 
+
+|===
 
 ''''
 ****
