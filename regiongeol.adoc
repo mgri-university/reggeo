@@ -29,7 +29,7 @@ image::emb2010.jpg[На главную страницу]
 |вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
 
 |Учебная Литература 
-| В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf 
+| В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[Скачать]
 
 |===
 
@@ -51,10 +51,15 @@ image::emb2010.jpg[На главную страницу]
 
 |вопросы|Вопросы к зачёту по Региональной геологии |https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
 |===
+
+''''
 Другие учебные пособия для подготовки-> https://mgri-university.github.io/reggeo/posobia.html[На страничку с материалами]
+
 ****
 image::tect-1-title.jpg[]
 ===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
+
+****
 
 ''''
 
