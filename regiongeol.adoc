@@ -15,6 +15,11 @@ image::emb2010.jpg[На главную страницу]
 
 |Условные Обозначения |Урало-Монгольский эпигеосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
 
+|Условные Обозначения |Условные обозначения к тектонической схеме
+Тихоокеанского складчатого пояса |https://mgri-university.github.io/reggeo/images/UO/TOP.docx[Скачать]
+
+|Условные Обозначения | Средиземноморский геосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/SZMP.doc[Скачать]
+
 |Курсовая работа по региональной геологии
 |методические указания 
 | https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
@@ -24,7 +29,7 @@ image::emb2010.jpg[На главную страницу]
 |вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
 
 |Учебная Литература 
-| image::tect-1-title.jpg[] В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf 
+| В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf 
 
 |===
 
@@ -32,10 +37,20 @@ image::emb2010.jpg[На главную страницу]
 ****
 Осенний семестр
 ****
-****
 
-Вопросы к зачёту по Региональной геологии -> https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
+|===
+|Задание | Название | ссылка
 
+|Задание 1| Схема элементов рельефа территории России и ближнего зарубежья |https://mgri-university.github.io/reggeo/images/UO/El-R.doc[Скачать]
+
+|Условные Обозначения | Условные обозначения к тектонической схеме
+Восточно-Европейской платформы |https://mgri-university.github.io/reggeo/images/UO/VEP.doc[Скачать]
+
+|Условные Обозначения | Условные обозначения к тектонической схеме
+Сибирской платформы |https://mgri-university.github.io/reggeo/images/UO/SIB.doc[Скачать]
+
+|вопросы|Вопросы к зачёту по Региональной геологии |https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
+|===
 Другие учебные пособия для подготовки-> https://mgri-university.github.io/reggeo/posobia.html[На страничку с материалами]
 ****
 image::tect-1-title.jpg[]
