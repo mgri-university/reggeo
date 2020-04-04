@@ -21,7 +21,7 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/stratigraphia.html[Стратиграфия]
 
-=== Палеонтология 
+=== https://mgri-university.github.io/reggeo/paleontology.html[Палеонтология]
 ''''
 === https://mgri-university.github.io/reggeo/kursovie.html[Курсовые работы (2 и 4 курсы)]
 
