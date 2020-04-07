@@ -10,11 +10,17 @@ image::emb2010.jpg[На главную страницу]
 |===
 |Задание|Описание|ссылка
 |Л/р №1 |Методические указания к лабораторной работе #1|https://mgri-university.github.io/reggeo/images/formanalis/lab1.doc[скачать]
-||Варианты к Работам |https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[скачать]
+|Варианты к Работам ||https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[скачать]
 |Л/р №2 |Методические указания к лабораторной работе #2 |https://mgri-university.github.io/reggeo/images/formanalis/lab2.doc[скачать]
 |===
 
 
+== Учебные материалы по курсу Формационного анализа
+
+|===
+|Учебное Пособие|В.М. ЦЕЙСЛЕР ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА. 2010.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[скачать]
+|Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
+|===
 ''''
 
 почта для связи samohvalovsa@mgri.ru
