@@ -12,7 +12,7 @@ image::emb2010.jpg[На главную страницу]
 [#img-tekt-schema] 
 .Схема тектонического районирования Северной Евразии 
 [link=https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg] 
-image::Tekt_schema.jpg[Схема,100,50]
+image::Tekt_schema.jpg[Схема,300,200]
 
 |===
 |Задание | Название | ссылка
@@ -61,7 +61,7 @@ image::Tekt_schema.jpg[Схема,100,50]
 
 ****
 image::tect-1-title.jpg[]
-===== https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
+= https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
 ****
 
