@@ -40,8 +40,11 @@ image::emb2010.jpg[На главную страницу]
 Конспекты лекций по курсу «Историческая геология» Протерозойский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-proterozoi.doc[скачать]
 
 |Лекция №5,6 |Г.Н. Садовников
-Конспекты лекций по курсу «Историческая геология»  Ранний Палеозой.|https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part1.doc[часть1] https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part2.doc[часть2]
+Конспекты лекций по курсу «Историческая геология»  Ранний Палеозой.(Обновление 09.04.2020)|https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part1.doc[часть1] https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part2.doc[часть2]
 
+|Лекция №7 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Средний-поздний палеозой (девон – пермь) | https://mgri-university.github.io/reggeo/images/istgeo/PZ2-3.doc[скачать]
 
 |===
 
