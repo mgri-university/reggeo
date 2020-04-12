@@ -35,6 +35,8 @@ image::Tekt_schema.jpg[Схема,300,200]
 |Учебная Литература 
 | В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[Скачать]
 
+|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+
 |===
 
 ''''
