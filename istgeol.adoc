@@ -52,6 +52,11 @@ image::emb2010.jpg[На главную страницу]
 Конспекты лекций по курсу «Историческая геология» 
 Средний-поздний палеозой (девон – пермь) Продолжение| https://mgri-university.github.io/reggeo/images/istgeo/PZ2-3_2.doc[скачать]
 
+|Лекция №9 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Мезозой| https://mgri-university.github.io/reggeo/images/istgeo/MZ-1.doc[Часть_1]
+https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
+
 |===
 
 == Учебные материалы по курсу Исторической геологии
