@@ -12,7 +12,9 @@ image::emb2010.jpg[На главную страницу]
 |Литература |Комаров В.Н., Андрухович А.О., Туров А.В. Основы стратиграфии. | https://mgri-university.github.io/reggeo/images/stratig/osnovi_stratigraphii.pdf[скачать]
 |Литература |Комаров В.Н., Андрухович А.О., Туров А.В.
 ОЧЕРКИ ПО ИСТОРИИ ГЕОЛОГИЧЕСКИХ ЗНАНИЙ| https://mgri-university.github.io/reggeo/images/stratig/ocherki_po_istorii_geoznanii.pdf[скачать]
-
+|Литература |Садовников Г.Н., Комаров В.Н., Андрухович А.О., Туров А.В., Самохвалов С.А.
+История развития органического мира Земли: основные закономерности и
+комплексы руководящих окаменелостей| https://mgri-university.github.io/reggeo/images/stratig/posobie_po_kompleksam.pdf[скачать]
 |===
 
 ''''
