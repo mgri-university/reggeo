@@ -16,7 +16,8 @@ image::emb2010.jpg[На главную страницу]
 |ст.преп. Андрухович А.О.| РМ-18-1,2
 |преп. Самохвалов С.А.| МГ-18
 |===
-.
+https://mgri-university.github.io/reggeo/images/istgeo/kursovie_II_new.doc[Распределение Курсовых проектов]
+
 
 == Задания и Лекции по курсу Исторической геологии
 
@@ -56,6 +57,10 @@ image::emb2010.jpg[На главную страницу]
 Конспекты лекций по курсу «Историческая геология» 
 Мезозой| https://mgri-university.github.io/reggeo/images/istgeo/MZ-1.doc[Часть_1]
 https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
+
+|Лекция №10 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Мезозой (Продолжение)| https://mgri-university.github.io/reggeo/images/istgeo/MZ-3.pdf[Часть_3]
 
 |===
 

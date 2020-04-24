@@ -15,6 +15,8 @@ image::emb2010.jpg[На главную страницу]
 | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
 к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
 |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+
+|!!! перераспределение по руководителям после перехода на дистанционное обучение !!!|https://mgri-university.github.io/reggeo/images/istgeo/kursovie_II_new.doc[скачать]
 |===
 ''''
 == Материалы для курсовой по Региональной  геологии (4 курс)
