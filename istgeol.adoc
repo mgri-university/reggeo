@@ -40,8 +40,8 @@ https://mgri-university.github.io/reggeo/images/istgeo/kursovie_II_new.doc[Ра�
 
 |Доп.материал к заданию #5 |Дополнительные материалы к заданию №5 "Схема основных структур земной коры" 1. Введение_(ВЕП)| https://mgri-university.github.io/reggeo/images/istgeo/z5_vvedenie_VEP.pdf[скачать]  
 ||2.Другие древние платформы|https://mgri-university.github.io/reggeo/images/istgeo/z5_drugie_pl.pdf[скачать]  
-||3. Подвижные пояса-1|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-1.pdf[скачать] 
-||3. Подвижные пояса-2|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-2.pdf[скачать]
+//||3. Подвижные пояса-1|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-1.pdf[скачать] 
+//||3. Подвижные пояса-2|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-2.pdf[скачать]
 
 |Лекция №3 |Г.Н. Садовников
 Конспекты лекций по курсу «Историческая геология» Архейский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-archei.doc[скачать]
