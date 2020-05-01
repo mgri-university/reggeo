@@ -39,7 +39,7 @@ image::emb2010.jpg[На главную страницу]
 
 |===
 |Учебное пособие|В.М. ЦЕЙСЛЕР ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА. 2010.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[скачать]
-|Учебное пособие |В.М. Цейслер ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА 2002 |https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[скачать]
+|Учебник  |В.М. Цейслер ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА 2002 |https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[скачать]
 |Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
 |===
 
