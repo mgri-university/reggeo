@@ -14,7 +14,7 @@ image::emb2010.jpg[На главную страницу]
 Титульный лист 2й курс (Образец) | https://mgri-university.github.io/reggeo/images/titul-2kurs.doc[скачать]
 | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
 к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
-|Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+|Темы курсовых проектов по Исторической геологии. (с вариантами заданий) | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
 
 |!!! перераспределение по руководителям после перехода на дистанционное обучение !!!|https://mgri-university.github.io/reggeo/images/istgeo/kursovie_II_new.doc[скачать]
 |===
