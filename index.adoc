@@ -8,6 +8,8 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
+=== https://mgri-university.github.io/reggeo/conf.html[Муратовские чтения]
+
 === https://mgri-university.github.io/reggeo/raspisanie.html[Трансляции и Видео (расписание)]
 Учебные дисциплины и рабочие программы:
 
