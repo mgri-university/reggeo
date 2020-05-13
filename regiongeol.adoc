@@ -10,6 +10,11 @@ image::emb2010.jpg[На главную страницу]
 == Весенний семестр ( складчатые пояса )
 
 [#img-tekt-schema] 
+.Тектонические комплексы складчатых областей 
+[link=https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf] 
+image::tekt_kompl.pdf[Комплексы,300,200]
+
+[#img-tekt-schema] 
 .Схема тектонического районирования Северной Евразии 
 [link=https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg] 
 image::Tekt_schema.jpg[Схема,300,200]
