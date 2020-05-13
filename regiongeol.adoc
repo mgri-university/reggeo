@@ -9,13 +9,9 @@ image::emb2010.jpg[На главную страницу]
 
 == Весенний семестр ( складчатые пояса )
 
-=== https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Таблица: Тектонические комплексы складчатых областей ]
+=== https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Таблица 1: Тектонические комплексы складчатых областей ]
 
-
-[#img-tekt-schema] 
-.Схема тектонического районирования Северной Евразии 
-[link=https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg] 
-image::Tekt_schema.jpg[Схема,300,200]
+=== https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[Таблица 2: рекомендованные цвета стратонов]
 
 |===
 |Задание | Название | ссылка
@@ -41,6 +37,12 @@ image::Tekt_schema.jpg[Схема,300,200]
 |Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
 |===
+
+[#img-tekt-schema] 
+.Схема тектонического районирования Северной Евразии 
+[link=https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg] 
+image::Tekt_schema.jpg[Схема,300,200]
+
 
 ''''
 
