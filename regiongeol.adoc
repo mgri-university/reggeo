@@ -36,6 +36,7 @@ image::emb2010.jpg[На главную страницу]
 
 |Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
+|Презентация №1|Принципы тектонического районирования|https://mgri-university.github.io/reggeo/images/regiongeo/tect_raionirovanie.pptx[Скачать]
 |===
 
 [#img-tekt-schema] 
