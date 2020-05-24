@@ -19,6 +19,13 @@ image::emb2010.jpg[На главную страницу]
 https://mgri-university.github.io/reggeo/images/istgeo/kursovie_II_new.doc[Распределение Курсовых проектов]
 
 
+== Дополнительные материалы по курсу Исторической геологии
+|===
+|Вопросы к экзаменам по курсу “Историческая геология”|https://mgri-university.github.io/reggeo/images/istgeo/k_ekzamenu_istgeo.doc[скачать]
+|===
+
+
+
 == Задания и Лекции по курсу Исторической геологии
 
 |=== 
