@@ -27,6 +27,7 @@ image::emb2010.jpg[На главную страницу]
 ЛИСТОВ ГОСУДАРСТВЕННОЙ ГЕОЛОГИЧЕСКОЙ КАРТЫ
 РОССИЙСКОЙ ФЕДЕРАЦИИ МАСШТАБА 1 : 200 000 | 1) http://www.vsegei.com/ru/info/normdocs/met_ruk_200_1_4.pdf[методическое руководство]
 2) http://www.vsegei.com/ru/info/normdocs/ggk200/index.php[страница на сайте ВСЕГЕИ]
+|3|Легенда к геологической карте | https://mgri-university.github.io/reggeo/images/krim/legenda_A4.doc[скачать]
 |===
 
 ''''
