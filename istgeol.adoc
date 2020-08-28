@@ -114,7 +114,7 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 == Учебные материалы по курсу Исторической геологии
 |===
 |Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
-к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+к лабораторным занятиям. 2016г.| https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
 
 | учебник | Владимирская Е.В., Кагарманов А.Х., Спасский Н.Я. и др. Историческая геология с основами палеонтологии Недра, 1985. на сайте geokniga.org | http://www.geokniga.org/books/6043[скачать]
 
