@@ -21,6 +21,10 @@ image::emb2010.jpg[На главную страницу]
 |6|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
 к лабораторным занятиям. 2016г.| https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
 |7|Учебник|Практическая стратиграфия 1984г.|http://www.geokniga.org/books/12457
+|8|Учебные материалы|Данные по каратожу скважин|
+https://mgri-university.github.io/reggeo/images/stratig/carotaj_skv123.jpg[скважины 1-2,3]
+https://mgri-university.github.io/reggeo/images/stratig/carotaj_skv145.jpg[скважины 1-4,5]
+https://mgri-university.github.io/reggeo/images/stratig/carotaj_skv167.jpg[скважины 1-6,7]
 |===
 
 ''''
