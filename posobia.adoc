@@ -7,41 +7,60 @@ image::emb2010.jpg[На главную страницу]
 == Материалы по курсу Геотектоники
 
 |=== 
-| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
+|№	|тип |Название	|ссылка	
+|1|учебник| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
 |=== 
 
 == Материалы по курсу Региональной геологии
 
 |=== 
-|Учебник| В.Б. Караулов Введение в региональную геологию России и ближнего зарубежья geokniga.org | http://www.geokniga.org/books/16720[скачать]
-|Учебник| В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
-|Учебник |Основы региональной геологии СССР Караулов В.Б., Успенская Е.А., Цейслер В.М., Чернова Е.С. на сайте geokniga.org| http://www.geokniga.org/books/83[скачать]
-|Учебник| Милановский Е.Е. Геология России и ближнего зарубежья (северной Евразии) geokniga.org| http://www.geokniga.org/books/215[скачать]
-|Условные Обозначения| Условные обозначения к Тектонической Схеме Восточно-Европейской платформы | https://mgri-university.github.io/reggeo/images/VEP.pdf[скачать]
-|Условные обозначения| Условные обозначения к Тектонической Схеме Сибирской платформы | https://mgri-university.github.io/reggeo/images/SP.pdf[скачать]
-|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть1) | https://mgri-university.github.io/reggeo/images/skv_VEP1.pdf[скачать]
-|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть2) | https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[скачать]
+|№	|тип |Название	|ссылка	
+|1|Учебник| В.Б. Караулов Введение в региональную геологию России и ближнего зарубежья geokniga.org | http://www.geokniga.org/books/16720[скачать]
+|2|Учебник| В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
+|3|Учебник |Основы региональной геологии СССР Караулов В.Б., Успенская Е.А., Цейслер В.М., Чернова Е.С. на сайте geokniga.org| http://www.geokniga.org/books/83[скачать]
+|4|Учебник| Милановский Е.Е. Геология России и ближнего зарубежья (северной Евразии) geokniga.org| http://www.geokniga.org/books/215[скачать]
+|5|Условные Обозначения| Условные обозначения к Тектонической Схеме Восточно-Европейской платформы | https://mgri-university.github.io/reggeo/images/VEP.pdf[скачать]
+|6|Условные обозначения| Условные обозначения к Тектонической Схеме Сибирской платформы | https://mgri-university.github.io/reggeo/images/SP.pdf[скачать]
+|7|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть1) | https://mgri-university.github.io/reggeo/images/skv_VEP1.pdf[скачать]
+|8|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть2) | https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[скачать]
 
-|карта | Тектоническая карта Восточно-Европейской платформы| https://mgri-university.github.io/reggeo/images/tectVEP.jpeg[скачать]
-|карта| Геологическая Карта СССР и многие другие карты на сайте www.jurassic.ru| http://www.jurassic.ru/maps.htm[скачать]
-|Карта (в 4-х частях)| Геологическая Карта СССР на сайте geokniga.org| http://www.geokniga.org/maps/1310[скачать]
-|карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+|9|карта | Тектоническая карта Восточно-Европейской платформы| https://mgri-university.github.io/reggeo/images/tectVEP.jpeg[скачать]
+|10|карта| Геологическая Карта СССР и многие другие карты на сайте www.jurassic.ru| http://www.jurassic.ru/maps.htm[скачать]
+|11|Карта (в 4-х частях)| Геологическая Карта СССР на сайте geokniga.org| http://www.geokniga.org/maps/1310[скачать]
+|12|карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 |=== 
 
 
-== Материалы по курсу Исторической геологии
-
+== Учебные материалы по курсу Исторической геологии
 |===
-|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды|https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
-|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+|№	|тип |Название	|ссылка	
+|1|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
+к лабораторным занятиям. 2016г.| https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+
+|2| учебник | Владимирская Е.В., Кагарманов А.Х., Спасский Н.Я. и др. Историческая геология с основами палеонтологии Недра, 1985. на сайте geokniga.org | http://www.geokniga.org/books/6043[скачать]
+
+|3| учебник | Историческая геология (под ред. Г.И. Немкова и Е.С. Левицкого) Недра, 1986. на сайте geokniga.org | http://www.geokniga.org/books/1695[скачать]
+
+|4|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
+
+|5|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+
+|6|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+
+|7|карта| Геологическая карта континентов мира сайт neotec.ginras.ru |  http://neotec.ginras.ru/neomaps/M150_World_1970_Geology_Geologicheskaya-karta-kontinentov-mira.html[скачать]
+
+|8| карта | Физическая карта мира на сайте Karty-Mira.ru |
+http://karty-mira.ru/maps/14.jpg[скачать]
+
 |===
 
 == Учебные материалы по курсу Формационного анализа
 
 |===
-|Учебное пособие|В.М. ЦЕЙСЛЕР ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА. 2010.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[скачать]
-|Учебник  |В.М. Цейслер ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА 2002 |https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[скачать]
-|Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
+|№	|тип |Название	|ссылка	
+|1|Учебное пособие|В.М. ЦЕЙСЛЕР ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА. 2010.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[скачать]
+|2|Учебник  |В.М. Цейслер ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА 2002 |https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[скачать]
+|3|Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
 |===
 
 ''''

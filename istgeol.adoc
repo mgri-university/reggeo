@@ -113,22 +113,23 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 
 == Учебные материалы по курсу Исторической геологии
 |===
-|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
+|№	|тип |Название	|ссылка	
+|1|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
 к лабораторным занятиям. 2016г.| https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
 
-| учебник | Владимирская Е.В., Кагарманов А.Х., Спасский Н.Я. и др. Историческая геология с основами палеонтологии Недра, 1985. на сайте geokniga.org | http://www.geokniga.org/books/6043[скачать]
+|2| учебник | Владимирская Е.В., Кагарманов А.Х., Спасский Н.Я. и др. Историческая геология с основами палеонтологии Недра, 1985. на сайте geokniga.org | http://www.geokniga.org/books/6043[скачать]
 
-| учебник | Историческая геология (под ред. Г.И. Немкова и Е.С. Левицкого) Недра, 1986. на сайте geokniga.org | http://www.geokniga.org/books/1695[скачать]
+|3| учебник | Историческая геология (под ред. Г.И. Немкова и Е.С. Левицкого) Недра, 1986. на сайте geokniga.org | http://www.geokniga.org/books/1695[скачать]
 
-|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
+|4|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
 
-|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+|5|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
 
-|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+|6|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
 
-|карта| Геологическая карта континентов мира сайт neotec.ginras.ru |  http://neotec.ginras.ru/neomaps/M150_World_1970_Geology_Geologicheskaya-karta-kontinentov-mira.html[скачать]
+|7|карта| Геологическая карта континентов мира сайт neotec.ginras.ru |  http://neotec.ginras.ru/neomaps/M150_World_1970_Geology_Geologicheskaya-karta-kontinentov-mira.html[скачать]
 
-| карта | Физическая карта мира на сайте Karty-Mira.ru |
+|8| карта | Физическая карта мира на сайте Karty-Mira.ru |
 http://karty-mira.ru/maps/14.jpg[скачать]
 
 
