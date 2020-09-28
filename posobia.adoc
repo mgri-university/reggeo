@@ -9,6 +9,11 @@ image::emb2010.jpg[На главную страницу]
 |=== 
 |№	|тип |Название	|ссылка	
 |1|учебник| В.М.Цейслер, Основы региональной геотектоники | https://mgri-university.github.io/reggeo/images/geokniga-ceysler-region-geotekt(1).doc[скачать]
+|2| Архив с учебными материалами |Учебно-методические материалы к курсу геотектоники | https://mgri-university.github.io/reggeo/images/new_geotektonika.zip[Скачать]
+|3|Карта|Тектоническая карта мира | https://mgri-university.github.io/reggeo/images/tectonic_world_map.zip[Скачать]
+|4|Вопросы |Вопросы к итоговой Контрольной работе по геотектонике | https://mgri-university.github.io/reggeo/images/вопросы_контрольная.doc[Скачать]
+
+|5|Вопросы| Вопросы к Зачёту по геотектонике | https://mgri-university.github.io/reggeo/images/vopros_zachet.doc[Скачать]
 |=== 
 
 == Материалы по курсу Региональной геологии
