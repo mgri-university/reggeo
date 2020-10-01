@@ -7,80 +7,93 @@ image::emb2010.jpg[На главную страницу]
 == Региональная Геология
 Региональная Геология (лат. regionalis — областной) — наука геологического цикла, изучающая общие черты и особенности геологического строения, историю развития и полезные ископаемые отдельных участков (блоков или регионов) земной коры. Региональная геология связывает множество направлений геологии — геофизику, петрографию, литологию, геохимию, стратиграфию и многие другие. Понятие «регион» распространяется на множество разноуровневых геологических объектов — от отдельного месторождения до древней платформы или складчатого пояса. 
 
-== Весенний семестр ( складчатые пояса )
+== Осенний семестр
 
-=== https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Таблица 1: Тектонические комплексы складчатых областей ]
-
-=== https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[Таблица 2: рекомендованные цвета стратонов]
-
-|===
-|№	|тип |Название	|ссылка	
-|1|Бланк |Схема тектонического районирования северной евразии|https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg[Скачать]
-|2|Условные Обозначения |Урало-Монгольский эпигеосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
-
-|3|Условные Обозначения |Условные обозначения к тектонической схеме
-Тихоокеанского складчатого пояса |https://mgri-university.github.io/reggeo/images/UO/TOP.docx[Скачать]
-
-|4|Условные Обозначения | Средиземноморский геосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/SZMP.doc[Скачать]
-
-|5|Курсовая работа по региональной геологии
-|методические указания 
-| https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
-
-|6|список|Список руководителей курсовых проектов 2020 |https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
-
-|7|вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
-
-|8|Учебная Литература 
-| В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[Скачать]
-
-|9|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
-
-|10|Презентация №1|Принципы тектонического районирования|https://mgri-university.github.io/reggeo/images/regiongeo/tect_raionirovanie.pptx[Скачать]
-|===
 
 [#img-tekt-schema] 
 .Схема тектонического районирования Северной Евразии 
 [link=https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg] 
 image::Tekt_schema.jpg[Схема,300,200]
 
-
-''''
-
-== Осенний семестр
-
-
 |===
-|Задание | Название | ссылка
+|№	|тип |Название	|ссылка	
 
-|Задание 1| Схема элементов рельефа территории России и ближнего зарубежья |https://mgri-university.github.io/reggeo/images/UO/El-R.doc[Скачать]
-
-|Условные Обозначения | Условные обозначения к тектонической схеме
+|1|Задание №1| Схема элементов рельефа территории России и ближнего зарубежья |https://mgri-university.github.io/reggeo/images/UO/El-R.doc[Скачать]
+|2|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg[Скачать] 
+|3|Условные Обозначения | Условные обозначения к тектонической схеме
 Восточно-Европейской платформы |https://mgri-university.github.io/reggeo/images/UO/VEP.doc[Скачать]
 
-|Условные Обозначения | Условные обозначения к тектонической схеме
+|4|Условные Обозначения | Условные обозначения к тектонической схеме
 Сибирской платформы |https://mgri-university.github.io/reggeo/images/UO/SIB.doc[Скачать]
 
-|вопросы|Вопросы к зачёту по Региональной геологии |https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
+|5|вопросы|Вопросы к зачёту по Региональной геологии |https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
+
+|6|Учебная Литература 
+| В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[Скачать]
+
+|7|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+
 |===
 
+
+
+
 ''''
+
+
+== Весенний семестр ( складчатые пояса )
+
+
+|===
+|№	|тип |Название	|ссылка	
+
+|1|таблица №1|Тектонические комплексы складчатых областей |https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Скачть]
+
+ |2|таблица №2| Рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
+
+|3|Бланк |Схема тектонического районирования северной евразии|https://mgri-university.github.io/reggeo/images/Tekt_schema.jpg[Скачать]
+|4|Условные Обозначения |Урало-Монгольский эпигеосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
+
+|5|Условные Обозначения |Условные обозначения к тектонической схеме
+Тихоокеанского складчатого пояса |https://mgri-university.github.io/reggeo/images/UO/TOP.docx[Скачать]
+
+|6|Условные Обозначения | Средиземноморский геосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/SZMP.doc[Скачать]
+
+|7|Курсовая работа по региональной геологии
+|методические указания 
+| https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
+
+|8|список|Список руководителей курсовых проектов 2020 |https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
+
+|9|вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
+
+|10|Учебная Литература 
+| В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[Скачать]
+
+|11|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+
+|12|Презентация №1|Принципы тектонического районирования|https://mgri-university.github.io/reggeo/images/regiongeo/tect_raionirovanie.pptx[Скачать]
+|===
+
+
+''''
+
 === Заочное отделение - Учебные материалы и пособия
 
 |===
-|Учебное пособие|Рабочая программа, методические указания,
+|№	|тип |Название	|ссылка
+
+|1|Учебное пособие|Рабочая программа, методические указания,
 вопросы для самопроверки и контрольные задания
 для студентов заочного обучения по направлению 130300
 "Прикладная геология"
 Составитель В.Б.Караулов|https://mgri-university.github.io/reggeo/images/regiongeo/zo_posobie_karaulov.doc[Скачать]
-|Вопросы|Примеры текущего контроля по дисциплине
+|2|Вопросы|Примеры текущего контроля по дисциплине
 |https://mgri-university.github.io/reggeo/images/regiongeo/zo_control_voprosi.doc[Скачать]
 
 |===
 
 ''''
-=== Другие учебные пособия для подготовки-> https://mgri-university.github.io/reggeo/posobia.html[На страничку с материалами]
-
 ****
 image::tect-1-title.jpg[]
 = https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
