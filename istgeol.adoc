@@ -134,6 +134,18 @@ http://karty-mira.ru/maps/14.jpg[скачать]
 
 
 |===
+
+== Заочное отделение
+=== Учебные материалы по курсу Исторической геологии для Заочного отделения
+
+|===
+|№	|тип |Название	|ссылка	
+|1 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
+ по курсу «Историческая геология» 2019 | https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_2019.doc[скачать]
+|2 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
+ по курсу «Историческая геология с основами палеонтологии» 2019| https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_s_osn_paleontologii2019.doc[скачать]
+
+
 ''''
 
 почта для связи samohvalovsa@mgri.ru
