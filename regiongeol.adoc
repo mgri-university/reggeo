@@ -33,6 +33,8 @@ image::Tekt_schema.jpg[Схема,300,200]
 
 |7|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
+|8|Набор карт |Тектонические карты Мегакомплекса Сибирской Платформы | https://yadi.sk/d/OilNmh0jYw_LCA[Скачать]
+
 |===
 
 
