@@ -16,7 +16,9 @@ image::emb2010.jpg[На главную страницу]
 ''''
 === https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
 
-=== https://mgri-university.github.io/reggeo/regiongeol.html[Региональная геология]
+=== https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Осень)]
+
+=== https://mgri-university.github.io/reggeo/regiongeol-2.html[Региональная геология(Весна)]
 
 === https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
 
