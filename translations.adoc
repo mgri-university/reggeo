@@ -5,7 +5,9 @@
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
 
-Заготовка
+
+|===
+
 
 
 

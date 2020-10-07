@@ -12,8 +12,8 @@ image::emb2010.jpg[На главную страницу]
 
 [#img-tekt-schema] 
 .Схема тектонического районирования Северной Евразии 
-[link=https://mgri-university.github.io/reggeo/images/regiongeo/Tekt_schema.jpg] 
-image::Tect_schema.jpg[Схема,300,200]
+[link=https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg] 
+image::regiongeo/Tect_schema.jpg[Схема,300,200]
 
 === Задание №1 Составление схемы элементов рельефа территории России и ближнего зарубежья.
 |===
