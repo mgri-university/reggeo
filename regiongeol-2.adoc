@@ -19,7 +19,7 @@ image::emb2010.jpg[На главную страницу]
 
  |2|таблица №2| Рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
 
-|3|Бланк |Схема тектонического районирования северной евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tekt_schema.jpg[Скачать]
+|3|Бланк |Схема тектонического районирования северной евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать]
 |4|Условные Обозначения |Урало-Монгольский эпигеосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
 
 |5|Условные Обозначения |Условные обозначения к тектонической схеме

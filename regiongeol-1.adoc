@@ -13,14 +13,14 @@ image::emb2010.jpg[На главную страницу]
 [#img-tekt-schema] 
 .Схема тектонического районирования Северной Евразии 
 [link=https://mgri-university.github.io/reggeo/images/regiongeo/Tekt_schema.jpg] 
-image::Tekt_schema.jpg[Схема,300,200]
+image::Tect_schema.jpg[Схема,300,200]
 
 === Задание №1 Составление схемы элементов рельефа территории России и ближнего зарубежья.
 |===
 |№	|тип |Название	|ссылка	
 |1|Методические указания|Методические указания к Схеме элементов рельефа территории России и ближнего зарубежья|https://mgri-university.github.io/reggeo/images/regiongeo/zadanie1.pdf[Скачать]
 |2|Условные обозначения| УО к Схеме элементов рельефа территории России и ближнего зарубежья |https://mgri-university.github.io/reggeo/images/UO/El-R.doc[Скачать]
-|3|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tekt_schema.jpg[Скачать] 
+|3|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать] 
 |4|Карта|Орографическая карта России и ближнего зарубежья|https://www.mapsland.com/maps/europe/russia/large-detailed-physical-map-of-russia-with-roads-and-cities-in-russian.jpg[Скачать]
 |5|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
