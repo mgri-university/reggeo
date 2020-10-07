@@ -26,8 +26,8 @@ image::emb2010.jpg[На главную страницу]
 
 ****
 .A Схема тектонических структур
-[link=https://mgri-university.github.io/reggeo/images/struktures.jpg]
-image::struktures.jpg[Структуры,300,200]
+[link=https://mgri-university.github.io/reggeo/images/geotekt/tekt_schema_mira.jpg]
+image::geotekt/tekt_schema_mira.jpg[Структуры,300,200]
 
 Условные Обозначения к схеме тектонических структур ->
 https://mgri-university.github.io/reggeo/images/UO_schema.doc[Скачать]
