@@ -19,6 +19,7 @@ image::emb2010.jpg[На главную страницу]
 |1|бланк| Схема тектонических структур |https://mgri-university.github.io/reggeo/images/geotekt/tekt_schema_mira.jpg[Скачать]
 |2|Условные Обозначения|Условные Обозначения к схеме тектонических структур|https://mgri-university.github.io/reggeo/images/geotekt/UO_k_tect_scheme_mira.doc[Скачать]
 |3|Карта|Тектоническая карта мира | https://mgri-university.github.io/reggeo/images/tectonic_world_map.zip[Скачать]
+|4|Карта|Физические карты океанов мира |https://mgri-university.github.io/reggeo/images/geotekt/Oceans.zip[Скачать]
 |===
 ****
 
