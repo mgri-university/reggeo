@@ -100,7 +100,7 @@ image::regiongeo/Tect_schema.jpg[Схема,300,200]
 |2|Вопросы|Примеры текущего контроля по дисциплине
 |https://mgri-university.github.io/reggeo/images/regiongeo/zo_control_voprosi.doc[Скачать]
 |3|титульный лист|титульный лист для контрольных работ|https://mgri-university.github.io/reggeo/images/regiongeo/titul-Kotrol_rab.doc[Скачать]
-
+|4|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать] 
 |===
 
 ''''
@@ -130,6 +130,8 @@ image::tect-1-title.jpg[]
 = https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
 ****
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
 ''''
 

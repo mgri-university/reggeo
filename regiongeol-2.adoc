@@ -68,6 +68,8 @@ image::tect-1-title.jpg[]
 = https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
 ****
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
 ''''
 
