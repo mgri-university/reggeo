@@ -58,7 +58,8 @@ image::plates.jpg[Литосферные плиты,300,200]
 
 |5|Вопросы| Вопросы к Зачёту по геотектонике | https://mgri-university.github.io/reggeo/images/vopros_zachet.doc[Скачать]
 |=== 
-
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
 ''''
 

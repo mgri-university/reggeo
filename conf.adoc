@@ -19,7 +19,8 @@ image::emb2010.jpg[На главную страницу]
 
 |===
 
-
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
 ''''
 

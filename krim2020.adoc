@@ -42,6 +42,10 @@ image::emb2010.jpg[На главную страницу]
 ===== https://mgri-university.github.io/reggeo/images/krim/spisok_grup-2020.docx[СПИСОК ГРУПП второй учебной геологической (Крымской) практики]
 
 ===== Уважаемые бригадиры! С преподавателем по шлиховым методам поисков Вы можете связаться по данному адресу: Доцент Яшина Валентина Ивановна yashinavi@mgri.ru
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
 ''''
 
 почта для связи samohvalovsa@mgri.ru

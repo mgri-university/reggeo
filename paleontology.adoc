@@ -19,6 +19,10 @@ image::emb2010.jpg[На главную страницу]
 | Лекция/Презентация |Лекция "Эволюция организмов по данным палеонтологии" Комаров В.Н.| https://youtu.be/XDYtbgq0q-0[Смотреть]
 
 |===
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
 ''''
 
 почта для связи samohvalovsa@mgri.ru
