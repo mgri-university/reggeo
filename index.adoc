@@ -11,10 +11,13 @@ image::emb2010.jpg[На главную страницу]
 === https://mgri-university.github.io/reggeo/conf.html[Муратовские чтения]
 
 //=== https://mgri-university.github.io/reggeo/raspisanie.html[Трансляции и Видео (расписание)]
+
+=== https://mgri-university.github.io/reggeo/translations.html[Записи Конференций]
+
 Учебные дисциплины и рабочие программы:
 
 ''''
-=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника]
+=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника и геодинамика]
 
 === https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Осень)]
 
