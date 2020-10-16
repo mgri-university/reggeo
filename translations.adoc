@@ -1,11 +1,10 @@
 = https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
 :imagesdir: images
+:sectnums:
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
-
-== Записи конференций 
 
 == Очное отделение
 === Историческая геология с основами палеонтологии. доц. Комаров В.Н.
