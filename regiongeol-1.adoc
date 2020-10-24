@@ -41,6 +41,8 @@ image::regiongeo/Tect_schema.jpg[Схема,300,200]
 |3|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать] 
 |4|Карта|Орографическая карта России и ближнего зарубежья|https://www.mapsland.com/maps/europe/russia/large-detailed-physical-map-of-russia-with-roads-and-cities-in-russian.jpg[Скачать]
 |5|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+6| "Легкая" версия карты | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/light_geomap_USSR_10m.jpg[Скачать]
+6| "Ультра Легкая" версия карты | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USSR_10m.jpg[Скачать]
 |===
 ****
 === Задание №2 Историко-тектоническая схема Восточно-Европейской платформы
