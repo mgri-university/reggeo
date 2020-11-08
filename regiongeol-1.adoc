@@ -99,8 +99,8 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |5|карты|Тектоническая карта Европы|https://mgri-university.github.io/reggeo/images/regiongeo/Tectonics_map_Europe_1975.jpg[Скачать]
 
-|6|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть1) | https://mgri-university.github.io/reggeo/images/skv_VEP1.pdf[скачать]
-|7|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть2) | https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[скачать]
+|6|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы | https://www.geokniga.org/books/17213[скачать с geokniga.org]
+// |7|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть2) | https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[скачать]
 
 |===
 ****
