@@ -108,6 +108,8 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |9|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы | https://www.geokniga.org/books/17213[скачать с geokniga.org]
 // |7|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть2) | https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[скачать]
 
+|10|инструкция|Инструкция по составлению и подготовке к изданию листов государственной геологической карты Российской Федерации масштаба 1:200000 (1995г.)|https://www.geokniga.org/books/405[скачать с geokniga.org]
+
 |===
 ****
 
@@ -224,6 +226,15 @@ image::tect-1-title.jpg[]
 = https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
 
 ****
+
+''''
+
+Полезные ссылки
+|=== 
+|№	|тип |Название	|ссылка	
+|1|карты|карта поверхности континентов и океанов|https://maps-for-free.com/[maps-for-free.com]
+|=== 
+
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
