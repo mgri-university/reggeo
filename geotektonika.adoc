@@ -69,6 +69,11 @@ image::plates.jpg[Литосферные плиты,300,200]
 |4|Вопросы |Вопросы к итоговой Контрольной работе по геотектонике | https://mgri-university.github.io/reggeo/images/вопросы_контрольная.doc[Скачать]
 
 |5|Вопросы| Вопросы к Зачёту по геотектонике | https://mgri-university.github.io/reggeo/images/vopros_zachet.doc[Скачать]
+
+|6|учебник|Геотектоника с основами геодинамики. 2005г.Хаин В.Е.| https://www.geokniga.org/books/1798[Скачать на geokniga.org]
+
+|7|учебник|Тектоника континентов и океанов Хаин В.Е. 2001|https://www.geokniga.org/books/142[Скачать на geokniga.org]
+|8|учебник|Тектоника континентов и океанов. Объяснительная записка к международной тектонической карте мира масштаба 1:15 000 000 Хаин В.Е. 1988|https://www.geokniga.org/books/21094[Скачать на geokniga.org]
 |=== 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
