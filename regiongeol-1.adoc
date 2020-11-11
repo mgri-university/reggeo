@@ -169,9 +169,9 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |6|Учебник |Мегакомплексы и глубинная структура земной коры нефтегазоносных провинций Сибирской платформы Сурков В.С. 1987 г.|http://www.geokniga.org/books/20799[Скачать на geokniga.org]
 
-|7|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
+// |7|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
 
-|8|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+// |8|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
 
 
 |===
