@@ -15,6 +15,7 @@ image::emb2010.jpg[На главную страницу]
 |1|Учебник |Кузнецов О.Л., Никитин А.А., Черемисина Е.Н. Геоинформатика и геоинформационные системы 2005г. | http://www.geokniga.org/books/8249[Скачать на geokniga.org]
 |2|программа|Arcview 3.2 Portable| https://cloud.mail.ru/public/EyG9/4tL9Q56LK[Скачать]
 |3|базы данных|База данных для выполнения заданий |  https://mgri-university.github.io/reggeo/images/GIS/shp_map.7z[Скачать]
+|4|базы данных|"Междуреченский плутон" База данных для выполнения заданий |  https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton.mdb[Скачать]
 |===
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
