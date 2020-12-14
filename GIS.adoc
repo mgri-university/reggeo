@@ -19,7 +19,7 @@ image::emb2010.jpg[На главную страницу]
 https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accde[Скачать accde]
 |5|Программное Обеспечение|LibreOffice Base (альтернатива MS Access)|https://www.libreoffice.org/download/download/[страница загрузки]
 |6|базы данных|Интрузии|https://mgri-university.github.io/reggeo/images/GIS/intruziv.7z[Скачать]
-
+|7|конспекты|Конспекты лекций А.В.Туров|https://mgri-university.github.io/reggeo/images/GIS/GIS-konspekt.7z[Скачать]
 |===
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
