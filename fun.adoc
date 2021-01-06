@@ -5,9 +5,6 @@
 :toc-title: Оглавление
 :toclevels: 1 
 
-[%notitle,background-iframe="https://www.youtube.com/embed/LaApqL4QjH8?rel=0&start=3&enablejsapi=1&autoplay=1&loop=1&controls=0&modestbranding=1"]
-== a youtube video
-
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
 
@@ -41,9 +38,6 @@ image::emb2010.jpg[На главную страницу]
 <iframe width="600" height="420" src="http://maps.stamen.com/terrain/embed#15/55.6525/37.5150"></iframe>
 
 ++++
-
-[%notitle,background-iframe="https://www.youtube.com/embed/LaApqL4QjH8?rel=0&start=3&enablejsapi=1&autoplay=1&loop=1&controls=0&modestbranding=1"]
-== a youtube video
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
