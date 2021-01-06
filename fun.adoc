@@ -30,6 +30,15 @@ image::emb2010.jpg[На главную страницу]
 
 ==== https://ru.wiktionary.org/wiki/%D0%BA%D1%83%D1%86%D1%8B%D0%B9[Куцый]
 
+
+== Карты 
+
+++++
+
+<iframe width="600" height="420" src="http://maps.stamen.com/terrain/embed#15/55.6525/37.5150"></iframe>
+
+++++
+
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
