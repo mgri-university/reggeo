@@ -15,7 +15,10 @@ image::emb2010.jpg[На главную страницу]
 
 :sectnums:
 
-Кафедральные заметки
+
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/index.html[Кафедральные заметки]
 
 == Некоторые интересные факты по лекциям
 ==== https://pikabu.ru/story/legko_li_dobyit_neft_domanikovyiy_khameleon_i_ego_neft_7164049[Доманик]
@@ -43,10 +46,6 @@ image::emb2010.jpg[На главную страницу]
 <iframe width="600" height="420" src="http://maps.stamen.com/terrain/embed#15/55.6525/37.5150"></iframe>
 
 ++++
-
-[sidebar]
-Sidebars are used to visually separate auxiliary bits of content
-that supplement the main text.
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
