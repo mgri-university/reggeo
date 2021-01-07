@@ -1,6 +1,7 @@
 = https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
 :imagesdir: images
+:icons: font
 :toc: preamble
 :toc-title: Оглавление
 :toclevels: 1 
@@ -38,6 +39,13 @@ image::emb2010.jpg[На главную страницу]
 <iframe width="600" height="420" src="http://maps.stamen.com/terrain/embed#15/55.6525/37.5150"></iframe>
 
 ++++
+
+WARNING: Wolpertingers are known to nest in server racks.
+
+menu:File[]
+menu:File[Close]
+menu:File[New,Message]
+File>New>Message
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
