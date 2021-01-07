@@ -1,7 +1,6 @@
 
 = https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
-:experimental:
 :imagesdir: images
 :icons: font
 :toc: preamble
@@ -45,20 +44,9 @@ image::emb2010.jpg[На главную страницу]
 
 ++++
 
-WARNING: Wolpertingers are known to nest in server racks.
-
-menu:File[]
-menu:File[Close]
-menu:File[New,Message]
-File>New>Message
-
-Press the btn:[OK] button when you are finished.
-
-Select a file in the file navigator and click btn:[Open].
-
-To save the file, select menu:File[Save].
-
-Select menu:View[Zoom > Reset] to reset the zoom level to the default setting.
+[sidebar]
+Sidebars are used to visually separate auxiliary bits of content
+that supplement the main text.
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
