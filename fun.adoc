@@ -18,7 +18,7 @@ image::emb2010.jpg[На главную страницу]
 
 
 [sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/index.html[Кафедральные заметки]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/fun.html[Кафедральные заметки]
 
 == Некоторые интересные факты по лекциям
 ==== https://pikabu.ru/story/legko_li_dobyit_neft_domanikovyiy_khameleon_i_ego_neft_7164049[Доманик]
