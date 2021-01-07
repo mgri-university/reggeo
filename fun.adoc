@@ -48,6 +48,9 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 
 ++++
 
+[TIP]
+tip test
+
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
