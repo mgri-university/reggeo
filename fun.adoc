@@ -1,6 +1,6 @@
 
 = Кафедра Палеонтологии и Региональной Геологии МГРИ : Кафедральные заметки
-сайт в разработке
+сайт в разработке, почта для связи samohvalovsa@mgri.ru
 v2.0 08.01.2020 
 :imagesdir: images
 :icons: font
@@ -51,9 +51,6 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 [TIP]
 tip test
 
-''''
-https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
-''''
-
-почта для связи samohvalovsa@mgri.ru
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/fun.html[Кафедральные заметки]
