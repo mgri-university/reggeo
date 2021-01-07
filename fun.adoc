@@ -5,6 +5,7 @@
 :toc: preamble
 :toc-title: Оглавление
 :toclevels: 1 
+:experimental
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
