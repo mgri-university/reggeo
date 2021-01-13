@@ -7,7 +7,7 @@ image::emb2010.jpg[На главную страницу]
 
 |===
 |№	|тип |Название	|ссылка	
-| 1 |расписание |Расписание консультаций в декабре 2020|https://mgri-university.github.io/reggeo/images/raspisanie_consult.pdf[Скачать]
+| 1 |расписание |Расписание консультаций в январе 2021|https://mgri-university.github.io/reggeo/images/raspisanie_consult.pdf[Скачать]
 
 |===
 
