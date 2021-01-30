@@ -4,17 +4,14 @@
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
+
 === https://vk.com/reggeomgri[Новости кафедры (страничка вконтакте)]
 
 === https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 
-=== https://mgri-university.github.io/reggeo/conf.html[Муратовские чтения]
-
-=== https://mgri-university.github.io/reggeo/translations.html[Записи Конференций]
-
-Учебные дисциплины и рабочие программы:
+== Учебные дисциплины и рабочие программы:
 
 ''''
 === https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника и геодинамика]
@@ -32,7 +29,7 @@ image::emb2010.jpg[На главную страницу]
 === https://mgri-university.github.io/reggeo/paleontology.html[Палеонтология]
 
 === https://mgri-university.github.io/reggeo/GIS.html[Картографическое моделирование в ГИС]
-''''
+
 === https://mgri-university.github.io/reggeo/kursovie.html[Курсовые работы (2 и 4 курсы)]
 
 ''''
