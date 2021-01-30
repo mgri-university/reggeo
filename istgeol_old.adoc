@@ -1,0 +1,155 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+Историческая геология – комплексная, синтетическая дисциплина. Она включает четыре главных элемента: геохронологию, стратиграфию, палеогеографию и палео-тектонику – в их тесной, органической связи.
+
+''''
+== Очное отделение
+=== Задания и Лекции по курсу Исторической геологии
+
+|=== 
+|Задание | Название | ссылка
+
+|задание №1 | Палеогеографическая карта|https://mgri-university.github.io/reggeo/images/istgeo/z1_paleogeogr_map.doc[скачать]
+
+|задание №2 |Палеогеографическая и палеотектоническая кривые|https://mgri-university.github.io/reggeo/images/istgeo/z2_paleogeogr_krivie.doc[скачать]
+
+| |Описания точек к заданиям 1-2 по исторической геологии|https://mgri-university.github.io/reggeo/images/istgeo/opisania_tochek_k_z1-2.doc[скачать]
+
+|задание №3 |Формирование предуральского краевого прогиба|https://mgri-university.github.io/reggeo/images/istgeo/z3_preduralskii_progib.doc[скачать]
+
+|задание №4 |Составление палеоклиматических карт конца палеозоя|https://mgri-university.github.io/reggeo/images/istgeo/z4_klimaticheskie_zony.doc[скачать]
+
+|Доп.материал к заданию 4|Климатическая зональность в позднем палеозое | https://mgri-university.github.io/reggeo/images/istgeo/paleoklimat_dopoln.doc[скачать]
+
+|задание №5 | Схема основных структурных элементов земной коры континентов|https://mgri-university.github.io/reggeo/images/istgeo/z5_shema_struktur_kontinentov.doc[скачать]
+
+|Доп.материал к заданию #5 |Дополнительные материалы к заданию №5 "Схема основных структур земной коры" 1. Введение_(ВЕП)| https://mgri-university.github.io/reggeo/images/istgeo/z5_vvedenie_VEP.pdf[скачать]  
+||2.Другие древние платформы|https://mgri-university.github.io/reggeo/images/istgeo/z5_drugie_pl.pdf[скачать]  
+//||3. Подвижные пояса-1|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-1.pdf[скачать] 
+//||3. Подвижные пояса-2|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-2.pdf[скачать]
+
+|Лекция №3 |Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» Архейский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-archei.doc[скачать]
+
+|Лекция №4 |Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» Протерозойский акрон.|https://mgri-university.github.io/reggeo/images/istgeo/conspect-proterozoi.doc[скачать]
+
+|Лекция №5,6 |Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология»  Ранний Палеозой.(Обновление 09.04.2020)|https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part1.doc[часть1] https://mgri-university.github.io/reggeo/images/istgeo/PZ1_part2.doc[часть2]
+
+|Лекция №7 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Средний-поздний палеозой (девон – пермь) | https://mgri-university.github.io/reggeo/images/istgeo/PZ2-3.doc[скачать]
+
+|Лекция №8 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Средний-поздний палеозой (девон – пермь) Продолжение| https://mgri-university.github.io/reggeo/images/istgeo/PZ2-3_2.doc[скачать]
+
+|Лекция №9 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Мезозой| https://mgri-university.github.io/reggeo/images/istgeo/MZ-1.doc[Часть_1]
+https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
+
+|Лекция №10 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Мезозой (Продолжение)| https://mgri-university.github.io/reggeo/images/istgeo/MZ-3.pdf[Часть_3]
+
+|Лекция №11 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Кайнозой |  https://mgri-university.github.io/reggeo/images/istgeo/KZ.pdf[скачать]
+
+|Лекция №12 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Кайнозой (Продолжение) |  https://mgri-university.github.io/reggeo/images/istgeo/KZ-2.pdf[скачать]
+
+|Лекция №13 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Основные закономерности истории Земли |  https://mgri-university.github.io/reggeo/images/istgeo/zakonomernosti-1.pdf[скачать]
+
+|Лекция №14 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Основные закономерности истории Земли (Продолжение) |  https://mgri-university.github.io/reggeo/images/istgeo/zakonomernosti-2.pdf[скачать]
+
+|Лекция №15 | Г.Н. Садовников
+Конспекты лекций по курсу «Историческая геология» 
+Основные закономерности истории Земли (Завершение) |  https://mgri-university.github.io/reggeo/images/istgeo/zakonomernosti-3.pdf[скачать]
+
+|===
+
+==Учебные материалы по курсу Исторической геологии
+
+|===
+|№	|тип |Название	|ссылка	
+|1|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
+к лабораторным занятиям. 2016г.| https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+
+|2| учебник | Владимирская Е.В., Кагарманов А.Х., Спасский Н.Я. и др. Историческая геология с основами палеонтологии Недра, 1985. на сайте geokniga.org | http://www.geokniga.org/books/6043[скачать]
+
+|3| учебник | Историческая геология (под ред. Г.И. Немкова и Е.С. Левицкого) Недра, 1986. на сайте geokniga.org | http://www.geokniga.org/books/1695[скачать]
+
+|4|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
+
+|5|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+
+|6|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+
+|7|карта| Геологическая карта континентов мира сайт neotec.ginras.ru |  http://neotec.ginras.ru/neomaps/M150_World_1970_Geology_Geologicheskaya-karta-kontinentov-mira.html[скачать]
+
+|8| карта | Физическая карта мира на сайте Karty-Mira.ru |
+http://karty-mira.ru/maps/14.jpg[скачать]
+
+
+|===
+
+=== Расписание экзаменов по исторической геологии Весна 2020
+|===
+|01.06.2020 |МГ-18 
+|02.06.2020 |РГ-18-1	
+|03.06.2020 |РГ-18-2	
+|05.06.2020 |РМ-18-2 
+|08.06.2020 |РМН-18 
+|09.06.2020 |РМ-18-1 
+|===
+ВНИМАНИЕ!!!
+студенты ПГ-18 в связи с перераспределением по новым группам с 23.03.2020 распределяются по преподавателям по следующему списку (подготовка к крымской практике, пока, осуществляется по старым спискам):
+
+|===
+|доц. Комаров В.Н.| РМН-18
+|ст.преп. Андрухович А.О.| РМ-18-1,2
+|преп. Самохвалов С.А.| МГ-18
+|===
+https://mgri-university.github.io/reggeo/images/istgeo/kursovie_II_new.doc[Распределение Курсовых проектов]
+
+
+== Дополнительные материалы по курсу Исторической геологии
+|===
+|Вопросы к экзаменам по курсу “Историческая геология”|https://mgri-university.github.io/reggeo/images/istgeo/k_ekzamenu_istgeo.doc[скачать]
+|Тектонические комплексы складчатых областей |https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[скачать]
+
+
+|рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
+|===
+
+
+
+== Заочное отделение
+=== Учебные материалы по курсу Исторической геологии для Заочного отделения
+
+|===
+|№	|тип |Название	|ссылка	
+|1 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
+ по курсу «Историческая геология» 2019 | https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_2019.doc[скачать]
+|2 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
+ по курсу «Историческая геология с основами палеонтологии» 2019| https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_s_osn_paleontologii2019.doc[скачать]
+|===
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru

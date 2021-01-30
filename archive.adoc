@@ -1,0 +1,28 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/archive.html[Архивные страницы]
+
+== Архивные страницы
+
+=== https://mgri-university.github.io/reggeo/conf_old.html[Муратовские чтения_2020]
+
+=== https://mgri-university.github.io/reggeo/translations_old.html[Записи Конференций_2020]
+
+
+
+=== https://mgri-university.github.io/reggeo/regiongeol-2_old.html[Региональная геология_Весна_2020]
+
+=== https://mgri-university.github.io/reggeo/istgeol_old.html[Историческая геология_2020]
+
+=== https://mgri-university.github.io/reggeo/kursovie_old.html[Курсовые работы (2 и 4 курсы)_2020]
+
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
