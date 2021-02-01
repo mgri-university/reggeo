@@ -1,0 +1,27 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
+
+== Справочные материалы 
+
+|===
+|№	|тип |Название	|ссылка	
+
+|1|Инструкция| Инструкция по составлению и подготовке к изданию листов государственной геологической карты Российской Федерации масштаба 1:200000 geokniga | http://www.geokniga.org/books/405[скачать]
+|2|Методические рекомендации | МЕТОДИЧЕСКОЕ РУКОВОДСТВО
+ПО СОСТАВЛЕНИЮ И ПОДГОТОВКЕ К ИЗДАНИЮ
+ЛИСТОВ ГОСУДАРСТВЕННОЙ ГЕОЛОГИЧЕСКОЙ КАРТЫ
+РОССИЙСКОЙ ФЕДЕРАЦИИ МАСШТАБА 1 : 200 000 | 1) http://www.vsegei.com/ru/info/normdocs/met_ruk_200_1_4.pdf[методическое руководство]
+2) http://www.vsegei.com/ru/info/normdocs/ggk200/index.php[страница на сайте ВСЕГЕИ]
+|3| Учебник | 
+Петрография и петрология магматических, метаморфических и метасоматических горных пород |http://www.geokniga.org/books/752
+|===
