@@ -44,12 +44,6 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |6|Условные Обозначения | Средиземноморский геосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/SZMP.doc[Скачать]
 
-|7|Курсовая работа по региональной геологии
-|методические указания 
-| https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
-
-|8|список|Список руководителей курсовых проектов 2020 |https://mgri-university.github.io/reggeo/images/kurs-reggeo-rukovodstvo.pdf[Скачать]
-
 |9|вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
 
 |10|Учебная Литература 
