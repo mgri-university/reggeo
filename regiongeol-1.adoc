@@ -224,6 +224,11 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |10|карта| Геологическая Карта СССР и многие другие карты на сайте www.jurassic.ru| http://www.jurassic.ru/maps.htm[скачать]
 |11|Карта (в 4-х частях)| Геологическая Карта СССР на сайте geokniga.org| http://www.geokniga.org/maps/1310[скачать]
 |12|карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+
+|13|методические указания |РЕГИОНАЛЬНАЯ ГЕОЛОГИЯ Лабораторный практикум по Региональной геологии «Древние платформы» А.В.Туров Москва 2021|https://mgri-university.github.io/reggeo/images/regiongeo/Methodic_instr_Ancient_platforms.docx[Скачать]
+
+|14|методические указания |РЕГИОНАЛЬНАЯ ГЕОЛОГИЯ Лабораторный практикум по Региональной геологии Модуль 2. «Подвижные пояса» А.В.Туров Москва 2021|https://mgri-university.github.io/reggeo/images/regiongeo/Methodicl_instr_Fold_belt.docx[Скачать]
+
 |=== 
 
 ''''
