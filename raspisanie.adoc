@@ -14,7 +14,7 @@ image::emb2010.jpg[На главную страницу]
 [#img-sunset]
 .График приёма задолженностейй/Консультаций преп.Самохвалов С.А.
 [link=https://mgri-university.github.io/reggeo/images/graph_2021.jpg]
-
+image::graph_2021.jpg[graphik,600,400]
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
