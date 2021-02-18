@@ -38,14 +38,10 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 |1|расписание|График приёма задолженностей преп. Самохвалов С.А.|https://calendar.google.com/calendar/embed?src=e4li7tqvvg93eb5r7rrr6ucvjc%40group.calendar.google.com&ctz=Europe%2FMoscow[смотреть]
 |===
 
-++++
-<iframe src="https://calendar.google.com/calendar/embed?src=e4li7tqvvg93eb5r7rrr6ucvjc%40group.calendar.google.com&ctz=Europe%2FMoscow" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-++++
-
 [#img-sunset]
 .График приёма задолженностейй/Консультаций преп.Самохвалов С.А.
-[link=https://mgri-university.github.io/reggeo/images/graph_z_2021.jpg]
-image::graph_z_2021.jpg[Sunset,600,400]
+[link=https://mgri-university.github.io/reggeo/images/graph_2021.jpg]
+image::graph_z_2021.jpg[graphik,600,400]
 
 [sidebar]
 https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/fun.html[Кафедральные заметки]
