@@ -5,11 +5,11 @@
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
 
-|===
-|№	|тип |Название	|ссылка	
-| 1 |расписание |Расписание консультаций в январе 2021|https://mgri-university.github.io/reggeo/images/raspisanie_consult.docx[Скачать]
-
-|===
+//|===
+//|№	|тип |Название	|ссылка	
+//| 1 |расписание |Расписание консультаций в январе 2021|https://mgri-university.github.io/reggeo/images/raspisanie_consult.docx[Скачать]
+//
+//|===
 
 [#img-sunset]
 .График приёма задолженностейй/Консультаций преп.Самохвалов С.А.
