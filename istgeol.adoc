@@ -141,6 +141,9 @@ http://karty-mira.ru/maps/14.jpg[скачать]
 |2|Темы проектов |Темы курсовых проектов по Исторической геологии. (с вариантами заданий)| https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
 |3|Методические указания| А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
 к лабораторным занятиям. | https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+|4| списки | Списки распределения курсовых работ по преподавателям РМ,РМН,МГ |https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_RG.doc[скачать]
+|5| списки | Списки распределения курсовых работ по преподавателям РГ | https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_Rm_RMN_MG.doc[скачать]
+
 |===
 
 
