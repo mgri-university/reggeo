@@ -37,12 +37,17 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
  |2|таблица №2| Рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
 
 |3|Бланк |Схема тектонического районирования северной евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать]
+
 |4|Условные Обозначения |Урало-Монгольский эпигеосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/UMP.doc[Скачать]
 
-|5|Условные Обозначения |Условные обозначения к тектонической схеме
+|5|Условные Обозначения|Западно-Сибирская Плита | https://mgri-university.github.io/reggeo/images/UO/plates_UMP.doc[Скачать]
+
+|6|Схема |Схема Западно-Сибирской плиты|https://mgri-university.github.io/reggeo/images/regiongeo/ZSP_schema.tif[Скачать]
+
+|7|Условные Обозначения |Условные обозначения к тектонической схеме
 Тихоокеанского складчатого пояса |https://mgri-university.github.io/reggeo/images/UO/TOP.docx[Скачать]
 
-|6|Условные Обозначения | Средиземноморский геосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/SZMP.doc[Скачать]
+|8|Условные Обозначения | Средиземноморский геосинклинальный пояс |https://mgri-university.github.io/reggeo/images/UO/SZMP.doc[Скачать]
 
 |9|вопросы|Вопросы к экзамену по Региональной геологии | https://mgri-university.github.io/reggeo/images/vopros_reggeo_ekz.docx[Скачать]
 
@@ -52,6 +57,8 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |11|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
 |12|Презентация №1|Принципы тектонического районирования|https://mgri-university.github.io/reggeo/images/regiongeo/tect_raionirovanie.pptx[Скачать]
+
+
 |===
 
 
