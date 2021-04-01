@@ -1,0 +1,34 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/conf.html[Конференции]
+
+
+|===
+|№	|тип |Название	|ссылка	
+
+|1|запись конференции от 01.04.2021| Секция №3 Региональная геология, палеонтология, стратиграфия .
+
+XV Международная научно-практическая конференция
+"Новые идеи в науках о Земле"
+г.Москва 
+01‑02 апреля 2021 г.|https://www.youtube.com/watch?v=MAmtOJAJT6o[Смотреть]
+
+|===
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
