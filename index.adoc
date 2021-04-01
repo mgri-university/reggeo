@@ -10,6 +10,9 @@ image::emb2010.jpg[На главную страницу]
 === https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
 
 === https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
+''''
+=== https://mgri-university.github.io/reggeo/conf.html[Конференции]
+''''
 
 == Учебные дисциплины и рабочие программы:
 
@@ -34,6 +37,8 @@ image::emb2010.jpg[На главную страницу]
 
 ''''
 //=== https://mgri-university.github.io/reggeo/krim2020.html[Крымская практика2020]
+
+
 
 === https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 === https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
