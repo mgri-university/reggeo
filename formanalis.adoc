@@ -12,7 +12,9 @@ image::emb2010.jpg[На главную страницу]
 |Л/р №1 |Методические указания к лабораторной работе #1|https://mgri-university.github.io/reggeo/images/formanalis/lab1.doc[скачать]
 |Варианты к Работам ||https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[скачать]
 |Л/р №2 |Методические указания к лабораторной работе #2 |https://mgri-university.github.io/reggeo/images/formanalis/lab2.doc[скачать]
-|Лекции  | Презентации к лекциям 1-6 2020г. А.В.Туров | https://mgri-university.github.io/reggeo/images/formanalis/Lectures.zip[скачать]
+|Лекции  | Презентации к лекциям 1-10 2020г. А.В.Туров | https://mgri-university.github.io/reggeo/images/formanalis/Lectures.zip[скачать]
+
+|Вопросы|Вопросы к зачёту 2021|https://mgri-university.github.io/reggeo/images/formanalis/voprosi_k_zachety_formanaliz.docx[скачать]
 |===
 
 
