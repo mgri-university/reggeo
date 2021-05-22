@@ -56,9 +56,11 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |11|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
-|12|Презентация №1|Принципы тектонического районирования|https://mgri-university.github.io/reggeo/images/regiongeo/tect_raionirovanie.pptx[Скачать]
+|12| презентации | Презентация Принципы тектонического районирования|https://mgri-university.github.io/reggeo/images/regiongeo/tect_raionirovanie.pptx[Скачать]
 
+|13|презентации| презентации по Сибирской древней платформе|https://pikabu.ru/story/delo_byilo_ne_v_bobine_1810566[Cкачать]
 
+|14|консультация|Консультация перед экзаменом по региональной геологии группа РМ-17-1 22.05.2021 Туров А.В. |https://youtu.be/PJW_4fupf1E[скачать]
 |===
 
 
