@@ -1,0 +1,44 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+:sectnums:
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim2021.html[Крым 2021]
+
+= Крымская практика 2021
+
+== Техника безопасности
+Наиболее важные правила техники безопасности https://www.geoland.ru/forum/381[на сайте Школьного Факультета МГРИ]
+
+
+== Полевой дневник
+Правила оформления полевого дневника геолога https://www.geoland.ru/forum/394[на сайте Школьного Факультета МГРИ]
+
+== Условные обоначения к дневнику и карте https://mgri-university.github.io/reggeo/krim/krim_UO.zip[Скачать]
+
+== Карта и планшет
+
+|===
+|№	|тип |Название	|ссылка	
+|1|Учебное пособие | Структурная геология и геологическое картирование. Учебное пособие для вузов Михайлов А.Е. Недра, Москва, 1984| https://www.geokniga.org/books/101[скачать на геокниге]
+
+|2|словари |геологические словари | https://www.geoland.ru/forum/59[скачать]
+
+|===
+
+== 
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
