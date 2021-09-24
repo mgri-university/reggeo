@@ -21,7 +21,7 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)]
 
-=== https://mgri-university.github.io/reggeo/regiongeol-2.html[Региональная геология(Складчатые пояса)]
+=== https://mgri-university.github.io/reggeo/regiongeol-2.html[Региональная геология (Складчатые пояса)]
 
 === https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
 
