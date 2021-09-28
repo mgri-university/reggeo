@@ -10,8 +10,11 @@ image::emb2010.jpg[На главную страницу]
 
 |===
 |№	|тип |Название	|ссылка	
-|1|Задание|Задание №1|https://mgri-university.github.io/reggeo/images/stratig/zadanie1_jarus.docx[скачать]
+|1|Задание|Задание №1 Изучение ярусной шкалы фанерозоя.|https://mgri-university.github.io/reggeo/images/stratig/zadanie1_jarus.docx[скачать]
+|2|Задание|Задание №2 Построение стратиграфической колонки по описанию.|https://mgri-university.github.io/reggeo/images/stratig/zadanie2_kolonka.docx[скачать]
+|3|Задание|Задание №3 Корреляция разрезов района Крымской учебной геологической практики.|https://mgri-university.github.io/reggeo/images/stratig/zadanie3_korrelation.doc[Задание]
 
+ https://mgri-university.github.io/reggeo/images/stratig/zadanie3_blank.jpg[Бланк]
 
 |1|Учебная Литература |Комаров В.Н., Андрухович А.О., Туров А.В. Основы стратиграфии. 2018г.| https://mgri-university.github.io/reggeo/images/stratig/osnovi_stratigraphii.pdf[скачать]
 |2|Учебная Литература |Комаров В.Н., Андрухович А.О., Туров А.В.
