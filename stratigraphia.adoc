@@ -10,6 +10,9 @@ image::emb2010.jpg[На главную страницу]
 
 |===
 |№	|тип |Название	|ссылка	
+|1|Задание|Задание №1|https://mgri-university.github.io/reggeo/images/stratig/zadanie1_jarus.docx[скачать]
+
+
 |1|Учебная Литература |Комаров В.Н., Андрухович А.О., Туров А.В. Основы стратиграфии. 2018г.| https://mgri-university.github.io/reggeo/images/stratig/osnovi_stratigraphii.pdf[скачать]
 |2|Учебная Литература |Комаров В.Н., Андрухович А.О., Туров А.В.
 ОЧЕРКИ ПО ИСТОРИИ ГЕОЛОГИЧЕСКИХ ЗНАНИЙ 2018г.| https://mgri-university.github.io/reggeo/images/stratig/ocherki_po_istorii_geoznanii.pdf[скачать]
