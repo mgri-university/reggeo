@@ -72,7 +72,7 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |3|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать] 
 
-|4|карта | Тектоническая карта Восточно-Европейской платформы| https://mgri-university.github.io/reggeo/images/tectVEP.jpeg[скачать]
+|4|карта | Тектоническая карта Восточно-Европейской платформы| https://mgri-university.github.io/reggeo/images/regiongeo/tectVEP.jpeg[скачать]
 
 |5|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
