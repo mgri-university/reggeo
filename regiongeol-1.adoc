@@ -179,9 +179,13 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |===
 ****
 
+=== Контрольная работа №1
+Методические указания по выполнению контрольной работы и список вариантов. Осень 2021.
+https://mgri-university.github.io/reggeo/images/regiongeo/KR1-2021.pdf[Скачать] 
+
 |===
 |№	|тип |Название	|ссылка	
-|5|вопросы|Вопросы к зачёту по Региональной геологии |https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
+|5|вопросы|Вопросы к зачёту по Региональной геологии 2019|https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
 
 |===
 ''''
