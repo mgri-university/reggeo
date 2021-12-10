@@ -82,6 +82,8 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |https://mgri-university.github.io/reggeo/images/regiongeo/zo_control_voprosi.doc[Скачать]
 |3|титульный лист|титульный лист для контрольных работ|https://mgri-university.github.io/reggeo/images/regiongeo/titul-Kotrol_rab.doc[Скачать]
 
+|4|Методические рекомендации и УО| СХЕМА ТЕКТОНИЧЕСКОГО РАЙОНИРОВАНИЯ РОССИИ И БЛИЖНЕГО ЗАРУБЕЖЬЯ|https://mgri-university.github.io/reggeo/images/regiongeo/UO_schema_of_Tectonic_zoning_of_Russia.doc[Скачать]
+
 |===
 
 ''''
