@@ -42,7 +42,7 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |5|Условные Обозначения|Западно-Сибирская Плита | https://mgri-university.github.io/reggeo/images/UO/plates_UMP.doc[Скачать]
 
-|6|Схема |Схема Западно-Сибирской плиты|https://mgri-university.github.io/reggeo/images/regiongeo/ZSP_schema.tif[Скачать]
+|6|Схема |Схема Западно-Сибирской плиты|https://mgri-university.github.io/reggeo/images/regiongeo/ZSP_schema.jpg[Скачать]
 
 |7|Условные Обозначения |Условные обозначения к тектонической схеме
 Тихоокеанского складчатого пояса |https://mgri-university.github.io/reggeo/images/UO/TOP.docx[Скачать]
