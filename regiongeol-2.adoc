@@ -96,37 +96,7 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |===
 
 ''''
-== Материалы по курсу Региональной геологии
-
-|=== 
-|№	|тип |Название	|ссылка	
-|1|Учебник| В.Б. Караулов Введение в региональную геологию России и ближнего зарубежья geokniga.org | http://www.geokniga.org/books/16720[скачать]
-
-|2|Учебник| В.М.Цейслер, А.В.Туров, Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)| https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[скачать]  
-
-|3|Учебник |Основы региональной геологии СССР Караулов В.Б., Успенская Е.А., Цейслер В.М., Чернова Е.С. на сайте geokniga.org| http://www.geokniga.org/books/83[скачать]
-
-|4|Учебник| Милановский Е.Е. Геология России и ближнего зарубежья (северной Евразии) geokniga.org| http://www.geokniga.org/books/215[скачать]
-
-|5|Условные Обозначения| Условные обозначения к Тектонической Схеме Восточно-Европейской платформы | https://mgri-university.github.io/reggeo/images/VEP.pdf[скачать]
-
-|6|Условные обозначения| Условные обозначения к Тектонической Схеме Сибирской платформы | https://mgri-university.github.io/reggeo/images/SP.pdf[скачать]
-
-
-|9|карта | Тектоническая карта Восточно-Европейской платформы| https://mgri-university.github.io/reggeo/images/tectVEP.jpeg[скачать]
-
-|10|карта| Геологическая Карта СССР и многие другие карты на сайте www.jurassic.ru| http://www.jurassic.ru/maps.htm[скачать]
-
-|11|карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
-
-|12|карта|Тектоническая карта России, сопредельных территорий и акваторий 1:4 000 000 2007г Отв. редактор Е.Е.Милановский |https://disk.yandex.ru/i/PW_M0QRAA5h1wA[скачать]
-
-
-|13|методические указания |РЕГИОНАЛЬНАЯ ГЕОЛОГИЯ Лабораторный практикум по Региональной геологии «Древние платформы» А.В.Туров Москва 2021|https://mgri-university.github.io/reggeo/images/regiongeo/Methodic_instr_Ancient_platforms.docx[Скачать]
-
-|14|методические указания |РЕГИОНАЛЬНАЯ ГЕОЛОГИЯ Лабораторный практикум по Региональной геологии Модуль 2. «Подвижные пояса» А.В.Туров Москва 2021|https://mgri-university.github.io/reggeo/images/regiongeo/Methodicl_instr_Fold_belt.docx[Скачать]
-
-|=== 
+== https://mgri-university.github.io/reggeo/posobia.html#_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%83%D1%80%D1%81%D1%83_%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8[Материалы по курсу Региональной геологии]
 
 
 ****
