@@ -1,9 +1,19 @@
 = https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
 :imagesdir: images
-:sectnums:
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+
+
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
+
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
+
+
 == Материалы по курсу Геотектоники
 
 |=== 
