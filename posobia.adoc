@@ -71,6 +71,7 @@ https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[Часть2]
 
 
 == Учебные материалы по курсу Исторической геологии
+[%autowidth]
 |===
 |№	|тип |Название	|ссылка	
 |1|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
@@ -80,16 +81,20 @@ https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[Часть2]
 
 |3| учебник | Историческая геология (под ред. Г.И. Немкова и Е.С. Левицкого) Недра, 1986. на сайте geokniga.org | http://www.geokniga.org/books/1695[скачать]
 
-|4|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
+|4|учебное пособие|Гречишникова И.А., Левицкий Е.С. Практические занятия по исторической геологии 1979 | https://www.geokniga.org/books/5500[скачать]
 
-|5|Курсовые |Темы курсовых проектов по Исторической геологии. | https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[скачать]
+|5|Атласы|Атлас литолого-палеогеографических карт СССР. Том 2. Девонский, каменноугольный и пермский периоды |Ссылка обновлена https://yadi.sk/d/X2Rg7ojru8GDkA[скачать]
 
-|6|Атласы|Атлас литолого-палеогеографических карт СССР. Том III. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
+|6|Атласы|Атлас литолого-палеогеографических карт СССР. Том 3. Триасовый, юрский и меловой периоды.  на сайте www.jurassic.ru|http://mmtk.ginras.ru/pdf/Maps/1966.atlas.litologo-paleogeograficheskih.kart.sssr.3.trias.jura.mel.pdf[скачать]
 
 |7|карта| Геологическая карта континентов мира сайт neotec.ginras.ru |  http://neotec.ginras.ru/neomaps/M150_World_1970_Geology_Geologicheskaya-karta-kontinentov-mira.html[скачать]
 
 |8| карта | Физическая карта мира на сайте Karty-Mira.ru |
 http://karty-mira.ru/maps/14.jpg[скачать]
+
+|9| Презентации 2021 | Презентации лекций 1-18|https://disk.yandex.ru/d/A_0Smp7fjkuljg[скачать]
+
+|10| Конспекты лекций 2020 | конспекты лекций за 2020 год |https://disk.yandex.ru/d/gPKheIgdhOOhBA[скачать]
 
 |===
 
