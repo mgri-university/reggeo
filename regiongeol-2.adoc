@@ -96,15 +96,9 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |===
 
 ''''
-== Материалы по курсу Региональной геологии
-смотри в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
+== Материалы по курсу Региональной геологии теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
 
 
-****
-image::tect-1-title.jpg[]
-= https://mgri-university.github.io/reggeo/images/geokniga-tektonicheskie-struktury.pdf[В.М.Цейслер, А.В.Туров Тектонические структуры на геологической карте россии и ближнего зарубежья (северной евразии)]
-
-****
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
