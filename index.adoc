@@ -1,4 +1,4 @@
-== https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
 :imagesdir: images
 
@@ -34,6 +34,7 @@ image::emb2010.jpg[На главную страницу]
 
 === Другие разделы сайта:
 
+''''
 
 === https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
 === https://mgri-university.github.io/reggeo/archive.html[Архивные страницы за 2020 год]
