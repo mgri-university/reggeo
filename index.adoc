@@ -1,20 +1,14 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+== https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
 сайт в разработке 
 :imagesdir: images
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
 
-=== https://vk.com/reggeomgri[Новости кафедры (страничка вконтакте)]
-
 === https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
 
-=== https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
-''''
-=== https://mgri-university.github.io/reggeo/conf.html[Конференции]
-''''
 
-== Учебные дисциплины и рабочие программы:
+=== Учебные дисциплины и рабочие программы:
 
 ''''
 === https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника и геодинамика]
@@ -38,15 +32,21 @@ image::emb2010.jpg[На главную страницу]
 ''''
 //=== https://mgri-university.github.io/reggeo/krim2020.html[Крымская практика2020]
 
+=== Другие разделы сайта:
 
 
-=== https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 === https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
 === https://mgri-university.github.io/reggeo/archive.html[Архивные страницы за 2020 год]
 
+=== https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
+
+=== https://vk.com/reggeomgri[Новости кафедры (страничка вконтакте)]
+
 
 ''''
+=== https://mgri-university.github.io/reggeo/conf.html[Конференции]
+''''
 //=== https://mgri-university.github.io/reggeo/translations.html[Видеозаписи за 2021, 2020 год]
-
+=== https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 ''''
 почта для связи samohvalovsa@mgri.ru
