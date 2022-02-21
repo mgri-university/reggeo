@@ -128,7 +128,7 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 |№	|тип |Название	|ссылка
 |1|Титульный лист| Титульный лист 2й курс (Образец) | https://mgri-university.github.io/reggeo/images/titul-2kurs.doc[скачать]
 
-|2|Темы проектов |Темы курсовых проектов по Исторической геологии. (с вариантами заданий на 2022 год) |https://mgri-university.github.io/reggeo/images/istgeo/kursovie_istgeol_2022.pdf[скачать]
+|2|Темы работ |Темы курсовых работ по Исторической геологии. (с вариантами заданий на 2022 год) |https://mgri-university.github.io/reggeo/images/istgeo/kursovie_istgeol_2022.pdf[скачать]
 
 |3|Методические указания| А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания по выполнению курсовой работы. | https://mgri-university.github.io/reggeo/images/istgeo/met_ukaz_istgeol.pdf[скачать]
 
