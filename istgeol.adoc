@@ -123,7 +123,7 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 |===
 
 == Курсовая работа по исторической геологии 
-
+[%autowidth]
 |===
 |№	|тип |Название	|ссылка
 |1|Титульный лист| Титульный лист 2й курс (Образец) | https://mgri-university.github.io/reggeo/images/titul-2kurs.doc[скачать]
