@@ -98,8 +98,6 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 
 /////////
 
-== Учебные материалы по курсу Исторической геологии теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
-
 == Дополнительные материалы по курсу Исторической геологии
 |===
 |Вопросы к экзаменам по курсу “Историческая геология” в классической форме |https://mgri-university.github.io/reggeo/images/istgeo/k_ekzamenu_istgeo.doc[скачать]
@@ -109,18 +107,6 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 |рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
 |===
 
-
-
-== Заочное отделение
-=== Учебные материалы по курсу Исторической геологии для Заочного отделения
-
-|===
-|№	|тип |Название	|ссылка	
-|1 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
- по курсу «Историческая геология» 2019 | https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_2019.doc[скачать]
-|2 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
- по курсу «Историческая геология *с основами палеонтологии*» 2019| https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_s_osn_paleontologii2019.doc[скачать]
-|===
 
 == Курсовая работа по исторической геологии 
 [%autowidth]
@@ -139,6 +125,21 @@ https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_Rm_RMN_MG.do
 https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[курсовые за 2020]
 
 |===
+
+
+== Заочное отделение
+=== Учебные материалы по курсу Исторической геологии для Заочного отделения
+
+|===
+|№	|тип |Название	|ссылка	
+|1 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
+ по курсу «Историческая геология» 2019 | https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_2019.doc[скачать]
+|2 | Конспекты лекций | Г.Н. Садовников Конспекты лекций
+ по курсу «Историческая геология *с основами палеонтологии*» 2019| https://mgri-university.github.io/reggeo/images/istgeo/Conspect_istgeo_s_osn_paleontologii2019.doc[скачать]
+|===
+
+
+== Учебные материалы по курсу Исторической геологии теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
 
 
 ''''
