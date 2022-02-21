@@ -132,9 +132,11 @@ https://mgri-university.github.io/reggeo/images/istgeo/MZ-2.doc[Часть_2]
 
 |3|Методические указания| А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания по выполнению курсовой работы. | https://mgri-university.github.io/reggeo/images/istgeo/met_ukaz_istgeol.pdf[скачать]
 
-|4| списки | Списки распределения курсовых работ за прошлые годы  |https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_RG.doc[за 2021_РГ]
-https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_Rm_RMN_MG.doc[за 2021_РМ,РМН,МГ]
-https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[за 2020]
+|4| списки | Списки распределения курсовых работ за прошлые годы (2020,2021) | https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_RG.doc[курсовые за 2021_РГ] 
+
+https://mgri-university.github.io/reggeo/images/lists/kursovie_2021_Rm_RMN_MG.doc[курсовые за 2021_РМ,РМН,МГ]
+
+https://mgri-university.github.io/reggeo/images/kursovie_istgeol_2020.doc[курсовые за 2020]
 
 |===
 
