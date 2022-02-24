@@ -92,7 +92,7 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |№	|тип |Название	|ссылка
 |1|Титульный лист|Титульный лист 4й курс (Образец) | https://mgri-university.github.io/reggeo/images/titul-4kurs.doc[скачать]
 |2|методические указания|Курсовая работа по региональной геологии
-(включая список тем)  | https://mgri-university.github.io/reggeo/images/kursovaya_reggeo_met.doc[Скачать]
+(включая список тем)  | https://mgri-university.github.io/reggeo/images/regiongeo/kursovaya_reggeo_met_2022.pdf[Скачать]
 |3|список|актуальный список свободных тем курсовых работ весна 2022|https://docs.google.com/spreadsheets/d/19O5dKbI1knLnvYeY4AE3vkld8VQeGnqvSLBzOyfD6fg/edit?usp=sharing[просмотр]
 |===
 
