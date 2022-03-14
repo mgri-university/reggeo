@@ -11,7 +11,7 @@ image::emb2010.jpg[На главную страницу]
 
 
 [sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim_2022.html[Крымская практика 2022]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim2022.html[Крымская практика 2022]
 
 
 == Крымская практика 2022

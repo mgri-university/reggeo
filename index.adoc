@@ -34,7 +34,7 @@ image::emb2010.jpg[На главную страницу]
 === Другие разделы сайта:
 
 ''''
-=== https://mgri-university.github.io/reggeo/krim_2022.html[Крымская практика 2022]
+=== https://mgri-university.github.io/reggeo/krim2022.html[Крымская практика 2022]
 
 === https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
 === https://mgri-university.github.io/reggeo/archive.html[Архивные страницы за 2020 год]
