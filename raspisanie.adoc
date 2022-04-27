@@ -54,6 +54,8 @@ image::emb2010.jpg[На главную страницу]
 
 |===
 
+ГРАФИК проведения занятий, консультаций и приема академических задолженностей студентов МГРИ
+на период весеннего семестра 2021/2022 учебного года https://mgri-university.github.io/reggeo/images/prisutstvie_prepodavatelei.pdf[скачать]
 //|===
 //|№	|тип |Название	|ссылка	
 //| 1 |расписание |Расписание консультаций в январе 2021|https://mgri-university.github.io/reggeo/images/raspisanie_consult.docx[Скачать]
