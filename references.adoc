@@ -1,0 +1,17 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+
+== Полезные ссылки на сторонние ресурсы
+
+|===
+Интерактивная Геологическая карта мира, с информацией о географических названиях на английском языке | https://macrostrat.org/map/#/z=1.5/x=16/y=23/bedrock/lines/[перейти на сайт]
+|===
+
+''''
+почта для связи samohvalovsa@mgri.ru
