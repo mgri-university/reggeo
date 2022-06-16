@@ -26,7 +26,7 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 
 == Условные обоначения к дневнику и карте https://mgri-university.github.io/reggeo/krim/krim_UO.zip[Скачать]
 
-== Tips & Tricks от Комарова В.Н. https://mgri-university.github.io/reggeo/krim/KomarovVN_legacy.zip[Скачать]
+== Tips & Tricks от Комарова В.Н. https://mgri-university.github.io/reggeo/images/krim/KomarovVN_legacy.zip[Скачать]
 
 == Карта и планшет
 
