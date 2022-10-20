@@ -80,14 +80,6 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |7|карты|Тектоническая карта Европы|https://mgri-university.github.io/reggeo/images/regiongeo/Tectonics_map_Europe_1975.jpg[Скачать]
 
-|8|ПРИМЕР ОФОРМЛЕНИЯ | Пример оформления графических элементов комплектов ГК 200/2 (100/3) Версия 1.4 | 1 - https://vsegei.ru/ru/info/normdocs/Primer_05_19.pdf[На сайте ВСЕГЕИ]
-
-2- https://disk.yandex.com/i/225Bby-998Op_Q[Яндекс диск]
-
-|9|ПРИМЕР ОФОРМЛЕНИЯ|Типовые макеты оформления ГК-200 Приложение 1 (ГК складчатой области)| 1- https://vsegei.ru/ru/info/normdocs/ggk200/tip_primery/pr_1.pdf[На сайте ВСЕГЕИ]
-
-2- https://disk.yandex.com/i/zf7B2nGwo5uTVA[Яндекс диск]
-
 |===
 ****
 
@@ -119,6 +111,15 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 |10|инструкция|Инструкция по составлению и подготовке к изданию листов государственной геологической карты Российской Федерации масштаба 1:200000 (1995г.)|https://www.geokniga.org/books/405[скачать с geokniga.org]
 
 |11|презентация|Презентация ВЕП_Построение разреза скважины А.В.Туров 2021г.|https://disk.yandex.ru/i/ahNp7i8dQbbbEQ[скачать]
+
+|12|ПРИМЕР ОФОРМЛЕНИЯ | Пример оформления графических элементов комплектов ГК 200/2 (100/3) Версия 1.4 | 1 - https://vsegei.ru/ru/info/normdocs/Primer_05_19.pdf[На сайте ВСЕГЕИ]
+
+2- https://disk.yandex.com/i/225Bby-998Op_Q[Яндекс диск]
+
+|13|ПРИМЕР ОФОРМЛЕНИЯ|Типовые макеты оформления ГК-200 Приложение 1 (ГК складчатой области)| 1- https://vsegei.ru/ru/info/normdocs/ggk200/tip_primery/pr_1.pdf[На сайте ВСЕГЕИ]
+
+2- https://disk.yandex.com/i/zf7B2nGwo5uTVA[Яндекс диск]
+
 
 |===
 ****
