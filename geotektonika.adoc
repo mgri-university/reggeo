@@ -68,6 +68,9 @@ https://mgri-university.github.io/reggeo/images/geotekt/KP_geotekt_2021.pdf[Ск
 
 |7|учебник|Тектоника континентов и океанов Хаин В.Е. 2001|https://www.geokniga.org/books/142[Скачать на geokniga.org]
 |8|учебник|Тектоника континентов и океанов. Объяснительная записка к международной тектонической карте мира масштаба 1:15 000 000 Хаин В.Е. 1988|https://www.geokniga.org/books/21094[Скачать на geokniga.org]
+
+|9|методические указания|Методические указания к лабораторным работам (2021г) Туров А.В.|
+https://mgri-university.github.io/reggeo/images/geotekt/Guidelines_Geotectonics_and_geodynamics_2021.pdf[Скачать]
 |=== 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
