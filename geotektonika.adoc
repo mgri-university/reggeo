@@ -44,7 +44,9 @@ image::plates.jpg[Литосферные плиты,300,200]
 |№	|тип |Название	|ссылка	
 
 |1|учебные карты|Учебные Геологические карты, №1-30|https://www.geokniga.org/mapgroups/2397[Скачать с geokniga.org]
-
+|2|методические указания|Методические указания к лабораторным работам (2021г) Туров А.В.|
+https://mgri-university.github.io/reggeo/images/geotekt/Guidelines_Geotectonics_and_geodynamics_2021.pdf[Скачать]
+|3| Архив с учебными материалами |Учебно-методические материалы к курсу геотектоники | https://mgri-university.github.io/reggeo/images/new_geotektonika.zip[Скачать]
 |===
 ****
 == Контрольные задания.
