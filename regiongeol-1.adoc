@@ -27,6 +27,13 @@ image::regiongeo/Tect_schema.jpg[Схема,300,200]
 [link=https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USSR_10m.jpg] 
 image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Карта,300,200]
 
+|===
+
+|таблица №1|Тектонические комплексы складчатых областей |https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Скачать]
+
+|таблица №2| Рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
+
+|===
 
 === Задание 1. Составление схемы элементов рельефа территории России и ближнего зарубежья
 ****
