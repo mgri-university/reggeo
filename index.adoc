@@ -42,7 +42,7 @@ image::emb2010.jpg[На главную страницу]
 
 === https://vk.com/reggeomgri[Новости кафедры (страничка вконтакте)]
 
-=== https://mgri-university.github.io/reggeo/references.html[Полезные ссылки1]
+=== https://mgri-university.github.io/reggeo/references.html[Полезные ссылки]
 ''''
 === https://mgri-university.github.io/reggeo/conf.html[Конференции]
 ''''
