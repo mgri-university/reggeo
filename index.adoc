@@ -27,6 +27,8 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/GIS.html[Картографическое моделирование в ГИС]
 
+=== https://mgri-university.github.io/reggeo/GGIS.html[Горно-Геологические ГеоИнформационные Системы]
+
 //=== https://mgri-university.github.io/reggeo/kursovie.html[Курсовые работы (2 и 4 курсы)]
 
 ''''
