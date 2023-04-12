@@ -56,7 +56,7 @@ image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Ка
 
 |11|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
 
-|12| презентации | Презентации за 2022-2023 учебный год |https://disk.yandex.com/d/tOkX40DvMuf9CQ[Скачать]
+|12| презентации | Презентации 2022-2023 учебный год |https://disk.yandex.com/d/tOkX40DvMuf9CQ[Скачать]
 
 // |13|презентации| Презентации по Сибирской древней платформе|https://disk.yandex.ru/d/J9XckdBdEesyRA[Cкачать]
 
