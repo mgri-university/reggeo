@@ -32,17 +32,15 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 
 |5|задание №3 |Формирование предуральского краевого прогиба|https://mgri-university.github.io/reggeo/images/istgeo/z3_preduralskii_progib.doc[скачать]
 
-|6|задание №5 | Схема основных структурных элементов земной коры континентов|https://mgri-university.github.io/reggeo/images/istgeo/z5_shema_struktur_kontinentov.doc[скачать]
+|6|задание №4 |Составление палеоклиматических карт конца палеозоя|https://mgri-university.github.io/reggeo/images/istgeo/z4_klimaticheskie_zony_2023.doc[скачать] https://mgri-university.github.io/reggeo/images/istgeo/z4_klimaticheskie_zony_2023.pdf[PDF]
 
-|7|Доп.материал к заданию #5 |Дополнительные материалы к заданию №5 "Схема основных структур земной коры" 1. Введение_(ВЕП)| https://mgri-university.github.io/reggeo/images/istgeo/z5_vvedenie_VEP.pdf[скачать]  
+|7|Доп.материал к заданию 4|Климатическая зональность в позднем палеозое | https://mgri-university.github.io/reggeo/images/istgeo/paleoklimat_dopoln.doc[скачать]
 
-|8|Доп.материал к заданию #5 |2.Другие древние платформы|https://mgri-university.github.io/reggeo/images/istgeo/z5_drugie_pl.pdf[скачать]  
+|8|задание №5 | Схема основных структурных элементов земной коры континентов|https://mgri-university.github.io/reggeo/images/istgeo/z5_shema_struktur_kontinentov.doc[скачать]
 
+|9|Доп.материал к заданию #5 |Дополнительные материалы к заданию №5 "Схема основных структур земной коры" 1. Введение_(ВЕП)| https://mgri-university.github.io/reggeo/images/istgeo/z5_vvedenie_VEP.pdf[скачать]  
 
-|9|задание №4 |Составление палеоклиматических карт конца палеозоя|https://mgri-university.github.io/reggeo/images/istgeo/z4_klimaticheskie_zony.doc[скачать]
-
-|10|Доп.материал к заданию 4|Климатическая зональность в позднем палеозое | https://mgri-university.github.io/reggeo/images/istgeo/paleoklimat_dopoln.doc[скачать]
-
+|10|Доп.материал к заданию #5 |2.Другие древние платформы|https://mgri-university.github.io/reggeo/images/istgeo/z5_drugie_pl.pdf[скачать]  
 
 //||3. Подвижные пояса-1|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-1.pdf[скачать] 
 //||3. Подвижные пояса-2|https://mgri-university.github.io/reggeo/images/istgeo/podvijnie_poyasa-2.pdf[скачать]
