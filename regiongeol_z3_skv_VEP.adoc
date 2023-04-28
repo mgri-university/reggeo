@@ -1,0 +1,66 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)]
+
+== Региональная Геология
+Региональная Геология (лат. regionalis — областной) — наука геологического цикла, изучающая общие черты и особенности геологического строения, историю развития и полезные ископаемые отдельных участков (блоков или регионов) земной коры. Региональная геология связывает множество направлений геологии — геофизику, петрографию, литологию, геохимию, стратиграфию и многие другие. Понятие «регион» распространяется на множество разноуровневых геологических объектов — от отдельного месторождения до древней платформы или складчатого пояса. 
+
+== Модуль #1 Древние платформы. (Осенний семестр)
+== Очное  отделение
+
+=== Лабораторная работа № 3. Проектный разрез глубокой скважины на Восточно-Европейской платформе
+****
+
+|===
+|№	|тип |Название	|ссылка	
+
+|1|Методические указания|Методические указания к Проектному разрезу глубокой скважины на Восточно-Европейской платформе|https://mgri-university.github.io/reggeo/images/regiongeo/zadanie3.pdf[Скачать]
+
+|2|Карта|Орографическая карта России и ближнего зарубежья|https://www.mapsland.com/maps/europe/russia/large-detailed-physical-map-of-russia-with-roads-and-cities-in-russian.jpg[Скачать]
+
+|3|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+
+|4|карты| Карты со снятыми покровными отложениями (довендские, доэйфельские, домезозойские образорвания) +  карта рельефа поверхности фундамента| https://yadi.sk/d/nNheOTAidTiRmg[Скачать]
+
+|5|карты|Тектоническая карта Европы|https://mgri-university.github.io/reggeo/images/regiongeo/Tectonics_map_Europe_1975.jpg[Скачать]
+
+|6|карты|Географическая карта Европейской части РСФСР |https://mgri-university.github.io/reggeo/images/regiongeo/detailed-physical-map-of-the-European-part-of-Russia.jpg[Скачать]
+
+|7|карты |Геологическая карта России, увязанная с материалами по странам СНГ. Масштаб 1:2500000. 2008 г. Главный редактор О.В. Петров|http://vsegei.com/ru/info/gis_cis/geo.php[на сайт ВСЕГЕИ]
+
+|8|карты |Геологическая карта СССР и прилегающих акваторий. Масштаб: 1:2500000. 1983 г. Главный редактор Д.В. Наливкин.|http://neotec.ginras.ru/neomaps/M025_Union_1983_Geology_Geologicheskaya-karta-sssr-i-prilegayushchih-akvatoriy.html[на сайт ГИН РАН]
+
+|9|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы | https://www.geokniga.org/books/17213[скачать с geokniga.org]
+// |7|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы (Часть2) | https://mgri-university.github.io/reggeo/images/skv_VEP2.pdf[скачать]
+
+|10|инструкция|Инструкция по составлению и подготовке к изданию листов государственной геологической карты Российской Федерации масштаба 1:200000 (1995г.)|https://www.geokniga.org/books/405[скачать с geokniga.org]
+
+|11|презентация|Презентация ВЕП_Построение разреза скважины А.В.Туров 2021г.|https://disk.yandex.ru/i/ahNp7i8dQbbbEQ[скачать]
+
+|12|ПРИМЕР ОФОРМЛЕНИЯ | Пример оформления графических элементов комплектов ГК 200/2 (100/3) Версия 1.4 | 1 - https://vsegei.ru/ru/info/normdocs/Primer_05_19.pdf[На сайте ВСЕГЕИ]
+
+2- https://disk.yandex.com/i/225Bby-998Op_Q[Яндекс диск]
+
+|13|ПРИМЕР ОФОРМЛЕНИЯ|Типовые макеты оформления ГК-200 Приложение 1 (ГК складчатой области)| 1- https://vsegei.ru/ru/info/normdocs/ggk200/tip_primery/pr_1.pdf[На сайте ВСЕГЕИ]
+
+2- https://disk.yandex.com/i/zf7B2nGwo5uTVA[Яндекс диск]
+
+
+|===
+****
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
