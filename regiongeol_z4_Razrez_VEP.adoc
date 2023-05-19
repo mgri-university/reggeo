@@ -11,6 +11,32 @@ image::emb2010.jpg[На главную страницу]
 [sidebar]
 https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)]
 
+=== Лабораторная работа № 3. Проектный разрез глубокой скважины на Восточно-Европейской платформе
+****
+
+|===
+|№	|тип |Название	|ссылка	
+
+
+|2|Карта|Орографическая карта России и ближнего зарубежья|https://www.mapsland.com/maps/europe/russia/large-detailed-physical-map-of-russia-with-roads-and-cities-in-russian.jpg[Скачать]
+
+|3|Карта | Геологическая карта СССР (1975г) | https://mgri-university.github.io/reggeo/images/regiongeo/geomap_USSR_10m.pdf[Скачать]
+
+|4|карты| Карты со снятыми покровными отложениями (довендские, доэйфельские, домезозойские образорвания) +  карта рельефа поверхности фундамента| https://yadi.sk/d/nNheOTAidTiRmg[Скачать]
+
+|5|карты|Тектоническая карта Европы|https://mgri-university.github.io/reggeo/images/regiongeo/Tectonics_map_Europe_1975.jpg[Скачать]
+
+|6|карты|Географическая карта Европейской части РСФСР |https://mgri-university.github.io/reggeo/images/regiongeo/detailed-physical-map-of-the-European-part-of-Russia.jpg[Скачать]
+
+|7|карты |Геологическая карта России, увязанная с материалами по странам СНГ. Масштаб 1:2500000. 2008 г. Главный редактор О.В. Петров|http://vsegei.com/ru/info/gis_cis/geo.php[на сайт ВСЕГЕИ]
+
+|8|карты |Геологическая карта СССР и прилегающих акваторий. Масштаб: 1:2500000. 1983 г. Главный редактор Д.В. Наливкин.|http://neotec.ginras.ru/neomaps/M025_Union_1983_Geology_Geologicheskaya-karta-sssr-i-prilegayushchih-akvatoriy.html[на сайт ГИН РАН]
+
+|9|Колонки| Стратиграфические колонки чехла Восточно-Европейской платформы | https://www.geokniga.org/books/17213[скачать с geokniga.org]
+
+|===
+****
+
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
