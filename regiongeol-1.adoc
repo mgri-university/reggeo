@@ -20,18 +20,23 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 [#img-tekt-schema] 
 .Схема тектонического районирования Северной Евразии 
 [link=https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg] 
-image::regiongeo/Tect_schema.jpg[Схема,300,200]
+image::regiongeo/Tect_schema.jpg[Схема,150,100]
 
 [#img-Ultra_light_geomap_USSR_10m] 
 .Геологическая Карта СССР  1:10 000 000 ("Лёгкая" версия)
 [link=https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USSR_10m.jpg] 
-image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Карта,300,200]
+image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Карта,150,100]
 
 |===
 
 |таблица №1|Тектонические комплексы складчатых областей |https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Скачать]
 
-|таблица №2| Рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[скачать]
+|таблица №2| Рекомендованные цвета стратонов|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[Скачать]
+
+|[#img-tekt-schema] 
+.Схема тектонического районирования Северной Евразии 
+[link=https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg] 
+image::regiongeo/Tect_schema.jpg[Схема,150,100] ||
 
 |===
 
