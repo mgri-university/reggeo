@@ -27,6 +27,7 @@ image::regiongeo/Tect_schema.jpg[Схема,150,100]
 [link=https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USSR_10m.jpg] 
 image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Карта,150,100]
 
+[%autowidth]
 |===
 
 |таблица №1|Тектонические комплексы складчатых областей |https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Скачать]
