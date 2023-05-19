@@ -35,17 +35,17 @@ image::regiongeo/icon_geomap_USSR_10m.jpg[Геологическая Карта,
 
 |===
 
-=== https://mgri-university.github.io/reggeo/regiongeol_z1_EL-R.html[Задание 1. Составление схемы элементов рельефа территории России и ближнего зарубежья]
+=== Задание 1. https://mgri-university.github.io/reggeo/regiongeol_z1_EL-R.html[ Составление схемы элементов рельефа территории России и ближнего зарубежья]
 
-=== https://mgri-university.github.io/reggeo/regiongeol_z2_VEP.html[Задание 2. Историко-тектоническая схема Восточно-Европейской платформы]
+=== Задание 2. https://mgri-university.github.io/reggeo/regiongeol_z2_VEP.html[ Историко-тектоническая схема Восточно-Европейской платформы]
 
-=== https://mgri-university.github.io/reggeo/regiongeol_z3_skv_VEP.html[Задание 3. Проектный разрез глубокой скважины на Восточно-Европейской платформе]
+=== Задание 3. https://mgri-university.github.io/reggeo/regiongeol_z3_skv_VEP.html[ Проектный разрез глубокой скважины на Восточно-Европейской платформе]
 
-=== https://mgri-university.github.io/reggeo/regiongeol_z4_Razrez_VEP.html[Задание 4. Проектный разрез через Восточно-Европейскую платформу]
+=== Задание 4. https://mgri-university.github.io/reggeo/regiongeol_z4_Razrez_VEP.html[ Проектный разрез через Восточно-Европейскую платформу]
 
-=== https://mgri-university.github.io/reggeo/regiongeol_z5_SIB.html[Задание 5. Историко-тектоническая схема Сибирской платформы]
+=== Задание 5. https://mgri-university.github.io/reggeo/regiongeol_z5_SIB.html[ Историко-тектоническая схема Сибирской платформы]
 
-=== https://mgri-university.github.io/reggeo/regiongeol_z6_skv_SIB.html[Задание 6. Проектный разрез глубокой скважины на Сибирской платформе]
+=== Задание 6. https://mgri-university.github.io/reggeo/regiongeol_z6_skv_SIB.html[ Проектный разрез глубокой скважины на Сибирской платформе]
 
 ////
 === Контрольная работа №1
