@@ -25,7 +25,7 @@ image::regiongeo/Tect_schema.jpg[Схема,150,100]
 [#img-Ultra_light_geomap_USSR_10m] 
 .Геологическая Карта СССР  1:10 000 000 ("Лёгкая" версия)
 [link=https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USSR_10m.jpg] 
-image::regiongeo/Ultra_light_geomap_USSR_10m.jpg[Геологическая Карта,150,100]
+image::regiongeo/icon_geomap_USSR_10m.jpg[Геологическая Карта,150,100]
 
 [%autowidth]
 |===
