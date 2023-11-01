@@ -54,11 +54,11 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 ****
 
 === Примеры оформления
-image::regiongeo\Primer_oformleniya\Primer_05_19_033.jpg[]
+image::regiongeo\Primer_oformleniya\P1.jpg[Пример оформления стратиграфических колонок стр.1]
 
-image::regiongeo\Primer_oformleniya\Primer_05_19_034.jpg[]
+image::regiongeo\Primer_oformleniya\P2.jpg[Пример оформления стратиграфических колонок стр.2]
 
-image::regiongeo\Primer_oformleniya\Screenshot_16.png[]
+image::regiongeo\Primer_oformleniya\P3.png[Пример оформления стратиграфических колонок стр.3]
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
