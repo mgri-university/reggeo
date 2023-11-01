@@ -11,7 +11,7 @@ image::emb2010.jpg[На главную страницу]
 [sidebar]
 https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)] / https://mgri-university.github.io/reggeo/regiongeol_z3_skv_VEP.html[Задание №3]
 
-=== Задание № 3. Проектный разрез глубокой скважины на Восточно-Европейской платформе
+== Задание № 3. Проектный разрез глубокой скважины на Восточно-Европейской платформе
 ****
 
 |===
@@ -49,8 +49,16 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 2- https://disk.yandex.com/i/zf7B2nGwo5uTVA[Яндекс диск]
 
 
+
 |===
 ****
+
+=== Примеры оформления
+image::regiongeo\Primer_oformleniya\Primer_05_19_033.jpg[]
+
+image::regiongeo\Primer_oformleniya\Primer_05_19_034.jpg[]
+
+image::regiongeo\Primer_oformleniya\Screenshot_16.png[]
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
