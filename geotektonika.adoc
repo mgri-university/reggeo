@@ -26,6 +26,7 @@ image::geotekt/ULight_tectonic_world_map.jpg[Тектоническая карт
 |3|Карта|Тектоническая карта мира | https://mgri-university.github.io/reggeo/images/tectonic_world_map.zip[Скачать]
 |4|Карта|Физические карты океанов мира |https://mgri-university.github.io/reggeo/images/geotekt/Oceans.zip[Скачать]
 |5|карты|карта поверхности континентов и океанов|https://maps-for-free.com/[maps-for-free.com]
+|6|презентация|Презентация "Схема основных структурных элементов земной коры"|https://disk.yandex.com/d/SaWABDr27Ewqbg[Скачать с яндекс.диска]
 |===
 ****
 
