@@ -11,10 +11,10 @@ image::emb2010.jpg[На главную страницу]
 
 
 [sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim2022.html[Крымская практика 2022]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim_practice_.html[Крымская практика]
 
 
-== Крымская практика 2022
+== Крымская практика 
 [%autowidth]
 |===
 |1|Снаряжение, канцтовары | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
@@ -22,8 +22,8 @@ https://mgri-university.github.io/reggeo/index.html[Главная страни�
 |3| Образец этикетки | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
 |4| Литература | https://disk.yandex.ru/d/zrnpkdlQaFMDCA[Яндекс диск]
 |5| Научные статьи о Крымском полуострове | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
-|6| Лекции доц. А.В.Туров | https://disk.yandex.ru/d/H6IdKriMLpNXTA[Яндекс диск]
-|7| Материалы к Отчёту | https://disk.yandex.ru/d/Nian6y2ahILtog[Яндекс диск]
+// |6| Лекции доц. А.В.Туров | https://disk.yandex.ru/d/H6IdKriMLpNXTA[Яндекс диск]
+// |7| Материалы к Отчёту | https://disk.yandex.ru/d/Nian6y2ahILtog[Яндекс диск]
 
 |===
 ''''
