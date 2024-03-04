@@ -9,7 +9,8 @@ image::emb2010.jpg[На главную страницу]
 === Задание 1. Создание Библиографического списка
 |===
 |№	|тип |Название	|ссылка
-|1|исходные файлы|Список литературных источников|https://mgri-university.github.io/reggeo/images/CartNeft/Biblio_List.doc[Скачать]
+|1|задание| Составление библиографического списка|https://mgri-university.github.io/reggeo/images/CartNeft/z1_bibl_list.docx[Скачать]
+|2|исходные файлы|Список литературных источников|https://mgri-university.github.io/reggeo/images/CartNeft/Biblio_List.doc[Скачать]
 |===
 === Задание 2. Нефтегазоносные бассейны
 |===
