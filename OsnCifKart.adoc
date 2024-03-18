@@ -16,6 +16,11 @@ image::emb2010.jpg[На главную страницу]
 |===
 |1|база данных|Нефтегазоносные бассейны|https://mgri-university.github.io/reggeo/images/CartNeft/Neft.accdb[Скачать]
 |===
+=== Задание 3. Минералого- Петрохимические данные
+|===
+|1|задание|https://mgri-university.github.io/reggeo/images/CartNeft/poryadok_vipolneniya.doc[Скачать]
+|2|база данных|https://mgri-university.github.io/reggeo/images/CartNeft/z3_min-petr_dannie.accdb[Скачать]
+|===
 
 
 ''''
