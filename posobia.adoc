@@ -120,6 +120,18 @@ http://karty-mira.ru/maps/14.jpg[скачать]
 |3|Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
 |===
 
+== Учебные материалы по курсу Горно-геологические геоинформационные системы (ГГИС)
+[%autowidth]
+|===
+|№	|тип |Название	|ссылка	
+|1|Учебник|Искусство и наука оценки запасов / The Art and Science of Resource Estimation Джеки Кумбс| https://www.geokniga.org/books/4898[скачать с geokniga.org]
+|2|Учебник|Объемное цифровое моделирование геологических тел в процессе разведки Федотов Г.С., Январёв Г.С.| https://www.geokniga.org/books/32957[скачать с geokniga.org]
+|3|Учебник|Статистические методы в геологоразведочной практике. Бушуев Я.Ю.| https://www.geokniga.org/books/22945[скачать с geokniga.org]
+|4|Учебник|Компьютерные методы обработки геологической информации Дьяконов В.В., Жорж Н.В. 2008
+| https://www.geokniga.org/books/16360[Скачать на Geoking.org]
+|5|Учебник|Основы линейной геостатистики Армстронг М.| https://www.geokniga.org/books/546[скачать на geokniga.org]
+|===
+
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
