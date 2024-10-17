@@ -1,7 +1,7 @@
 = *Кафедра Палеонтологии и Региональной Геологии МГРИ : Кафедральные заметки*
 сайт в разработке, почта для связи samohvalovsa@mgri.ru
 v2.2 
-:toc:
+:toc: left
 
 [sidebar]
 https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/fun.html[Кафедральные заметки]
