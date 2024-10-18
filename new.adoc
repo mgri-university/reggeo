@@ -3,49 +3,7 @@
 v2.2 
 :toc: left
 
-[sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/fun.html[Кафедральные заметки]
+== Задание №1 Изучение интерфейса Q-Gis
 
-== Некоторые интересные факты по лекциям
-==== https://pikabu.ru/story/legko_li_dobyit_neft_domanikovyiy_khameleon_i_ego_neft_7164049[Доманик]
-
-==== https://nord-ursus.livejournal.com/240872.html[Сланцы. Город имени горной породы]
-
-==== https://ru.wikipedia.org/wiki/%EA%9E%92_(%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0)[Ꞓ - Кембриский период, обозначение]
-
-== Юмористические заметки
-
-
-==== http://www.bolshoyvopros.ru/questions/2473875-kumachovyj--eto-kakoj-cvet.html[О происхождении названий некоторых цветов (кумачёвый) геологической карты...]
- 
-== Песни и стихи...
-
-==== http://a-pesni.org/dvor/mysbezali.php[МЫ СБЕЖАЛИ ПОДАЛЬШЕ ОТ ТЕПЛЫХ КВАРТИР(упоминается хребет Джугджур)]
-
-== Словарь 
-
-==== Динамопара
-
-==== https://ru.wiktionary.org/wiki/%D0%BA%D1%83%D1%86%D1%8B%D0%B9[Куцый]
-
-==== https://www.multitran.com/m.exe?l1=2&l2=1&s=%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C+%D1%80%D0%B0%D0%BA%D0%B0+%D0%B7%D0%B0+%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C[Заводить рака за камень]
-
-== Полезные ссылки
-
-https://colorscheme.ru/color-converter.html[конвертер цветов - онлайн]
-
-
-== Карты 
-
-
-|===
-|1|расписание|График приёма задолженностей преп. Самохвалов С.А.|https://calendar.google.com/calendar/embed?src=e4li7tqvvg93eb5r7rrr6ucvjc%40group.calendar.google.com&ctz=Europe%2FMoscow[смотреть]
-|===
-
-[#img-sunset]
-.График приёма задолженностейй/Консультаций преп.Самохвалов С.А.
-[link=https://mgri-university.github.io/reggeo/images/graph_2021.jpg]
-image::graph_z_2021.jpg[graphik,600,400]
-
-[sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/fun.html[Кафедральные заметки]
+Для начала работы нужно создать и сохранить проект в своём каталоге.
+Делается это через меню файл Q-Gis
