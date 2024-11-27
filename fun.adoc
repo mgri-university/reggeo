@@ -2,6 +2,7 @@
 сайт в разработке, почта для связи samohvalovsa@mgri.ru
 v2.1 
 :toc: left
+:toc-title: Содержание
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
