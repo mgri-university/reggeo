@@ -1,12 +1,7 @@
 = *Кафедра Палеонтологии и Региональной Геологии МГРИ : Кафедральные заметки*
 сайт в разработке, почта для связи samohvalovsa@mgri.ru
 v2.1 
-:imagesdir: images
-:icons: font
-:toc: preamble
-:toc-title: Оглавление
-:toclevels: 1 
-:sectnums:
+:toc: left
 
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
