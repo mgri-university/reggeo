@@ -1,0 +1,19 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+// :toc: preamble
+// :toclevels: 2 
+= Тестирование по региональной геологии 
+== Тест №1
+
+https://forms.yandex.com/u/65fbdf9143f74f019b40b9e9/[Пройти тест]
+
+
+
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
