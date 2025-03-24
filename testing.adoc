@@ -5,9 +5,9 @@
 // :toclevels: 2 
 
 == Тестирование по региональной геологии 
-== Тест №1
+== Тест №5
 
-https://forms.yandex.com/u/65fbdf9143f74f019b40b9e9/[Пройти тест]
+https://docs.google.com/forms/d/e/1FAIpQLSfGJVe586AFpeEddDzletlV5dVk46CGl-_rQ1f4BnsKZ0XSGg/viewform?usp=dialog[Пройти тест]
 
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
