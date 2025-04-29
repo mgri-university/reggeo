@@ -5,9 +5,9 @@
 // :toclevels: 2 
 
 == Тестирование по региональной геологии 
-== Тест №6
+== Тест №7
 
-https://forms.gle/xo9nD9WrWv37azUC6[Пройти тест на google форме]
+https://forms.gle/TSRMyAPuCjA2Xy7D9[Пройти тест на google форме]
 
 
 ''''
