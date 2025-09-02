@@ -19,6 +19,8 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
 
+=== https://mgri-university.github.io/reggeo/istgeol_paleo.html[Историческая геология с основами палеонтологии]
+
 === https://mgri-university.github.io/reggeo/formanalis.html[Формационный анализ]
 
 === https://mgri-university.github.io/reggeo/stratigraphia.html[Общая Стратиграфия]
