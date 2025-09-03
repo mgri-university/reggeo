@@ -29,9 +29,9 @@ image::emb2010.jpg[На главную страницу]
 === https://mgri-university.github.io/reggeo/GGIS.html[Горно-Геологические Информационные Системы]
 
 === https://mgri-university.github.io/reggeo/OsnCifKart.html[Основы цифровой картографии]
-''''
+
 //=== https://mgri-university.github.io/reggeo/krim_practice.html[Крымская Практика]
-''''
+
 
 ''''
 почта для связи samohvalovsa@mgri.ru

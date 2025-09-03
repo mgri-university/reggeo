@@ -5,37 +5,12 @@
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
 
-=== https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
-
-
-=== Учебные дисциплины и рабочие программы:
+// === https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
 
 ''''
-=== https://mgri-university.github.io/reggeo/geotektonika.html[Геотектоника и геодинамика]
+=== https://mgri-university.github.io/reggeo/index.html[Учебные дисциплины и рабочие программы]
 
-=== https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)]
-
-=== https://mgri-university.github.io/reggeo/regiongeol-2.html[Региональная геология (Складчатые пояса)]
-
-=== https://mgri-university.github.io/reggeo/istgeol.html[Историческая геология]
-
-=== https://mgri-university.github.io/reggeo/istgeol_paleo.html[Историческая геология с основами палеонтологии]
-
-=== https://mgri-university.github.io/reggeo/formanalis.html[Формационный анализ]
-
-=== https://mgri-university.github.io/reggeo/stratigraphia.html[Общая Стратиграфия]
-
-=== https://mgri-university.github.io/reggeo/paleontology.html[Палеонтология]
-
-=== https://mgri-university.github.io/reggeo/GIS.html[Картографическое моделирование в ГИС]
-
-=== https://mgri-university.github.io/reggeo/GGIS.html[Горно-Геологические Информационные Системы]
-
-=== https://mgri-university.github.io/reggeo/OsnCifKart.html[Основы цифровой картографии]
 ''''
-//=== https://mgri-university.github.io/reggeo/krim_practice.html[Крымская Практика]
-''''
-
 === Другие разделы сайта:
 
 ''''
