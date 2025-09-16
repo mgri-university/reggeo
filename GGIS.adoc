@@ -9,24 +9,8 @@
 image::emb2010.jpg[На главную страницу] 
 
 == Горно-Геологические Информационные Системы
-
-ссылки на сайты ГГИС распространенных в Северной Евразии:
-
-https://www.dataminesoftware.com/
-
-https://www.maptek.com/ru/vulcan.html
-
-https://www.3ds.com/ru/produkty-i-uslugi/geovia/produkty/surpac/
-
-https://k-mine.com/
-
-https://www.micromine.kz
-
-https://thegeos.ru/
-
-https://geomix.ru/
-
-http://mineframe.ru/
+Ниже приведена ссылка на актуальную обзорную статью о состоянии ГГИС в России, в конце есть список сайтов производителей ПО.
+https://dzen.ru/a/Z2oaqGFHPwG1cPll?ysclid=mfmc52cqig654610960[Горно-геологические информационные системы в России. Что дальше?]
 
 == Учебные материалы по курсу ГГИС теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
 
