@@ -5,7 +5,7 @@
 [link=https://mgri-university.github.io/reggeo/index.html]
 image::emb2010.jpg[На главную страницу] 
 
-// === https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
+=== https://mgri-university.github.io/reggeo/raspisanie.html[Расписание консультаций]
 
 ''''
 === https://mgri-university.github.io/reggeo/kyrsi.html[Учебные дисциплины и рабочие программы]
