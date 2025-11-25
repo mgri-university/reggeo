@@ -1,0 +1,31 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+== Горно-Геологические Информационные Системы
+
+[%autowidth]
+|===
+|№ |Название	|ссылка	
+|1|Задание №1 По началу работы и созданию первого проекта в ГГИС Datamine| https://disk.360.yandex.com/d/FDdz9gotxQe0ug[на_яндекс_диск]
+|===
+
+
+
+
+== Учебные материалы по курсу ГГИС теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
+
+
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
