@@ -18,13 +18,17 @@ image::emb2010.jpg[На главную страницу]
 
 |1|Учебное пособие|Рабочая программа, методические указания,
 вопросы для самопроверки и контрольные задания
-для студентов заочного обучения по направлению 130300
-"Прикладная геология"
-Составитель В.Б.Караулов|https://mgri-university.github.io/reggeo/images/regiongeo/zo_posobie_karaulov.doc[Скачать]
-|2|Вопросы|Примеры текущего контроля по дисциплине
-|https://mgri-university.github.io/reggeo/images/regiongeo/zo_control_voprosi.doc[Скачать]
-|3|титульный лист|титульный лист для контрольных работ|https://mgri-university.github.io/reggeo/images/regiongeo/titul-Kotrol_rab.doc[Скачать]
-|4|бланк|Схема тектонического районирования Северной Евразии|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать] 
+для студентов заочного обучения по направлению "Прикладная геология" Составитель В.Б.Караулов| https://mgri-university.github.io/reggeo/images/regiongeo/zo_posobie_karaulov.doc[Скачать]
+
+|2|титульный лист|Актуальный титульный лист для контрольных работ| https://mgri-university.github.io/reggeo/images/regiongeo/titul-Kotrol_rab.doc[Скачать]
+
+|3|бланк|Схема тектонического районирования Северной Евразии| https://disk.360.yandex.com/i/8rsPOs4kV3gssg[Скачать] 
+
+|4|Вопросы к контрольным работам |Вопросы к контрольным работам и примеры текущего контроля по дисциплине
+| https://mgri-university.github.io/reggeo/images/regiongeo/zo_control_voprosi.doc[Скачать]
+
+|5|Презентация| презентация региональная геология:Древние платформы (заочное отделение) | https://disk.yandex.ru/i/KKlEuX1nuewwNg[скачать]
+
 |===
 
 ''''
