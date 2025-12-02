@@ -30,6 +30,9 @@ image::emb2010.jpg[На главную страницу]
 
 === https://mgri-university.github.io/reggeo/OsnCifKart.html[Основы цифровой картографии]
 
+=== https://mgri-university.github.io/reggeo/obuchenie_slujeniem.html[Обучение служением]
+
+
 //=== https://mgri-university.github.io/reggeo/krim_practice.html[Крымская Практика]
 
 
