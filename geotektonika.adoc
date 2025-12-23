@@ -59,6 +59,10 @@ https://mgri-university.github.io/reggeo/images/geotekt/KP_geotekt_2021.pdf[Ск
 
 == Учебные материалы по курсу Геотектоники и геодинамики теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
 
+++++
+<div class="sketchfab-embed-wrapper"> <iframe title="Exploded view of tectonic plates" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e9eeeeab3ba844aabf6b9f88b7ea8bc3/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/exploded-view-of-tectonic-plates-e9eeeeab3ba844aabf6b9f88b7ea8bc3?utm_medium=embed&utm_campaign=share-popup&utm_content=e9eeeeab3ba844aabf6b9f88b7ea8bc3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Exploded view of tectonic plates </a> by <a href="https://sketchfab.com/linajakaite?utm_medium=embed&utm_campaign=share-popup&utm_content=e9eeeeab3ba844aabf6b9f88b7ea8bc3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> linajakaite </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=e9eeeeab3ba844aabf6b9f88b7ea8bc3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+++++
+
 ''''
 https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
