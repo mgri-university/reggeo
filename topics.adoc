@@ -1,0 +1,596 @@
+= Выбор тем для курсовых работ
+:page-layout: default
+:nofooter:
+
+++++
+<style>
+  /* ── Tokens ── */
+  :root {
+    --bg:       #F7F6F2;
+    --surface:  #FFFFFF;
+    --border:   #DDD8CC;
+    --text:     #1A1A1A;
+    --muted:    #6B6B6B;
+    --accent:   #2B5BA8;
+    --accent-h: #1A3F7A;
+    --free:     #1A6B3C;
+    --free-bg:  #EAF5EE;
+    --taken:    #8B3A2A;
+    --taken-bg: #FBF0EE;
+    --radius:   6px;
+    --font-ui:  'Segoe UI', system-ui, sans-serif;
+    --font-mono:'Courier New', monospace;
+  }
+
+  #topics-app * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  #topics-app {
+    font-family: var(--font-ui);
+    color: var(--text);
+    background: var(--bg);
+    padding: 2rem 1rem;
+    min-height: 60vh;
+  }
+
+  .ta-header {
+    max-width: 860px;
+    margin: 0 auto 2rem;
+  }
+
+  .ta-header h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: .4rem;
+  }
+
+  .ta-header p {
+    color: var(--muted);
+    font-size: .9rem;
+    line-height: 1.5;
+  }
+
+  /* Search + filter bar */
+  .ta-controls {
+    max-width: 860px;
+    margin: 0 auto 1.25rem;
+    display: flex;
+    gap: .6rem;
+    flex-wrap: wrap;
+  }
+
+  .ta-search {
+    flex: 1 1 200px;
+    padding: .55rem .8rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-size: .9rem;
+    background: var(--surface);
+    color: var(--text);
+    outline: none;
+    transition: border-color .15s;
+  }
+  .ta-search:focus { border-color: var(--accent); }
+
+  .ta-filter-btn {
+    padding: .5rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    color: var(--muted);
+    font-size: .85rem;
+    cursor: pointer;
+    transition: background .15s, color .15s, border-color .15s;
+  }
+  .ta-filter-btn.active {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+
+  /* Stats strip */
+  .ta-stats {
+    max-width: 860px;
+    margin: 0 auto .75rem;
+    font-size: .8rem;
+    color: var(--muted);
+    display: flex;
+    gap: 1.2rem;
+  }
+  .ta-stats span b { color: var(--text); }
+
+  /* Table */
+  .ta-table-wrap {
+    max-width: 860px;
+    margin: 0 auto;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  table.ta-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface);
+    font-size: .875rem;
+  }
+
+  .ta-table thead th {
+    background: #F0EDE6;
+    padding: .65rem .9rem;
+    text-align: left;
+    font-size: .75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .ta-table tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background .1s;
+  }
+  .ta-table tbody tr:last-child { border-bottom: none; }
+  .ta-table tbody tr:hover { background: #FAF9F6; }
+  .ta-table tbody tr.taken-row { opacity: .72; }
+
+  .ta-table td {
+    padding: .7rem .9rem;
+    vertical-align: middle;
+    line-height: 1.4;
+  }
+
+  .td-num {
+    font-family: var(--font-mono);
+    font-size: .8rem;
+    color: var(--muted);
+    white-space: nowrap;
+    width: 3rem;
+  }
+
+  .td-title { width: auto; }
+
+  .td-status { white-space: nowrap; width: 7rem; }
+
+  .badge {
+    display: inline-block;
+    padding: .25rem .65rem;
+    border-radius: 20px;
+    font-size: .75rem;
+    font-weight: 600;
+  }
+  .badge-free   { background: var(--free-bg);  color: var(--free); }
+  .badge-taken  { background: var(--taken-bg); color: var(--taken); }
+
+  .td-action { width: 8rem; text-align: right; }
+
+  .btn-select {
+    padding: .38rem .85rem;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: var(--radius);
+    font-size: .8rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  .btn-select:hover { background: var(--accent-h); }
+  .btn-select:disabled {
+    background: var(--border);
+    color: var(--muted);
+    cursor: not-allowed;
+  }
+
+  /* Modal */
+  .ta-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.45);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  .ta-overlay.open { display: flex; }
+
+  .ta-modal {
+    background: var(--surface);
+    border-radius: 10px;
+    max-width: 520px;
+    width: 100%;
+    padding: 2rem;
+    box-shadow: 0 8px 40px rgba(0,0,0,.18);
+  }
+
+  .ta-modal h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: .5rem;
+  }
+
+  .ta-modal .topic-preview {
+    font-size: .85rem;
+    color: var(--muted);
+    background: var(--bg);
+    padding: .6rem .8rem;
+    border-radius: var(--radius);
+    margin-bottom: 1.25rem;
+    line-height: 1.45;
+    border-left: 3px solid var(--accent);
+  }
+
+  .ta-modal label {
+    display: block;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    color: var(--muted);
+    margin-bottom: .35rem;
+  }
+
+  .ta-modal input[type=text] {
+    width: 100%;
+    padding: .6rem .8rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-size: .95rem;
+    color: var(--text);
+    background: var(--bg);
+    outline: none;
+    transition: border-color .15s;
+    margin-bottom: 1.25rem;
+  }
+  .ta-modal input[type=text]:focus { border-color: var(--accent); }
+
+  .ta-modal-actions {
+    display: flex;
+    gap: .6rem;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  }
+
+  .btn-cancel {
+    padding: .5rem 1.1rem;
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-size: .875rem;
+    color: var(--muted);
+    cursor: pointer;
+  }
+  .btn-confirm {
+    padding: .5rem 1.3rem;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: var(--radius);
+    font-size: .875rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  .btn-confirm:hover { background: var(--accent-h); }
+  .btn-confirm:disabled { background: var(--border); color: var(--muted); cursor: not-allowed; }
+
+  .ta-notice {
+    font-size: .78rem;
+    color: var(--muted);
+    margin-top: .75rem;
+    line-height: 1.4;
+  }
+
+  /* Loading / error */
+  .ta-state {
+    max-width: 860px;
+    margin: 2rem auto;
+    text-align: center;
+    color: var(--muted);
+    font-size: .9rem;
+    padding: 3rem 1rem;
+    border: 1px dashed var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+
+  /* Empty filter result */
+  .ta-empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 2rem;
+    font-size: .875rem;
+  }
+
+  @media (max-width: 600px) {
+    .td-num { display: none; }
+    .ta-table td { padding: .55rem .6rem; }
+    .ta-modal { padding: 1.25rem; }
+  }
+</style>
+
+<div id="topics-app">
+  <div class="ta-header">
+    <h1>Темы курсовых работ</h1>
+    <p>Найдите интересующую вас тему и нажмите «Выбрать». Для изменения ранее выбранной темы — нажмите «Выбрать» на новой теме и введите те же ФИО.</p>
+  </div>
+
+  <div class="ta-controls">
+    <input class="ta-search" type="text" id="ta-search" placeholder="Поиск по названию темы…" oninput="renderTable()">
+    <button class="ta-filter-btn active" id="btn-all"   onclick="setFilter('all')">Все</button>
+    <button class="ta-filter-btn"        id="btn-free"  onclick="setFilter('free')">Только свободные</button>
+    <button class="ta-filter-btn"        id="btn-taken" onclick="setFilter('taken')">Занятые</button>
+  </div>
+
+  <div class="ta-stats" id="ta-stats"></div>
+
+  <div id="ta-content">
+    <div class="ta-state">Загрузка списка тем…</div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="ta-overlay" id="ta-overlay">
+  <div class="ta-modal">
+    <h2 id="modal-title">Выбор темы</h2>
+    <div class="ta-topic-preview" id="modal-topic-preview" style="font-size:.85rem;color:#6B6B6B;background:#F7F6F2;padding:.6rem .8rem;border-radius:6px;margin-bottom:1.25rem;line-height:1.45;border-left:3px solid #2B5BA8;"></div>
+    <label for="modal-name">Ваше ФИО</label>
+    <input type="text" id="modal-name" placeholder="Иванов Иван Иванович" oninput="validateModal()">
+    <div class="ta-modal-actions">
+      <button class="btn-cancel" onclick="closeModal()">Отмена</button>
+      <button class="btn-confirm" id="btn-confirm" onclick="submitChoice()" disabled>Подтвердить выбор</button>
+    </div>
+    <p class="ta-notice">После подтверждения откроется Яндекс Форма с предзаполненными данными. Отправьте её, чтобы зафиксировать выбор.<br>Для изменения темы выберите новую тему и введите те же ФИО — преподаватель увидит обновление.</p>
+  </div>
+</div>
+
+<script>
+// ════════════════════════════════════════════════════════════
+// НАСТРОЙКИ — замените на свои значения
+// ════════════════════════════════════════════════════════════
+
+// 1. Ссылка на CSV-экспорт вашей Яндекс Таблицы.
+//    В Яндекс Таблицах: Файл → Поделиться → Скопировать ссылку (доступ «Все, у кого есть ссылка»).
+//    Затем замените /edit#... на /export?format=csv&sheet=0
+//    Пример: https://docs.yandex.ru/spreadsheets/d/ВАШИ_ID/export?format=csv&sheet=0
+const SHEET_CSV_URL = 'ВСТАВЬТЕ_СЮДА_ССЫЛКУ_НА_CSV';
+
+// 2. Ссылка на вашу Яндекс Форму.
+//    В Яндекс Формах скопируйте ссылку на форму.
+//    Укажите параметры предзаполнения (answer_short_text_XXXXX=...) — 
+//    их можно найти в коде формы или через инструменты разработчика.
+//    Если параметры неизвестны — оставьте пустую строку, форма откроется без предзаполнения.
+const FORM_URL = 'ВСТАВЬТЕ_СЮДА_ССЫЛКУ_НА_ФОРМУ';
+
+// Параметры предзаполнения Яндекс Формы:
+// Узнать их можно открыв форму → F12 → Elements, найти name у полей ввода.
+const FORM_PARAM_NAME  = 'answer_short_text_XXXXX'; // параметр поля «ФИО»
+const FORM_PARAM_TOPIC = 'answer_short_text_YYYYY'; // параметр поля «Номер/название темы»
+
+// ════════════════════════════════════════════════════════════
+
+// Статические данные тем (резервный источник или единственный — до настройки таблицы)
+const STATIC_TOPICS = [
+  [1,"История геологического развития и тектоническое районирование фундамента Восточно-Европейской платформы."],
+  [2,"История геологического развития и структурно-формационная зональность докембрия Балтийского щита."],
+  [3,"Геология и полезные ископаемые Беломорского комплекса Балтийского щита."],
+  [4,"Геологическое строение и полезные ископаемые верхнеархейского комплекса (лопия) Балтийского щита."],
+  [5,"Закономерности геологического строения и минерагении нижнепротерозойских комплексов Балтийского щита (суйсарий, сариолий, ятулий)."],
+  [6,"Воронежский и Белорусский массивы: особенности геологического строения и минерагенического потенциала фундамента по комплексам докембрия."],
+  [7,"Сравнительный анализ геологической эволюции Карелии и Кольского полуострова в позднем протерозое."],
+  [8,"Верхнепротерозойский осадочный чехол Русской плиты: тектонические структуры, формационные комплексы и стадии развития."],
+  [9,"Рифейские отложения Восточно-Европейской платформы: стратиграфия, тектонические структуры и формационные комплексы."],
+  [10,"Рифейские авлакогены Восточно-Европейской платформы: пространственное размещение, строение и этапы формирования."],
+  [11,"Венд-кембрийский осадочный комплекс Восточно-Европейской платформы: стратиграфия и палеогеографические обстановки."],
+  [12,"Тектонические структуры и осадочные формации Русской плиты в раннем палеозое."],
+  [13,"Геологическое развитие Восточно-Европейской платформы в девонский период: эволюция структур, формаций и минерагения."],
+  [14,"Карбоновые отложения Восточно-Европейской платформы: стратиграфия и палеогеографические обстановки."],
+  [15,"Пермские отложения Восточно-Европейской платформы: стратиграфия и палеогеографические обстановки."],
+  [16,"Девонские авлакогены Восточно-Европейской платформы: пространственное размещение, структурные особенности и формационные комплексы."],
+  [17,"Припятская и Днепровско-Донецкая впадины: тектоническое строение и основные этапы развития."],
+  [18,"Триасовые отложения Восточно-Европейской платформы: стратиграфия и палеогеографические обстановки."],
+  [19,"Тектоническое строение Прикаспийской синеклизы: основные структурные элементы и история формирования."],
+  [20,"Тектоника фундамента Сибирской платформы: тектоническое районирование и основные структурные комплексы."],
+  [21,"Архейские образования Алданской зоны Алдано-Станового щита: структуры, формации и стадии развития."],
+  [22,"Геологическое строение и раннедокембрийская эволюция Становой зоны Алдано-Станового щита: стратиграфические комплексы, структуры и формации."],
+  [23,"Верхний архей – нижний протерозой Алданской зоны Алдано-Станового щита (структуры, формации, полезные ископаемые)."],
+  [24,"Глубинное строение Сибирской платформы: границы, рельеф фундамента и структурные этажи осадочного чехла."],
+  [25,"Рифейские отложения Сибирской платформы: стратиграфия, палеогеографические обстановки и тектонические структуры."],
+  [26,"Вендский (юдомский) комплекс Сибирской платформы: тектонические структуры и формационные комплексы."],
+  [27,"Кембрийский период на Сибирской платформе: стратиграфия, палеогеография и палеотектонические обстановки."],
+  [28,"Ордовикские и силурийские отложения Сибирской платформы: стратиграфия и палеогеографические реконструкции."],
+  [29,"Геологическое развитие Сибирской платформы в девоне и раннем карбоне: формации, тектоника и основные этапы."],
+  [30,"Тунгусская синеклиза: стратиграфия, тектоническое строение и основные этапы геологического развития."],
+  [31,"Трапповый магматизм Сибирской платформы: особенности проявления и геодинамические условия формирования."],
+  [32,"Кимберлитовый магматизм и алмазоносность Сибирской платформы: закономерности размещения и условия формирования."],
+  [33,"Вилюйская синеклиза: тектоническое строение и история геологического развития."],
+  [34,"Мезозойская активизация юга Сибирской платформы: тектонические структуры, формации, магматизм и минерагения."],
+  [35,"Геологическое строение и этапы формирования Пайхойско-Новоземельской складчатой системы."],
+  [36,"Тектоническое развитие Урала в среднем-позднем палеозое: основные структуры и этапы формирования."],
+  [37,"Особенности геологического строения и развития западной и восточной мегазон Уральской складчатой системы в палеозое."],
+  [38,"Каледониды Центрального Казахстана (структуры, формации, этапность развития)."],
+  [39,"Девонский вулканический пояс Центрального Казахстана."],
+  [40,"Герциниды Джунгаро-Балхашской складчатой системы (структуры, формации, этапы развития)."],
+  [41,"Сравнительная характеристика палеозоид Южного и Северного Тянь-Шаня (структуры, формации, этапность развития)."],
+  [42,"Мезозойско-кайнозойский этап развития Тянь-Шаня: тектонические структуры, формационные комплексы и минерагения."],
+  [43,"Геологическое строение и этапы формирования Чингиз-Тарбагатайской складчатой системы."],
+  [44,"Тектоническое строение и история геологического развития Иртышско-Зайсанской складчатой системы."],
+  [45,"Сравнительная характеристика геологического строения и развития Рудного и Горного Алтая."],
+  [46,"Каледониды Алтае-Тувинской складчатой системы: тектонические структуры, формации и этапность развития."],
+  [47,"Геологическое строение и этапы формирования Кузнецко-Саянских салаирид."],
+  [48,"Докембрийские комплексы и история геологического развития Саяно-Енисейской складчатой системы."],
+  [49,"Тектоническое строение и история геологического развития Байкальской горной области."],
+  [50,"Тектоническое развитие Монголо-Охотской складчатой системы в палеозое и мезозое: основные структуры и этапы формирования."],
+  [51,"Средне-позднепалеозойские наложенные впадины: структуры, формации, этапность развития, полезные ископаемые (черты сходства и отличия)."],
+  [52,"Тимано-Печорская плита: стратиграфия, тектонические структуры, этапность развития и минерагения."],
+  [53,"Тектоническое развитие Западно-Сибирской плиты в мезозое и кайнозое: основные структуры и этапы формирования."],
+  [54,"Клиноформные комплексы в разрезе чехла Западно-Сибирской плиты: стратиграфия, палеотектоника и палеогеография."],
+  [55,"Баженовская свита в разрезе чехла Западно-Сибирской плиты: стратиграфия, палеотектоника и палеогеография."],
+  [56,"Тектоническое районирование Верхояно-Чукотской складчатой области: структуры, формации и этапность развития."],
+  [57,"Тектоническое строение и развитие Яно-Колымской складчатой системы в позднем палеозое и мезозое."],
+  [58,"Сравнительная характеристика геосинклинальных комплексов Яно-Колымской и Анюйско-Чукотской складчатых систем."],
+  [59,"Охотско-Чукотский вулканический пояс: тектонические структуры, формации и этапность развития."],
+  [60,"Сихотэ-Алиньская складчатая система: тектонические структуры, формации и этапность развития."],
+  [61,"Особенности строения и мезозойско-кайнозойской истории формирования Тайгоносско-Корякской складчатой системы."],
+  [62,"Геологическое строение и этапы формирования Олюторско-Камчатской складчатой системы."],
+  [63,"Геосинклинальный комплекс Олюторско-Камчатских тихоокеанид (структуры, формации, история формирования)."],
+  [64,"Орогенный (неоген-четвертичный) вулканизм Камчатки: особенности проявления и геодинамические условия формирования."],
+  [65,"Геологическое строение и этапы формирования Сахалина: тектонические структуры и формационные комплексы."],
+  [66,"Домезозойские тектонические структуры Кавказа: история формирования в докембрии и палеозое."],
+  [67,"Юрские формационные комплексы Кавказа: состав, палеотектонические и палеогеографические условия формирования."],
+  [68,"Орогенный комплекс Кавказа: тектонические структуры, формации и история формирования."],
+  [69,"Мезозойско-кайнозойские комплексы Горного Крыма и геологическая история его формирования."],
+  [70,"Особенности строения и истории формирования Восточных Карпат: структуры, формации и минерагения."],
+  [71,"Копетдаг: тектонические структуры, формационные комплексы и этапность развития."],
+  [72,"Сравнительная характеристика разрезов чехла и мезозойско-кайнозойской истории формирования западной и восточной частей Туранской плиты."],
+  [73,"Фундамент Скифской плиты: тектонические структуры, формационные комплексы и этапность формирования."],
+  [74,"Стратиграфические комплексы в чехле Скифской плиты и история ее формирования в мезозое-кайнозое."],
+  [75,"Тектоническое строение и мезозой-кайнозойская история формирования Предкавказья."]
+];
+
+// ────────────────────────────────────────────────────────────
+let topics    = [];   // [{num, title, taken}]
+let filter    = 'all';
+let selected  = null; // {num, title}
+
+async function init() {
+  // Попытка загрузить статусы из Яндекс Таблицы
+  if (SHEET_CSV_URL && SHEET_CSV_URL !== 'ВСТАВЬТЕ_СЮДА_ССЫЛКУ_НА_CSV') {
+    try {
+      const resp = await fetch(SHEET_CSV_URL);
+      const csv  = await resp.text();
+      topics = parseCSV(csv);
+    } catch(e) {
+      topics = STATIC_TOPICS.map(([num, title]) => ({ num, title, taken: false }));
+    }
+  } else {
+    // Демо-режим: все темы свободны
+    topics = STATIC_TOPICS.map(([num, title]) => ({ num, title, taken: false }));
+  }
+  renderTable();
+}
+
+function parseCSV(csv) {
+  const rows = csv.trim().split('\n').slice(1); // пропускаем заголовок
+  return rows.map(row => {
+    // Ожидаемые столбцы: №, Название, Статус (Свободно/Занято)
+    const cols = row.split(',');
+    const num   = parseInt(cols[0]) || 0;
+    const title = (cols[1] || '').replace(/^"|"$/g, '').trim();
+    const stat  = (cols[2] || '').replace(/^"|"$/g, '').trim().toLowerCase();
+    return { num, title, taken: stat === 'занято' };
+  }).filter(t => t.num > 0);
+}
+
+function setFilter(f) {
+  filter = f;
+  ['all','free','taken'].forEach(id => {
+    document.getElementById('btn-' + id).classList.toggle('active', id === f);
+  });
+  renderTable();
+}
+
+function renderTable() {
+  const q = (document.getElementById('ta-search').value || '').toLowerCase();
+  const filtered = topics.filter(t => {
+    if (filter === 'free'  && t.taken)  return false;
+    if (filter === 'taken' && !t.taken) return false;
+    if (q && !t.title.toLowerCase().includes(q) && !String(t.num).includes(q)) return false;
+    return true;
+  });
+
+  const total = topics.length;
+  const free  = topics.filter(t => !t.taken).length;
+  document.getElementById('ta-stats').innerHTML =
+    `<span>Всего тем: <b>${total}</b></span>` +
+    `<span>Свободно: <b>${free}</b></span>` +
+    `<span>Занято: <b>${total - free}</b></span>`;
+
+  const wrap = document.getElementById('ta-content');
+  if (filtered.length === 0) {
+    wrap.innerHTML = '<div class="ta-table-wrap"><div class="ta-empty">Темы не найдены. Попробуйте изменить фильтр или поисковый запрос.</div></div>';
+    return;
+  }
+
+  const rows = filtered.map(t => `
+    <tr class="${t.taken ? 'taken-row' : ''}">
+      <td class="td-num">${t.num}</td>
+      <td class="td-title">${t.title}</td>
+      <td class="td-status"><span class="badge ${t.taken ? 'badge-taken' : 'badge-free'}">${t.taken ? 'Занято' : 'Свободно'}</span></td>
+      <td class="td-action">
+        <button class="btn-select" onclick="openModal(${t.num})" ${t.taken ? 'disabled title="Тема уже занята"' : ''}>
+          Выбрать
+        </button>
+      </td>
+    </tr>`).join('');
+
+  wrap.innerHTML = `
+    <div class="ta-table-wrap">
+      <table class="ta-table">
+        <thead>
+          <tr>
+            <th>№</th>
+            <th>Название темы</th>
+            <th>Статус</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>`;
+}
+
+function openModal(num) {
+  const t = topics.find(x => x.num === num);
+  if (!t) return;
+  selected = t;
+  document.getElementById('modal-title').textContent = `Тема №${t.num}`;
+  document.getElementById('modal-topic-preview').textContent = t.title;
+  document.getElementById('modal-name').value = '';
+  document.getElementById('btn-confirm').disabled = true;
+  document.getElementById('ta-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('modal-name').focus(), 50);
+}
+
+function closeModal() {
+  document.getElementById('ta-overlay').classList.remove('open');
+  selected = null;
+}
+
+function validateModal() {
+  const v = document.getElementById('modal-name').value.trim();
+  document.getElementById('btn-confirm').disabled = v.length < 3;
+}
+
+function submitChoice() {
+  if (!selected) return;
+  const name = document.getElementById('modal-name').value.trim();
+  if (name.length < 3) return;
+
+  let url = FORM_URL;
+  if (url && url !== 'ВСТАВЬТЕ_СЮДА_ССЫЛКУ_НА_ФОРМУ') {
+    const params = new URLSearchParams();
+    params.set(FORM_PARAM_NAME,  name);
+    params.set(FORM_PARAM_TOPIC, `№${selected.num} — ${selected.title}`);
+    url = url + (url.includes('?') ? '&' : '?') + params.toString();
+    window.open(url, '_blank');
+  } else {
+    // Демо: просто показываем что было бы
+    alert(`Демо-режим.\nФИО: ${name}\nТема: №${selected.num} — ${selected.title}\n\nВ реальном режиме здесь откроется Яндекс Форма.`);
+  }
+  closeModal();
+}
+
+// Закрыть по клику на фон
+document.getElementById('ta-overlay').addEventListener('click', function(e) {
+  if (e.target === this) closeModal();
+});
+
+// Закрыть по Escape
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+init();
+</script>
+++++
