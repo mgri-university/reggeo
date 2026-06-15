@@ -1,0 +1,135 @@
+= Региональная геология (Древние платформы)
+:toc: left
+:toc-title: Содержание
+:toclevels: 3
+:imagesdir: images
+:icons: font
+:sectanchors:
+:sectlinks:
+
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Региональная геология (Древние платформы)
+
+'''
+
+== О дисциплине
+
+Региональная геология (лат. _regionalis_ — областной) — наука геологического цикла, изучающая общие черты и особенности геологического строения, историю развития и полезные ископаемые отдельных участков (блоков или регионов) земной коры.
+Связывает множество направлений геологии — геофизику, петрографию, литологию, геохимию, стратиграфию и многие другие.
+Понятие «регион» распространяется на множество разноуровневых геологических объектов — от отдельного месторождения до древней платформы или складчатого пояса.
+
+'''
+
+== Модуль 1. Древние платформы (осенний семестр)
+
+=== Очное отделение
+
+==== Карты и схемы
+
+[cols="1,1", frame=none, grid=none]
+|===
+
+a|
+[#img-tekt-schema]
+.Схема тектонического районирования Северной Евразии
+[link=https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg]
+image::regiongeo/Tect_schema.jpg[Схема тектонического районирования,200,134]
+
+a|
+[#img-geomap]
+.Геологическая карта СССР 1:10 000 000 («Лёгкая» версия)
+[link=https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USSR_10m.jpg]
+image::regiongeo/icon_geomap_USSR_10m.jpg[Геологическая карта СССР,200,134]
+
+|===
+
+==== Таблицы и бланки
+
+[%autowidth, cols="^1,4,^1", options="header"]
+|===
+|№ |Название |Файл
+
+|Таблица 1
+|Тектонические комплексы складчатых областей
+|https://mgri-university.github.io/reggeo/images/regiongeo/tekt_kompl.pdf[Скачать PDF]
+
+|Таблица 2
+|Рекомендованные цвета стратонов
+|https://mgri-university.github.io/reggeo/images/regiongeo/tsveta_stratonov.pdf[Скачать PDF]
+
+|Бланк 1
+|Схема тектонического районирования Северной Евразии
+|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать JPG]
+
+|===
+
+==== Задания
+
+. https://mgri-university.github.io/reggeo/regiongeol_z1_EL-R.html[Составление схемы элементов рельефа территории России и ближнего зарубежья]
+. https://mgri-university.github.io/reggeo/regiongeol_z2_VEP.html[Историко-тектоническая схема Восточно-Европейской платформы]
+. https://mgri-university.github.io/reggeo/regiongeol_z3_skv_VEP.html[Проектный разрез глубокой скважины на Восточно-Европейской платформе]
+. https://mgri-university.github.io/reggeo/regiongeol_z4_Razrez_VEP.html[Проектный разрез через Восточно-Европейскую платформу]
+. https://mgri-university.github.io/reggeo/regiongeol_z5_SIB.html[Историко-тектоническая схема Сибирской платформы]
+. https://mgri-university.github.io/reggeo/regiongeol_z6_skv_SIB.html[Проектный разрез глубокой скважины на Сибирской платформе]
+
+==== Презентации
+
+https://disk.yandex.com/d/s59W8iNAJQhOew[Презентации к лекциям и лабораторным работам 2023 — Яндекс Диск]
+
+////
+=== Контрольная работа №1
+Методические указания по выполнению контрольной работы и список вариантов. Осень 2021.
+https://mgri-university.github.io/reggeo/images/regiongeo/KR1-2021.pdf[Скачать]
+////
+
+////
+|===
+|№	|тип |Название	|ссылка
+|5|вопросы|Вопросы к зачёту по Региональной геологии 2019|https://mgri-university.github.io/reggeo/images/reggeo_zachet.doc[Скачать]
+|===
+////
+
+'''
+
+=== Заочное отделение
+
+[%autowidth, cols="^1,2,4,^1", options="header"]
+|===
+|№ |Тип |Название |Файл
+
+|1
+|Учебное пособие
+|Рабочая программа, методические указания, вопросы для самопроверки и контрольные задания для студентов заочного обучения по направлению 130300 «Прикладная геология». Составитель В.Б. Караулов
+|https://mgri-university.github.io/reggeo/images/regiongeo/zo_posobie_karaulov.doc[Скачать DOC]
+
+|2
+|Вопросы
+|Примеры текущего контроля по дисциплине
+|https://mgri-university.github.io/reggeo/images/regiongeo/zo_control_voprosi.doc[Скачать DOC]
+
+|3
+|Бланк
+|Титульный лист для контрольных работ
+|https://mgri-university.github.io/reggeo/images/regiongeo/titul-Kotrol_rab.doc[Скачать DOC]
+
+|4
+|Бланк
+|Схема тектонического районирования Северной Евразии
+|https://mgri-university.github.io/reggeo/images/regiongeo/Tect_schema.jpg[Скачать JPG]
+
+|===
+
+'''
+
+== Учебники и учебные пособия
+
+Учебные материалы по курсу региональной геологии собраны в разделе
+https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия].
+
+'''
+
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
+
+'''
+
+_Почта для связи:_ samohvalovsa@mgri.ru
