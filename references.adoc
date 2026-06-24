@@ -19,6 +19,9 @@ image::emb2010.jpg[На главную страницу]
 
 |Проект по созданию виртуальной модели Земли| https://www.earthbyte.org/[перейти на сайт]
 
+|Ссылки на статьи по теме геотектоника LLNL-G3Dv3: Global P wave tomography model for improved regional and teleseismic travel time prediction
+N. A. Simmons, S. C. Myers, G. Johannesson, E. Matzel|https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009525[перейти на сайт]
+
 |===
 
 ''''
