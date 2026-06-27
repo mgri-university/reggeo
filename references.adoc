@@ -1,28 +1,39 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Полезные ссылки
 :imagesdir: images
+:icons: font
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Полезные ссылки
 
-
+'''
 
 == Полезные ссылки на сторонние ресурсы
 
+[%autowidth, cols="3,^1", options="header"]
+|===
+|Описание |Ссылка
+
+|Интерактивная геологическая карта мира, с информацией о географических названиях на английском языке
+|https://macrostrat.org/map/#/z=1.5/x=16/y=23/bedrock/lines/[Перейти на сайт]
+
+|Полезные ссылки с ресурса geohit.ru
+|http://www.geohit.ru/map/1.html[Перейти на сайт]
+
+|Карта поверхности континентов и океанов
+|https://maps-for-free.com/[maps-for-free.com]
+
+|Проект по созданию виртуальной модели Земли
+|https://www.earthbyte.org/[Перейти на сайт]
+
+|LLNL-G3Dv3: Global P wave tomography model for improved regional and teleseismic travel time prediction. N. A. Simmons, S. C. Myers, G. Johannesson, E. Matzel
+|https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009525[Перейти на сайт]
+
 |===
 
-|Интерактивная Геологическая карта мира, с информацией о географических названиях на английском языке | https://macrostrat.org/map/#/z=1.5/x=16/y=23/bedrock/lines/[перейти на сайт]
+'''
 
-|Полезные ссылки с ресурса geohit.ru | http://www.geohit.ru/map/1.html[перейти на сайт]
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
 
-|карта поверхности континентов и океанов|https://maps-for-free.com/[maps-for-free.com]
+'''
 
-|Проект по созданию виртуальной модели Земли| https://www.earthbyte.org/[перейти на сайт]
-
-|Ссылки на статьи по теме геотектоника LLNL-G3Dv3: Global P wave tomography model for improved regional and teleseismic travel time prediction
-N. A. Simmons, S. C. Myers, G. Johannesson, E. Matzel|https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009525[перейти на сайт]
-
-|===
-
-''''
-почта для связи samohvalovsa@mgri.ru
+_Почта для связи:_ samohvalovsa@mgri.ru

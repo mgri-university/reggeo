@@ -1,33 +1,46 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Крымская практика
 :imagesdir: images
-:toc: preamble
-:toc-title: Оглавление
-:toclevels: 2 
+:icons: font
 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Крымская практика
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+'''
 
+== Материалы
 
-[sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim_practice_.html[Крымская практика]
-
-
-== Крымская практика 
-[%autowidth]
+[%autowidth, cols="^1,3,^1", options="header"]
 |===
-|1| Снаряжение, канцтовары | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
-|2| Образец этикетки | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
-|3| Литература | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
-|4| Научные статьи о Крымском полуострове | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
-// |6| Лекции доц. А.В.Туров | https://disk.yandex.ru/d/H6IdKriMLpNXTA[Яндекс диск]
-// |7| Материалы к Отчёту | https://disk.yandex.ru/d/Nian6y2ahILtog[Яндекс диск]
+|№ |Название |Файл
+
+|1
+|Снаряжение, канцтовары
+|https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс Диск]
+
+|2
+|Образец этикетки
+|https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс Диск]
+
+|3
+|Литература
+|https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс Диск]
+
+|4
+|Научные статьи о Крымском полуострове
+|https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс Диск]
 
 |===
-''''
-https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
-''''
+////
+Дополнительные материалы (временно скрыты):
+|6| Лекции доц. А.В.Туров | https://disk.yandex.ru/d/H6IdKriMLpNXTA[Яндекс диск]
+|7| Материалы к Отчёту | https://disk.yandex.ru/d/Nian6y2ahILtog[Яндекс диск]
+////
 
-почта для связи samohvalovsa@mgri.ru
+'''
+
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
+
+'''
+
+_Почта для связи:_ samohvalovsa@mgri.ru

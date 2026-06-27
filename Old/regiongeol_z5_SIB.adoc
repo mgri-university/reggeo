@@ -1,11 +1,15 @@
-= Задание №5. Историко-тектоническая схема Сибирской платформы
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
 :imagesdir: images
-:icons: font
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
 
-// Хлебные крошки
-https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)] / Задание №5
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
 
-'''
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)]
 
 === Задание 5. Историко-тектоническая схема Сибирской платформы
 ****
@@ -33,10 +37,9 @@ https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / https
 |===
 ****
 
-'''
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
-https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
+''''
 
-'''
-
-_Почта для связи:_ samohvalovsa@mgri.ru
+почта для связи samohvalovsa@mgri.ru

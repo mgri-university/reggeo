@@ -1,0 +1,74 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+== Геотектоника и геодинамика
+
+«Геотектоника и геодинамика» - заключительный курс всего комплекса геологических дисциплин, преподаваемых в РГГРУ. Главная цель этого курса – создание у студента целостного представления о строении Земли, ее развитии и условиях возникновения полезных ископаемых. По-существу это творческий синтез наиболее важных материалов целого ряда дисциплин, изложенных в курсах «Общая геология», «Стратиграфия», «Структурная геология», «Историческая геология», «Региональная геология», «Дистанционные методы", «Геоморфология», «Heoтектоника», «Геология месторождений полезных ископаемых", «Основы металлогении» и др.
+Освоив курс «Геотектоника н геодинамика», студент должен разбираться в иерархии тектонических единиц, закономерностях их размещения на поверхности Земли, в особенностях эволюции Земли и ее верхних оболочек, иметь представление о методах тектонического анализа, составления геотектонических и гсодинамических карт и геологической основы для прогнозно-минерагеничееких карт.
+
+[#img-ULight_tectonic_world_map] 
+.Тектоническая карта мира  1:45 000 000 ("Лёгкая" версия)
+[link=https://mgri-university.github.io/reggeo/images/geotekt/ULight_tectonic_world_map.jpg] 
+image::geotekt/ULight_tectonic_world_map.jpg[Тектоническая карта мира,300,200]
+
+=== Лабораторная работа № 1. Составление схемы расположения крупнейших тектонических структур земной коры.
+****
+Схема составляется на бланковой основе по Тектонической карте Мира масштаба 1:45000000, опубликованной в 1982 г. Бланковую основу и условные обозначения к схеме следует распечатать из комплекта электронных материалов по геотектонике и геодинамике. На схеме с помощью цвета, крапа, а также буквенных и цифровых обозначений изображаются древние платформы, складчатые пояса, современные орогенные области, переходные зоны (океанские окраины), срединно-океанические хребты, океанические платформы и другие структуры. При сдаче схемы студент должен быть готов показать любую из этих структур на Тектонической карте Мира.
+[%autowidth]
+|===
+|№	|тип |Название	|ссылка	
+
+|1|бланк| Схема тектонических структур |https://mgri-university.github.io/reggeo/images/geotekt/tekt_schema_mira.jpg[Скачать]
+|2|Условные Обозначения|Условные Обозначения к схеме тектонических структур|https://mgri-university.github.io/reggeo/images/geotekt/UO_k_tect_scheme_mira.doc[Скачать]
+|3|Карта|Тектоническая карта мира | https://mgri-university.github.io/reggeo/images/tectonic_world_map.zip[Скачать]
+|4|Карта|Физические карты океанов мира |https://mgri-university.github.io/reggeo/images/geotekt/Oceans.zip[Скачать]
+|5|карты|карта поверхности континентов и океанов|https://maps-for-free.com/[maps-for-free.com]
+|6|презентация|Презентация "Схема основных структурных элементов земной коры"|https://disk.yandex.com/d/SaWABDr27Ewqbg[Скачать с яндекс.диска]
+|===
+****
+
+=== Лабораторная работа № 2. Составление схемы расположения литосферных плит на поверхности Земли.
+****
+Схема составляется на такой же бланковой основе, как и схема тектонических структур. Студент может сам придумать цветные или штриховые знаки для обозначения разных литосферных плит. При составлении схемы можно использовать схему расположения литосферных плит из учебника В.Е.Хаина и М.Г.Ломизе. При сдаче схемы студент должен уметь показать на Тектонической карте Мира границы литосферных плит и объяснить различия между границами дивергентного, конвергентного и трансформного типов.
+
+.B Схема литосферных плит
+[link=https://mgri-university.github.io/reggeo/images/plates.jpg]
+image::plates.jpg[Литосферные плиты,300,200]
+****
+=== Лабораторная работа № 3. Составление легенды тектонической карты масштаба 1:100000-1:50000.
+****
+Для разработки макета условных обозначений к среднемасштабной тектонической карте можно воспользоваться геологической картой из атласа учебных геологических карт или любой другой геологической картой того же масштаба. С методикой составления тектонических карт масштаба 1:100000-1:50000 можно ознакомиться в пособии В.М.Цейслера и др. (1988). Соответствующий раздел этого пособия содержится также в комплекте электронных материалов по геотектонике и геодинамике.
+[%autowidth]
+|===
+|№	|тип |Название	|ссылка	
+
+|1|учебные карты|Учебные Геологические карты, №1-30|https://www.geokniga.org/mapgroups/2397[Скачать с geokniga.org]
+|2|методические указания|Методические указания к лабораторным работам (2021г) Туров А.В.|
+https://mgri-university.github.io/reggeo/images/geotekt/Guidelines_Geotectonics_and_geodynamics_2021.pdf[Скачать]
+|3| Архив с учебными материалами |Учебно-методические материалы к курсу геотектоники | https://mgri-university.github.io/reggeo/images/new_geotektonika.zip[Скачать]
+|===
+****
+== Контрольные задания.
+Геотектоника. 5 курс. Методические указания по выполнению контрольной работы и список вариантов. Осень 2021.
+
+https://mgri-university.github.io/reggeo/images/geotekt/KP_geotekt_2021.pdf[Скачать] 
+
+
+== Учебные материалы по курсу Геотектоники и геодинамики теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
+
+++++
+<div class="sketchfab-embed-wrapper"> <iframe title="Exploded view of tectonic plates" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e9eeeeab3ba844aabf6b9f88b7ea8bc3/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/exploded-view-of-tectonic-plates-e9eeeeab3ba844aabf6b9f88b7ea8bc3?utm_medium=embed&utm_campaign=share-popup&utm_content=e9eeeeab3ba844aabf6b9f88b7ea8bc3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Exploded view of tectonic plates </a> by <a href="https://sketchfab.com/linajakaite?utm_medium=embed&utm_campaign=share-popup&utm_content=e9eeeeab3ba844aabf6b9f88b7ea8bc3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> linajakaite </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=e9eeeeab3ba844aabf6b9f88b7ea8bc3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+++++
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
+
+
+

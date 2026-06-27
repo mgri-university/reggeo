@@ -1,0 +1,33 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+:toc: preamble
+:toc-title: Оглавление
+:toclevels: 2 
+
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/krim_practice_.html[Крымская практика]
+
+
+== Крымская практика 
+[%autowidth]
+|===
+|1| Снаряжение, канцтовары | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
+|2| Образец этикетки | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
+|3| Литература | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
+|4| Научные статьи о Крымском полуострове | https://disk.yandex.ru/d/NWQG2G-0ouLSaw[Яндекс диск]
+// |6| Лекции доц. А.В.Туров | https://disk.yandex.ru/d/H6IdKriMLpNXTA[Яндекс диск]
+// |7| Материалы к Отчёту | https://disk.yandex.ru/d/Nian6y2ahILtog[Яндекс диск]
+
+|===
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru

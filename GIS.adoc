@@ -1,43 +1,86 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Картографическое моделирование в ГИС
+:toc: left
+:toc-title: Содержание
+:toclevels: 2
 :imagesdir: images
+:icons: font
+:sectanchors:
+:sectlinks:
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Картографическое моделирование в ГИС
 
+'''
 
-== Картографическое моделирование в ГИС
-ГЕОИНФОРМАТИКА – это пограничная область знаний между гео-номией (науки о Земле) и собственно информатикой, как науки о законах и методах хранения, передачи и обработки информации с помощью ЭВМ. Можно ввести следующее определение: «ГЕОИНФОРМАТИКА – это наука об общих свойствах геоинформации, закономерностях и методах её поиска и регистрации, распространения и использования при изучении и освоении природных объектов, процессов и явлений»
+== О дисциплине
 
-== Задание №1 Создание цифровой геологической карты СССР 1975г.
+ГЕОИНФОРМАТИКА – это пограничная область знаний между гео-номией (науки о Земле) и собственно информатикой, как науки о законах и методах хранения, передачи и обработки информации с помощью ЭВМ. Можно ввести следующее определение: «ГЕОИНФОРМАТИКА – это наука об общих свойствах геоинформации, закономерностях и методах её поиска и регистрации, распространения и использования при изучении и освоении природных объектов, процессов и явлений».
+
+'''
+
+== Задание №1. Создание цифровой геологической карты СССР 1975 г.
+
+[%autowidth, cols="^1,2,4,^1", options="header"]
 |===
-|№	|тип |Название	|ссылка	
-|1|привязанный растр|Геологическая карта СССР 1975г.|https://disk.360.yandex.ru/i/kDvYFZu1YA2Rcg[скачать]
-|2|задание|ОЦИФРОВКА РАСТРА ГЕОЛОГИЧЕСКОЙ КАРТЫ НА ПРИМЕРЕ «ГЕОЛОГИЧЕСКОЙ КАРТЫ СССР 1975Г.»|https://disk.360.yandex.com/i/DgZafX4HEmhtOQ[скачать]
+|№ |Тип |Название |Файл
+
+|1
+|Привязанный растр
+|Геологическая карта СССР 1975 г.
+|https://disk.360.yandex.ru/i/kDvYFZu1YA2Rcg[Скачать]
+
+|2
+|Задание
+|Оцифровка растра геологической карты на примере «Геологической карты СССР 1975 г.»
+|https://disk.360.yandex.com/i/DgZafX4HEmhtOQ[Скачать]
+
 |===
 
+'''
 
+== Учебные материалы по курсу
 
-== Учебные материалы по курсу Картографическое моделирование в ГИС
+[%autowidth, cols="^1,2,4,^1", options="header"]
 |===
-|№	|тип |Название	|ссылка	
-|1|Учебник |Кузнецов О.Л., Никитин А.А., Черемисина Е.Н. Геоинформатика и геоинформационные системы 2005г. | http://www.geokniga.org/books/8249[Скачать на geokniga.org]
-|2|Программное Обеспечение|Arcview 3.2 Portable| https://cloud.mail.ru/public/EyG9/4tL9Q56LK[Скачать]
-|3|базы данных|База данных для выполнения заданий |  https://mgri-university.github.io/reggeo/images/GIS/shp_map.zip[Скачать]
-|4|базы данных|"Междуреченский плутон" База данных для выполнения заданий |  https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accdb[Скачать accdb]
-https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accde[Скачать accde]
-|5|Программное Обеспечение|LibreOffice Base (альтернатива MS Access)|https://www.libreoffice.org/download/download/[страница загрузки]
-|6|базы данных|Интрузии|https://mgri-university.github.io/reggeo/images/GIS/intruziv.7z[Скачать]
+|№ |Тип |Название |Файл
 
-// |7|конспекты|Конспекты лекций А.В.Туров|https://mgri-university.github.io/reggeo/images/GIS/GIS-konspekt.7z[Скачать]
-// |8|вопросы|примеры вопросов для тестирования|https://mgri-university.github.io/reggeo/images/GIS/primeri_voprosov.doc[Скачать]
+|1
+|Учебник
+|Кузнецов О.Л., Никитин А.А., Черемисина Е.Н. Геоинформатика и геоинформационные системы. 2005 г.
+|http://www.geokniga.org/books/8249[Скачать на geokniga.org]
+
+|2
+|Программное обеспечение
+|ArcView 3.2 Portable
+|https://cloud.mail.ru/public/EyG9/4tL9Q56LK[Скачать]
+
+|3
+|База данных
+|База данных для выполнения заданий
+|https://mgri-university.github.io/reggeo/images/GIS/shp_map.zip[Скачать]
+
+|4
+|База данных
+|«Междуреченский плутон». База данных для выполнения заданий
+|https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accdb[Скачать ACCDB] +
+https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accde[Скачать ACCDE]
+
+|5
+|Программное обеспечение
+|LibreOffice Base (альтернатива MS Access)
+|https://www.libreoffice.org/download/download/[Страница загрузки]
+
+|6
+|База данных
+|Интрузии
+|https://mgri-university.github.io/reggeo/images/GIS/intruziv.7z[Скачать]
+
 |===
-''''
-https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
-''''
+'''
 
-почта для связи samohvalovsa@mgri.ru
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
 
+'''
 
-
+_Почта для связи:_ samohvalovsa@mgri.ru

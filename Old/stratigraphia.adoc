@@ -1,0 +1,43 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+Стратигра́фия — наука, раздел геологии, об определении относительного геологического возраста слоистых осадочных и вулканогенных горных пород, расчленении толщ пород и корреляции различных геологических образований.
+
+|===
+|№	|тип |Название	|ссылка	
+|1|Задание|Задание №1 Изучение ярусной шкалы фанерозоя.|https://mgri-university.github.io/reggeo/images/stratig/zadanie1_jarus.docx[скачать]
+|2|Задание|Задание №2 Построение стратиграфической колонки по описанию.|https://mgri-university.github.io/reggeo/images/stratig/zadanie2_kolonka.docx[скачать]
+|3|Задание|Задание №3 Корреляция разрезов района Крымской учебной геологической практики.|https://mgri-university.github.io/reggeo/images/stratig/zadanie3_korrelation.doc[Задание]
+
+ https://mgri-university.github.io/reggeo/images/stratig/zadanie3_blank.jpg[Бланк]
+
+|4|Задание|Задание 4. Расчленение и корреляция разрезов с использованием минералого-петрографического метода.|https://mgri-university.github.io/reggeo/images/stratig/zadanie4_mineral.docx[скачать]
+
+|1|Учебная Литература |Комаров В.Н., Андрухович А.О., Туров А.В. Основы стратиграфии. 2018г.| https://mgri-university.github.io/reggeo/images/stratig/osnovi_stratigraphii.pdf[скачать]
+|2|Учебная Литература |Комаров В.Н., Андрухович А.О., Туров А.В.
+ОЧЕРКИ ПО ИСТОРИИ ГЕОЛОГИЧЕСКИХ ЗНАНИЙ 2018г.| https://mgri-university.github.io/reggeo/images/stratig/ocherki_po_istorii_geoznanii.pdf[скачать]
+|3|Учебная Литература |Садовников Г.Н., Комаров В.Н., Андрухович А.О., Туров А.В., Самохвалов С.А.
+История развития органического мира Земли: основные закономерности и
+комплексы руководящих окаменелостей 2019г.| https://mgri-university.github.io/reggeo/images/stratig/posobie_po_kompleksam.pdf[скачать]
+|4| Справочная литература|Стратиграфический кодекс России 2006г.|http://www.geokniga.org/books/892
+|5|Учебник|Общая стратиграфия. Прозоровский В.А.|http://www.geokniga.org/books/12414
+|6|Методические указания | А.О. Андрухович, В.Н. Комаров, А.В. Туров. Историческая геология. Методические указания
+к лабораторным занятиям. 2016г.| https://mgri-university.github.io/reggeo/images/posobie_istgeol_2016.doc[скачать]
+|7|Учебник|Практическая стратиграфия 1984г.|http://www.geokniga.org/books/12457
+|8|Учебные материалы|Данные по каратожу скважин|
+https://mgri-university.github.io/reggeo/images/stratig/carotaj_skv123.jpg[скважины 1-2,3]
+https://mgri-university.github.io/reggeo/images/stratig/carotaj_skv145.jpg[скважины 1-4,5]
+https://mgri-university.github.io/reggeo/images/stratig/carotaj_skv167.jpg[скважины 1-6,7]
+|===
+
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru

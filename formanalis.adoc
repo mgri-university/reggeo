@@ -1,33 +1,77 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Формационный анализ
+:toc: left
+:toc-title: Содержание
+:toclevels: 2
 :imagesdir: images
+:icons: font
+:sectanchors:
+:sectlinks:
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Формационный анализ
 
-Формационный анализ - это метод получения разнообразной геологической информации на основе имеющихся знаний о составе, строении, взаимоотношениях во времени и в пространстве геологических формаций или их частей.
+'''
+
+== О дисциплине
+
+Формационный анализ — это метод получения разнообразной геологической информации на основе имеющихся знаний о составе, строении, взаимоотношениях во времени и в пространстве геологических формаций или их частей.
+
+'''
+
+== Задания и материалы
+
+[%autowidth, cols="1,3,^1", options="header"]
+|===
+|Задание |Описание |Файл
+
+|Л/р №1
+|Методические указания к лабораторной работе №1
+|https://mgri-university.github.io/reggeo/images/formanalis/lab1.doc[Скачать]
+
+|Варианты к работам
+|
+|https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[Скачать]
+
+|Л/р №2
+|Методические указания к лабораторной работе №2
+|https://mgri-university.github.io/reggeo/images/formanalis/lab2.doc[Скачать]
+
+|Лекции
+|Презентации к лекциям 1–10, 2020 г. А.В. Туров
+|https://disk.yandex.ru/d/wCdOp1YcEE6siw[Скачать]
+
+|Вопросы
+|Вопросы к зачёту 2021
+|https://mgri-university.github.io/reggeo/images/formanalis/voprosi_k_zachety_formanaliz.docx[Скачать]
 
 |===
-|Задание|Описание|ссылка
-|Л/р №1 |Методические указания к лабораторной работе #1|https://mgri-university.github.io/reggeo/images/formanalis/lab1.doc[скачать]
-|Варианты к Работам ||https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[скачать]
-|Л/р №2 |Методические указания к лабораторной работе #2 |https://mgri-university.github.io/reggeo/images/formanalis/lab2.doc[скачать]
-|Лекции  | Презентации к лекциям 1-10 2020г. А.В.Туров | https://disk.yandex.ru/d/wCdOp1YcEE6siw[скачать]
 
-|Вопросы|Вопросы к зачёту 2021|https://mgri-university.github.io/reggeo/images/formanalis/voprosi_k_zachety_formanaliz.docx[скачать]
+'''
+
+== Учебная литература
+
+[%autowidth, cols="^1,3,^1", options="header"]
+|===
+|№ |Название |Файл
+
+|1
+|В.М. Цейслер. Основы формационного анализа. 2010
+|https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[Скачать]
+
+|2
+|В.М. Цейслер. Основы формационного анализа. 2002 (учебник)
+|https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[Скачать]
+
+|3
+|В.М. Цейслер. Основы формационного анализа. 2002 (для заочного отделения)
+|https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[Скачать]
+
 |===
 
+'''
 
-== Учебные материалы по курсу Формационного анализа
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
 
-|===
-|№	|тип |Название	|ссылка	
-|1|Учебное пособие|В.М. ЦЕЙСЛЕР ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА. 2010.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[скачать]
-|2|Учебник  |В.М. Цейслер ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА 2002 |https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[скачать]
-|3|Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
-|===
+'''
 
-
-''''
-
-почта для связи samohvalovsa@mgri.ru
+_Почта для связи:_ samohvalovsa@mgri.ru

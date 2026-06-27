@@ -1,0 +1,43 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+
+== Картографическое моделирование в ГИС
+ГЕОИНФОРМАТИКА – это пограничная область знаний между гео-номией (науки о Земле) и собственно информатикой, как науки о законах и методах хранения, передачи и обработки информации с помощью ЭВМ. Можно ввести следующее определение: «ГЕОИНФОРМАТИКА – это наука об общих свойствах геоинформации, закономерностях и методах её поиска и регистрации, распространения и использования при изучении и освоении природных объектов, процессов и явлений»
+
+== Задание №1 Создание цифровой геологической карты СССР 1975г.
+|===
+|№	|тип |Название	|ссылка	
+|1|привязанный растр|Геологическая карта СССР 1975г.|https://disk.360.yandex.ru/i/kDvYFZu1YA2Rcg[скачать]
+|2|задание|ОЦИФРОВКА РАСТРА ГЕОЛОГИЧЕСКОЙ КАРТЫ НА ПРИМЕРЕ «ГЕОЛОГИЧЕСКОЙ КАРТЫ СССР 1975Г.»|https://disk.360.yandex.com/i/DgZafX4HEmhtOQ[скачать]
+|===
+
+
+
+== Учебные материалы по курсу Картографическое моделирование в ГИС
+|===
+|№	|тип |Название	|ссылка	
+|1|Учебник |Кузнецов О.Л., Никитин А.А., Черемисина Е.Н. Геоинформатика и геоинформационные системы 2005г. | http://www.geokniga.org/books/8249[Скачать на geokniga.org]
+|2|Программное Обеспечение|Arcview 3.2 Portable| https://cloud.mail.ru/public/EyG9/4tL9Q56LK[Скачать]
+|3|базы данных|База данных для выполнения заданий |  https://mgri-university.github.io/reggeo/images/GIS/shp_map.zip[Скачать]
+|4|базы данных|"Междуреченский плутон" База данных для выполнения заданий |  https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accdb[Скачать accdb]
+https://mgri-university.github.io/reggeo/images/GIS/mejdurechenskii_pluton-new.accde[Скачать accde]
+|5|Программное Обеспечение|LibreOffice Base (альтернатива MS Access)|https://www.libreoffice.org/download/download/[страница загрузки]
+|6|базы данных|Интрузии|https://mgri-university.github.io/reggeo/images/GIS/intruziv.7z[Скачать]
+
+// |7|конспекты|Конспекты лекций А.В.Туров|https://mgri-university.github.io/reggeo/images/GIS/GIS-konspekt.7z[Скачать]
+// |8|вопросы|примеры вопросов для тестирования|https://mgri-university.github.io/reggeo/images/GIS/primeri_voprosov.doc[Скачать]
+|===
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+
+''''
+
+почта для связи samohvalovsa@mgri.ru
+
+
+

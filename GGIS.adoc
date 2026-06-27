@@ -1,24 +1,29 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Горно-геологические информационные системы
 :imagesdir: images
-:toc: preamble
-:toc-title: Оглавление
-:toclevels: 2 
+:icons: font
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Горно-геологические информационные системы
 
-== Горно-Геологические Информационные Системы
+'''
+
+== О дисциплине
+
 Ниже приведена ссылка на актуальную обзорную статью о состоянии ГГИС в России, в конце есть список сайтов производителей ПО.
+
 https://dzen.ru/a/Z2oaqGFHPwG1cPll?ysclid=mfmc52cqig654610960[Горно-геологические информационные системы в России. Что дальше?]
 
-== Учебные материалы по курсу ГГИС теперь в разделе https://mgri-university.github.io/reggeo/posobia.html[Учебники и Учебные пособия]
+'''
 
+== Учебники и учебные пособия
 
+Учебные материалы по курсу ГГИС собраны в разделе
+https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия].
 
-''''
-https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+'''
 
-''''
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
 
-почта для связи samohvalovsa@mgri.ru
+'''
+
+_Почта для связи:_ samohvalovsa@mgri.ru

@@ -1,20 +1,22 @@
-= Задание №4. Проектный разрез через Восточно-Европейскую платформу
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
 :toc: preamble
 :toc-title: Оглавление
-:toclevels: 2
-:imagesdir: images
-:icons: font
+:toclevels: 2 
 
-// Хлебные крошки
-https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)] / Задание №4
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
 
-'''
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)]
 
 == Лабораторная работа № 4. Проектный разрез через Восточно-Европейскую платформу.
 ****
 
 |===
 |№	|тип |Название	|ссылка	
+
 
 |2|Карта|Орографическая карта России и ближнего зарубежья|https://disk.yandex.com/i/LS-D5z_FIwXjeA[Скачать]
 
@@ -38,28 +40,21 @@ https://disk.yandex.com/i/8zhnsyKaBekOGw[Скачать с Яндекс диск
 ****
 
 === Примеры региональных разрезов
-image::regiongeo/Primer_oformleniya/R1.png[Пример оформления геологического разреза стр.1/9]
+image::regiongeo\Primer_oformleniya\R1.png[Пример оформления геологического разреза стр.1/9]
 
-image::regiongeo/Primer_oformleniya/R2.png[Пример оформления геологического разреза стр.2/9]
+image::regiongeo\Primer_oformleniya\R2.png[Пример оформления геологического разреза стр.2/9]
 
-image::regiongeo/Primer_oformleniya/R3.png[Пример оформления геологического разреза стр.3/9]
+image::regiongeo\Primer_oformleniya\R3.png[Пример оформления геологического разреза стр.3/9]
 
-image::regiongeo/Primer_oformleniya/R4.jpg[Пример оформления геологического разреза стр.4/9]
+image::regiongeo\Primer_oformleniya\R4.jpg[Пример оформления геологического разреза стр.4/9]
+image::regiongeo\Primer_oformleniya\R5.jpg[Пример оформления геологического разреза стр.5/9]
+image::regiongeo\Primer_oformleniya\R6.jpg[Пример оформления геологического разреза стр.6/9]
+image::regiongeo\Primer_oformleniya\R7.jpg[Пример оформления геологического разреза стр.7/9]
+image::regiongeo\Primer_oformleniya\R8.jpg[Пример оформления геологического разреза стр.8/9]
+image::regiongeo\Primer_oformleniya\R9.jpg[Пример оформления геологического разреза стр.9/9]
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
-image::regiongeo/Primer_oformleniya/R5.jpg[Пример оформления геологического разреза стр.5/9]
+''''
 
-image::regiongeo/Primer_oformleniya/R6.jpg[Пример оформления геологического разреза стр.6/9]
-
-image::regiongeo/Primer_oformleniya/R7.jpg[Пример оформления геологического разреза стр.7/9]
-
-image::regiongeo/Primer_oformleniya/R8.jpg[Пример оформления геологического разреза стр.8/9]
-
-image::regiongeo/Primer_oformleniya/R9.jpg[Пример оформления геологического разреза стр.9/9]
-
-'''
-
-https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
-
-'''
-
-_Почта для связи:_ samohvalovsa@mgri.ru
+почта для связи samohvalovsa@mgri.ru

@@ -1,0 +1,33 @@
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
+:imagesdir: images
+
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+Формационный анализ - это метод получения разнообразной геологической информации на основе имеющихся знаний о составе, строении, взаимоотношениях во времени и в пространстве геологических формаций или их частей.
+
+|===
+|Задание|Описание|ссылка
+|Л/р №1 |Методические указания к лабораторной работе #1|https://mgri-university.github.io/reggeo/images/formanalis/lab1.doc[скачать]
+|Варианты к Работам ||https://mgri-university.github.io/reggeo/images/formanalis/lba1_var.docx[скачать]
+|Л/р №2 |Методические указания к лабораторной работе #2 |https://mgri-university.github.io/reggeo/images/formanalis/lab2.doc[скачать]
+|Лекции  | Презентации к лекциям 1-10 2020г. А.В.Туров | https://disk.yandex.ru/d/wCdOp1YcEE6siw[скачать]
+
+|Вопросы|Вопросы к зачёту 2021|https://mgri-university.github.io/reggeo/images/formanalis/voprosi_k_zachety_formanaliz.docx[скачать]
+|===
+
+
+== Учебные материалы по курсу Формационного анализа
+
+|===
+|№	|тип |Название	|ссылка	
+|1|Учебное пособие|В.М. ЦЕЙСЛЕР ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА. 2010.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_posobie.doc[скачать]
+|2|Учебник  |В.М. Цейслер ОСНОВЫ ФОРМАЦИОННОГО АНАЛИЗА 2002 |https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_analiza_Ceisler_2002.pdf[скачать]
+|3|Учебное пособие для заочного отделения | В.М.Цейслер Основы формационного анализа. 2002.| https://mgri-university.github.io/reggeo/images/formanalis/Osnovi_form_zaoch.doc[скачать]
+|===
+
+
+''''
+
+почта для связи samohvalovsa@mgri.ru

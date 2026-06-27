@@ -1,11 +1,14 @@
-= Задание №2. Историко-тектоническая схема Восточно-Европейской платформы
+= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
+сайт в разработке 
 :imagesdir: images
-:icons: font
 
-// Хлебные крошки
-https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)] / Задание №2
 
-'''
+[link=https://mgri-university.github.io/reggeo/index.html]
+image::emb2010.jpg[На главную страницу] 
+
+[sidebar]
+https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние Платформы)]
+
 
 === Задание 2. Историко-тектоническая схема Восточно-Европейской платформы
 ****
@@ -32,10 +35,9 @@ https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / https
 |===
 ****
 
-'''
+''''
+https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
 
-https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
+''''
 
-'''
-
-_Почта для связи:_ samohvalovsa@mgri.ru
+почта для связи samohvalovsa@mgri.ru

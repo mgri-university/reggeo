@@ -1,17 +1,18 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Основы геокартирования нефтегазоносных объектов
 :imagesdir: images
+:icons: font
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Основы геокартирования нефтегазоносных объектов
 
-=Основы геокартирования нефтегазоносных объектов 
+'''
 
+_Страница находится в разработке._
 
+'''
 
-''''
-https://mgri-university.github.io/reggeo/index.html[На Главную страницу]
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
 
-''''
+'''
 
-почта для связи samohvalovsa@mgri.ru
+_Почта для связи:_ samohvalovsa@mgri.ru

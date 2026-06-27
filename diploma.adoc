@@ -1,38 +1,50 @@
-= https://mgri-university.github.io/reggeo/index.html[Кафедра Палеонтологии и Региональной Геологии МГРИ]
-сайт в разработке 
+= Дипломное проектирование
+:toc: left
+:toc-title: Содержание
+:toclevels: 2
 :imagesdir: images
-:toc: preamble
-:toc-title: Оглавление
-:toclevels: 2 
+:icons: font
+:sectanchors:
+:sectlinks:
 
-[link=https://mgri-university.github.io/reggeo/index.html]
-image::emb2010.jpg[На главную страницу] 
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Дипломное проектирование
 
-[sidebar]
-https://mgri-university.github.io/reggeo/index.html[Главная страница] / https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
+'''
 
-== Справочные материалы 
+== Справочные материалы
+
+[%autowidth, cols="^1,2,4,^1", options="header"]
+|===
+|№ |Тип |Название |Файл
+
+|1
+|Инструкция
+|Инструкция по составлению и подготовке к изданию листов государственной геологической карты Российской Федерации масштаба 1:200000
+|http://www.geokniga.org/books/405[Скачать с geokniga.org] +
+https://disk.yandex.ru/i/T2sd5eimN3oI8g[Скачать с Яндекс Диска]
+
+|2
+|Методические указания
+|Методические указания по выполнению дипломной работы для студентов специальности 0806 «Прикладная геохимия, минералогия и петрология»
+|https://mgri-university.github.io/reggeo/images/diploma/Methodological_Diploma.doc[Скачать]
+
+|3
+|Кодекс
+|Стратиграфический кодекс России. 2019
+|https://vsegei.ru/ru/about/msk/sc_2019.pdf[Скачать с сайта ВСЕГЕИ]
+
+|4
+|Кодекс
+|Петрографический кодекс России. 2008 г.
+|https://www.geokniga.org/books/15382[Скачать]
 
 |===
-|№	|тип |Название	|ссылка	
 
-|1|Инструкция| Инструкция по составлению и подготовке к изданию листов государственной геологической карты Российской Федерации масштаба 1:200000 geokniga | http://www.geokniga.org/books/405[скачать]
-https://disk.yandex.ru/i/T2sd5eimN3oI8g[скачать с яндекс диска]
+'''
 
-|2|МЕТОДИЧЕСКИЕ УКАЗАНИЯ|МЕТОДИЧЕСКИЕ УКАЗАНИЯ
-по выполнению дипломной работы для студентов специальности 0806 «Прикладная геохимия, минералогия и петрология»
-|https://mgri-university.github.io/reggeo/images/diploma/Methodological_Diploma.doc[скачать]
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
 
-|3|кодекс|СТРАТИГРАФИЧЕСКИЙ
-КОДЕКС РОССИИ 2019|https://vsegei.ru/ru/about/msk/sc_2019.pdf[скачать с сайта ВСЕГЕИ]
+'''
 
-
-
-
-|4|кодекс|Петрографический кодекс России. 2008г.|https://www.geokniga.org/books/15382[скачать]
-//методичка по диплому
-
-//кодекс петрографический, стратиграфический всегеи
-
-
-|===
+_Почта для связи:_ samohvalovsa@mgri.ru
