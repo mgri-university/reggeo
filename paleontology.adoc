@@ -1,8 +1,11 @@
 = Палеонтология
 :imagesdir: images
+:favicon: images/emb2010_fav.jpg
 :icons: font
 :sectanchors:
 :sectlinks:
+
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Палеонтология*
 
 // Хлебные крошки
 https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Палеонтология

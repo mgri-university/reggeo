@@ -3,7 +3,10 @@
 :toc-title: Оглавление
 :toclevels: 2
 :imagesdir: images
+:favicon: images/emb2010_fav.jpg
 :icons: font
+
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Задание №3*
 
 // Хлебные крошки
 https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / https://mgri-university.github.io/reggeo/regiongeol-1.html[Региональная геология (Древние платформы)] / Задание №3

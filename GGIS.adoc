@@ -1,6 +1,9 @@
 = Горно-геологические информационные системы
 :imagesdir: images
+:favicon: images/emb2010_fav.jpg
 :icons: font
+
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Горно-геологические информационные системы*
 
 // Хлебные крошки
 https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Горно-геологические информационные системы

@@ -3,9 +3,12 @@
 :toc-title: Содержание
 :toclevels: 2
 :imagesdir: images
+:favicon: images/emb2010_fav.jpg
 :icons: font
 :sectanchors:
 :sectlinks:
+
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Учебники и учебные пособия*
 
 // Хлебные крошки
 https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Учебники и учебные пособия
