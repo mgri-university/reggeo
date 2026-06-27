@@ -3,12 +3,13 @@
 :toc-title: Содержание
 :toclevels: 3
 :imagesdir: images
+:favicon: images/emb2010_fav.jpg
 :icons: font
 :sectanchors:
 :sectlinks:
 
 // Хлебные крошки
-image:emb2010.jpg[Лого кафедры,32,32,link=https://mgri-university.github.io/reggeo/index.html] https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Региональная геология (Древние платформы)
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Региональная геология (Древние платформы)
 
 '''
 
