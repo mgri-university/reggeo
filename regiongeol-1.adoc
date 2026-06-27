@@ -8,7 +8,7 @@
 :sectanchors:
 :sectlinks:
 
-image:emb2010_fav.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Региональная геология (Древние платформы)*
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Региональная геология (Древние платформы)*
 
 // Хлебные крошки
 https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Региональная геология (Древние платформы)
