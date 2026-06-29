@@ -8,13 +8,7 @@
 :sectanchors:
 :sectlinks:
 
-image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Кафедра Палеонтологии и Региональной Геологии МГРИ*
-
-'''
-
-== О кафедре
-
-Кафедра Палеонтологии и Региональной Геологии МГРИ.
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Добро пожаловать на сайт Кафедры Палеонтологии и Региональной Геологии МГРИ*
 
 '''
 
@@ -24,14 +18,11 @@ https://mgri-university.github.io/reggeo/raspisanie.html[Расписание к
 
 https://mgri-university.github.io/reggeo/kyrsi.html[Учебные дисциплины и рабочие программы]
 
-'''
-
 == Другие разделы сайта
 
 * https://mgri-university.github.io/reggeo/diploma.html[Дипломное проектирование]
 * https://mgri-university.github.io/reggeo/okafedre.html[О кафедре]
 * https://mgri-university.github.io/reggeo/references.html[Полезные ссылки]
-* https://mgri-university.github.io/reggeo/conf.html[Конференции]
 * https://mgri-university.github.io/reggeo/posobia.html[Учебники и учебные пособия]
 
 '''
