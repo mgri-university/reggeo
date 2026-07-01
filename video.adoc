@@ -1,0 +1,116 @@
+= Видеоматериалы кафедры
+:imagesdir: images
+:favicon: images/emb2010_fav.jpg
+:icons: font
+
+image:emb2010.jpg[Лого кафедры,40,40,link=https://mgri-university.github.io/reggeo/index.html] *Видеоматериалы кафедры*
+
+// Хлебные крошки
+https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Видеоматериалы кафедры
+
+'''
+
+== Видеоматериалы кафедры
+
+++++
+<style>
+:root {
+  --ta-accent: #2B5BA8;
+  --ta-border: #DDD8CC;
+  --ta-muted: #6B6B6B;
+  --ta-r: 4px;
+}
+#ta-app * { box-sizing: border-box; }
+#ta-app { font-family: 'Segoe UI', system-ui, sans-serif; color: #1A1A1A; margin: 1rem 0; }
+
+.ta-bar { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: .75rem; align-items: center; }
+.ta-search {
+  flex: 1 1 180px; padding: .45rem .7rem;
+  border: 1px solid var(--ta-border); border-radius: var(--ta-r);
+  font-size: .875rem; outline: none;
+}
+.ta-search:focus { border-color: var(--ta-accent); }
+
+.ta-stats { font-size: .8rem; color: var(--ta-muted); margin-bottom: .6rem; }
+.ta-stats b { color: #1A1A1A; }
+
+.ta-wrap { border: 1px solid var(--ta-border); border-radius: var(--ta-r); overflow: hidden; }
+table.ta-tbl { width: 100%; border-collapse: collapse; font-size: .85rem; background: #fff; }
+.ta-tbl thead th {
+  background: #F0EDE6; padding: .55rem .75rem; text-align: left;
+  font-size: .72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .05em; color: var(--ta-muted);
+  border-bottom: 1px solid var(--ta-border);
+}
+.ta-tbl tbody tr { border-bottom: 1px solid var(--ta-border); }
+.ta-tbl tbody tr:last-child { border-bottom: none; }
+.ta-tbl tbody tr:hover { background: #FAF9F6; }
+.ta-tbl td { padding: .6rem .75rem; vertical-align: middle; line-height: 1.4; }
+.td-n { width: 3rem; font-size: .78rem; color: var(--ta-muted); font-family: monospace; }
+.td-l { width: 10rem; }
+.ta-link {
+  color: var(--ta-accent); text-decoration: none; font-weight: 600;
+  display: inline-flex; align-items: center; gap: .3rem;
+}
+.ta-link:hover { text-decoration: underline; }
+.ta-link::before { content: "▶"; font-size: .7rem; }
+.ta-empty { padding: 2rem; text-align: center; color: var(--ta-muted); font-size: .85rem; }
+</style>
+
+<div id="ta-app">
+  <div class="ta-bar">
+    <input class="ta-search" id="ta-q" type="text" placeholder="Поиск по названию или номеру…" oninput="taRender()">
+  </div>
+  <div class="ta-stats" id="ta-stats"></div>
+  <div id="ta-out"></div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════
+// ВИДЕОМАТЕРИАЛЫ — заполните массив:
+//   [номер, "Название видео", "ссылка"]
+// ═══════════════════════════════════════════════════════
+const VIDEOS = [
+  [1, "Название видео 1", "https://youtube.com/..."],
+  [2, "Название видео 2", "https://youtube.com/..."],
+  [3, "Название видео 3", "https://youtube.com/..."]
+  // ← добавляйте новые строки
+];
+// ═══════════════════════════════════════════════════════
+
+function taRender() {
+  const q = (document.getElementById('ta-q').value||'').toLowerCase();
+  const vis = VIDEOS.filter(([n, title]) => {
+    if (q && !title.toLowerCase().includes(q) && !String(n).includes(q)) return false;
+    return true;
+  });
+  const tot = VIDEOS.length;
+  document.getElementById('ta-stats').innerHTML =
+    `Всего видео: <b>${tot}</b>` + (q ? ` · Найдено: <b>${vis.length}</b>` : '');
+  const out = document.getElementById('ta-out');
+  if (!vis.length) {
+    out.innerHTML = '<div class="ta-wrap"><div class="ta-empty">Ничего не найдено.</div></div>';
+    return;
+  }
+  out.innerHTML = `<div class="ta-wrap"><table class="ta-tbl">
+    <thead><tr><th>№</th><th>Название</th><th>Ссылка</th></tr></thead>
+    <tbody>${vis.map(([n, title, url])=>`
+      <tr>
+        <td class="td-n">${n}</td>
+        <td>${title}</td>
+        <td class="td-l"><a class="ta-link" href="${url}" target="_blank" rel="noopener">Смотреть</a></td>
+      </tr>`).join('')}
+    </tbody></table></div>`;
+}
+
+taRender();
+</script>
+++++
+
+'''
+
+https://mgri-university.github.io/reggeo/index.html[← На главную страницу]
+
+'''
+
+_Почта для связи:_ samohvalovsa@mgri.ru
