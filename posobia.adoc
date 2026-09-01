@@ -15,7 +15,7 @@ https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Уч�
 
 '''
 
-== Материалы по курсу Геотектоники
+== Геотектоника и геодинамика
 
 [%autowidth, cols="^1,2,4,^1", options="header"]
 |===
@@ -75,7 +75,7 @@ https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / Уч�
 
 '''
 
-== Материалы по курсу Региональной геологии
+== Региональная геология
 
 [%autowidth, cols="^1,2,4,^1", options="header"]
 |===
@@ -168,7 +168,7 @@ https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USS
 
 '''
 
-== Учебные материалы по курсу Исторической геологии
+== Историческая геология
 
 [%autowidth, cols="^1,2,4,^1", options="header"]
 |===
@@ -244,7 +244,7 @@ https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USS
 
 '''
 
-== Учебные материалы по курсу «Историческая геология с основами палеонтологии»
+== Историческая геология с основами палеонтологии
 
 [%autowidth, cols="^1,2,4,^1", options="header"]
 |===
@@ -294,7 +294,7 @@ https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USS
 
 '''
 
-== Учебные материалы по курсу Формационного анализа
+== Формационный анализ
 
 [%autowidth, cols="^1,2,4,^1", options="header"]
 |===
@@ -319,7 +319,7 @@ https://mgri-university.github.io/reggeo/images/regiongeo/Ultra_light_geomap_USS
 
 '''
 
-== Учебные материалы по курсу «Горно-геологические геоинформационные системы» (ГГИС)
+== Горно-геологические геоинформационные системы (ГГИС)
 
 [%autowidth, cols="^1,2,4,^1", options="header"]
 |===
