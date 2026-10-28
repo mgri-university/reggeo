@@ -33,7 +33,7 @@ https://disk.yandex.com/i/8zhnsyKaBekOGw[Скачать с Яндекс диск
 
 |6|карты|Географическая карта Европейской части РСФСР |https://mgri-university.github.io/reggeo/images/regiongeo/detailed-physical-map-of-the-European-part-of-Russia.jpg[Скачать]
 
-|7|карты |Геологическая карта России, увязанная с материалами по странам СНГ. Масштаб 1:2500000. 2008 г. Главный редактор О.В. Петров|https://vsegei.ru/ru/info/gis_cis/geo.php[на сайт ВСЕГЕИ]
+|7|карты |Международная геологическая карта Азии (IGMA5000) ВСЕГЕИ, редакции 2012 и 2013 гг.|https://cis-geology.ru/activity/cis_maps/igma5000/index.php[на сайт ВСЕГЕИ]
 
 |8|карты |Геологическая карта СССР и прилегающих акваторий. Масштаб: 1:2500000. 1983 г. Главный редактор Д.В. Наливкин.|http://neotec.ginras.ru/neomaps/M025_Union_1983_Geology_Geologicheskaya-karta-sssr-i-prilegayushchih-akvatoriy.html[на сайт ГИН РАН]
 
