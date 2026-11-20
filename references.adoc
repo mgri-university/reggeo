@@ -31,6 +31,9 @@ https://mgri-university.github.io/reggeo/index.html[🏠 Главная] / По�
 |LLNL-G3Dv3: Global P wave tomography model for improved regional and teleseismic travel time prediction. N. A. Simmons, S. C. Myers, G. Johannesson, E. Matzel
 |https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009525[Перейти на сайт]
 
+|Использование двухмерной (2D) интерполяции в оценке запасов
+|https://aiom-tech.ru/2d_interpoletion
+
 |===
 
 '''
